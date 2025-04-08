@@ -1,7 +1,5 @@
 # 🌿 **GitHub Flow Paso a Paso** 🌿
 
-Aquí te explico el flujo detallado con iconos y formato bonito ✨:
-
 ---
 
 ## 1. **Crear una Rama por Cada Issue** 🛠️
@@ -17,14 +15,15 @@ git checkout -b feature/123-nombre-del-issue
 
 ## 2. **Realizar Cambios y Commits** 📝
 
-Usa [**Conventional Commits**](https://www.conventionalcommits.org/en/v1.0.0/) para mensajes claros:  
- - `feat`: Nueva funcionalidad.  
- - `fix`: Corrección de errores.  
- - `docs`: Cambios en documentación.  
- - `style`: Ajustes de formato (sin afectar código).  
- - `refactor`: Mejoras de código sin cambiar funcionalidad.  
- - `test`: Añadir o modificar tests.  
- - `chore`: Tareas de mantenimiento (ej: dependencias).
+Usa [**Conventional Commits**](https://www.conventionalcommits.org/en/v1.0.0/) para mensajes claros:
+
+- `feat`: Nueva funcionalidad.
+- `fix`: Corrección de errores.
+- `docs`: Cambios en documentación.
+- `style`: Ajustes de formato (sin afectar código).
+- `refactor`: Mejoras de código sin cambiar funcionalidad.
+- `test`: Añadir o modificar tests.
+- `chore`: Tareas de mantenimiento (ej: dependencias).
 
 **Ejemplo de commit**:
 
