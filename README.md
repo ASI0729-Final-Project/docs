@@ -186,3 +186,19 @@ El User Task Matrix identifica las tareas que cada arquetipo debe realizar para 
 </tr>
 </tbody>
 </table>
+
+### User Journey Mapping
+
+El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Persona sin contar con la solución propuesta, identificando puntos de dolor y momentos clave.
+
+#### Estudiante pasajero
+
+![Estudiante pasajero](./imgs/jm-estudiante.png)
+
+#### Estudiante conductor
+
+![Estudiante conductor](./imgs/jm-estudiante-conductor.png)
+
+#### Familiar de estudiante
+
+![Familiar de estudiante](./imgs/jm-familiar.png)
