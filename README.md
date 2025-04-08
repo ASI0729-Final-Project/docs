@@ -202,3 +202,17 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 #### Familiar de estudiante
 
 ![Familiar de estudiante](./imgs/jm-familiar.png)
+
+### 2.3.4. Empathy Mapping
+
+#### Estudiante pasajero
+
+![Estudiante pasajero](./imgs/em-estudiante.png)
+
+#### Estudiante conductor
+
+![Estudiante conductor](./imgs/em-estudiante-conductor.png)
+
+#### Familiar de estudiante
+
+![Familiar de estudiante](./imgs/em-familiar.png)
