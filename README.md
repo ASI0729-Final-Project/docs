@@ -100,4 +100,8 @@ Recoger informacion sobre las necesidades , expectativas y posibles preocupacion
 
 #### Estudiante conductor
 
+![Estudiante conductor](./imgs/carlos-estudiante-conductor.png)
+
 #### Familiar de estudiante
+
+![Familiar de estudiante](./imgs/javier-familiar-conductor.png)
