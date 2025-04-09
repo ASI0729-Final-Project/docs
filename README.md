@@ -277,6 +277,76 @@ Análisis de seguridad básica: Investigar brevemente las principales preocupaci
 
 Análisis competitivo: Examinar rápidamente las plataformas o aplicaciones existentes para transporte escolar y aprender de sus características clave, sin realizar un análisis exhaustivo de cada una.
 
+## 1.3. Segmentos Objetivo
+
+**Segmento 1: Estudiantes sin vehículo**
+
+Características Demográficas:
+
+Edad: Igual y mayor a 16 años
+
+Nacionalidad: Peruana
+
+Ubicación: Áreas urbanas cercanas a instituciones educativas.
+
+Nivel educativo: Principalmente estudiantes de las universidades
+
+Intereses: Transporte accesible, puntualidad, comodidad, seguridad.
+
+Características Psicográficas:
+
+Estudiantes que no tienen vehículo propio o que desean reducir los costos de transporte.
+
+Buscan opciones de transporte más económicas y convenientes.
+
+Valoran la accesibilidad a servicios que les permitan coordinar viajes fácilmente y sin complicaciones.
+
+
+**Segmento 2: Estudiantes con vehículo**
+
+Características Demográficas:
+
+Edad: Igual y mayor de 18 años
+
+Nacionalidad: Peruana.
+
+Ubicación: Zonas urbanas especialmente cercanas a universidades 
+
+Nivel educativo: Estudiantes universitarios 
+
+Intereses: Opciones de estacionamiento seguro, eficiencia en el uso del vehículo, comodidad y ahorro en transporte.
+
+Características Psicográficas:
+
+Estudiantes que poseen un vehículo y están dispuestos a compartirlo para reducir los costos de transporte.
+
+Buscan formas de generar ingresos adicionales o reducir los gastos de combustible.
+
+Valoran las ventajas de compartir viajes con otros estudiantes y la posibilidad de crear una comunidad dentro de la universidad.
+
+**Segmento 3: Familiares de los estudiantes**
+
+Características Demográficas:
+
+Edad: 20-40 años
+
+Nacionalidad: Peruana
+
+Ubicación: Áreas urbanas
+
+Nivel educativo: Desde educación universitaria
+
+Intereses: Seguridad de los estudiantes, transporte eficiente y cómodo para los hijos, monitoreo de desplazamientos.
+
+Características Psicográficas:
+
+Buscan garantizar la seguridad de los estudiantes durante sus traslados.
+
+Valoran la posibilidad de hacer un seguimiento de los viajes en tiempo real y recibir notificaciones sobre el estado del viaje.
+
+Están interesados en asegurarse de que sus hijos o familiares lleguen a la universidad de forma segura.
+
+
 # Requirements Elicitation & Analysis
 
 ## Entrevistas
