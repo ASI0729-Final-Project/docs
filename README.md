@@ -14,7 +14,7 @@ Este producto está diseñado principalmente para estudiantes, familiares del es
 
 Nuestra misión es transformar la forma en que los estudiantes se movilizan en Perú, brindándoles una solución tecnológica que les permita acceder a un sistema de transporte compartido, seguro, accesible y solidario. Buscamos promover la seguridad estudiantil y contribuir a un futuro más seguro, conectado y sostenible.
 
-**Visión**
+**Visión** 
 
 Nuestra visión es posicionarnos como una startup líder en seguridad de transporte para universidades en Perú. Aspiramos a construir y promover un entorno donde los estudiantes puedan acceder fácilmente a una movilidad segura, eficiente, confiable y colaborativa.
 
