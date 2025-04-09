@@ -1,3 +1,23 @@
+# Capítulo I: Introducción
+## 1.1. Startup Profile 
+En esta sección se describen los detalles del problema que buscamos resolver. Se detalla el perfil de la startup, el mercado objetivo, y se presentan la misión y visión. Asimismo, se expone una visión atractiva del equipo, resaltando su potencial en función de las habilidades y capacidades de cada integrante. 
+
+### 1.1.1. Descripción de la Startup 
+
+TinkuyTech es una startup tecnológica dedicada a mejorar la seguridad de transporte de los estudiantes en Perú. Nuestra empresa ofrece un nuevo producto llamado ÑanGo, una aplicación web diseñada específicamente para los estudiantes. ÑanGo conecta a estudiantes que cuentan con movilidad propia con aquellos que buscan transporte para ir a la universidad. Los usuarios pueden coordinar rutas, compartir gastos y optimizar su tiempo de desplazamiento, contribuyendo así al bienestar y la eficiencia del viaje.
+
+Para ello, desarrollaremos una plataforma interactiva, y así los estudiantes pueden visualizar y coordinar rutas compartidas hacia la universidad, recibir recomendaciones de rutas en tiempo real, optimizar los costos de transporte y reducir el tiempo de desplazamiento, mejorando así la eficiencia general del viaje. Esto hace que la aplicación sea aún más viable y útil para los estudiantes.
+
+Este producto está diseñado principalmente para estudiantes, familiares del estudiante y universidades que priorizan la seguridad y buscan una alternativa de transporte más práctico para su vida diaria.
+
+**Misión**
+
+Nuestra misión es transformar la forma en que los estudiantes se movilizan en Perú, brindándoles una solución tecnológica que les permita acceder a un sistema de transporte compartido, seguro, accesible y solidario. Buscamos promover la seguridad estudiantil y contribuir a un futuro más seguro, conectado y sostenible.
+
+**Visión** 
+
+Nuestra visión es posicionarnos como una startup líder en seguridad de transporte para universidades en Perú. Aspiramos a construir y promover un entorno donde los estudiantes puedan acceder fácilmente a una movilidad segura, eficiente, confiable y colaborativa.
+
 # Requirements Elicitation & Analysis
 
 ## Entrevistas
