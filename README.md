@@ -108,12 +108,18 @@ Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Est
 **Figura 2:** Robo de vehículos según SIDPOL
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img2.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
+
 ***Nota:**  Gráfico N.º 1.6. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.*
 **Fuente:** Instituto Nacional de Estadística e Informática (2024)
 
 Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (como se cita en Instituto Nacional de Estadística e Informática, 2024), nos da un cuadro comparativo donde uno de los delitos genérico más evidenciados en Perú es contra la seguridad Pública. Esto significa ese sector es el más vulnerable porque esas son la cantidad de denuncias por comisión de delitos.
 
 El incremento de los robos de vehículos en Lima Metropolitana, evidenciado por las estadísticas de la Policía Nacional del Perú y el Ministerio del Interior, subraya la urgente necesidad de soluciones de movilidad más seguras. En este contexto, el proyecto Ñanjo ofrece una alternativa valiosa para los universitarios, permitiendo compartir transporte de manera eficiente y segura. Al promover una red de movilidad compartida entre estudiantes, se podría reducir la exposición a riesgos asociados con el uso individual de vehículos, contribuyendo así a la disminución de robos y mejorando la seguridad en los desplazamientos urbanos.
+
+### 1.2.2 Lean UX Process.
+La metodología Lean UX se enfoca en el usuario y en la validación constante de soluciones frente a una problemática. Tras identificar la necesidad, consideramos adecuado aplicar esta metodología para diseñar una solución que sea relevante y efectiva.
+
+
 
 
 # Requirements Elicitation & Analysis
