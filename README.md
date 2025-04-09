@@ -1,8 +1,10 @@
 # Capítulo I: Introducción
-## 1.1. Startup Profile 
-En esta sección se describen los detalles del problema que buscamos resolver. Se detalla el perfil de la startup, el mercado objetivo, y se presentan la misión y visión. Asimismo, se expone una visión atractiva del equipo, resaltando su potencial en función de las habilidades y capacidades de cada integrante. 
 
-### 1.1.1. Descripción de la Startup 
+## 1.1. Startup Profile
+
+En esta sección se describen los detalles del problema que buscamos resolver. Se detalla el perfil de la startup, el mercado objetivo, y se presentan la misión y visión. Asimismo, se expone una visión atractiva del equipo, resaltando su potencial en función de las habilidades y capacidades de cada integrante.
+
+### 1.1.1. Descripción de la Startup
 
 TinkuyTech es una startup tecnológica dedicada a mejorar la seguridad de transporte de los estudiantes en Perú. Nuestra empresa ofrece un nuevo producto llamado ÑanGo, una aplicación web diseñada específicamente para los estudiantes. ÑanGo conecta a estudiantes que cuentan con movilidad propia con aquellos que buscan transporte para ir a la universidad. Los usuarios pueden coordinar rutas, compartir gastos y optimizar su tiempo de desplazamiento, contribuyendo así al bienestar y la eficiencia del viaje.
 
@@ -14,7 +16,7 @@ Este producto está diseñado principalmente para estudiantes, familiares del es
 
 Nuestra misión es transformar la forma en que los estudiantes se movilizan en Perú, brindándoles una solución tecnológica que les permita acceder a un sistema de transporte compartido, seguro, accesible y solidario. Buscamos promover la seguridad estudiantil y contribuir a un futuro más seguro, conectado y sostenible.
 
-**Visión** 
+**Visión**
 
 Nuestra visión es posicionarnos como una startup líder en seguridad de transporte para universidades en Perú. Aspiramos a construir y promover un entorno donde los estudiantes puedan acceder fácilmente a una movilidad segura, eficiente, confiable y colaborativa.
 
@@ -40,58 +42,79 @@ Ante esta situación, surge la necesidad de una solución tecnológica que permi
 Para analizar la problemática, se utilizó la técnica de las 5 "W" y 2 "H":
 
 **WHAT**
+
 **¿Cuál es el problema?**
+
 Los servicios de transporte actuales en el Perú presentan serias deficiencias relacionadas con la inseguridad ciudadana. Los constantes actos delictivos, como robos, asaltos y extorsiones a conductores, exponen a los estudiantes a situaciones de riesgo. Esto ha generado desconfianza y una necesidad urgente de contar con un servicio de transporte confiable, accesible y seguro.
 
 **¿Cuál es la relación con la persona en cuestión?**
+
 Este problema afecta directamente a los estudiantes, quienes buscan llegar a sus destinos académicos de manera segura y asequible. La falta de opciones seguras y económicas genera estrés, miedo y limita su libertad de movilidad.
 
 **WHEN**
+
 **¿Cuándo sucede el problema?**
+
 El problema surge diariamente en las calles de Lima, especialmente en horarios de entrada y salida de universidades. Durante estos momentos, las rutas cercanas a los centros educativos se convierten en puntos críticos por la presencia de delincuentes que buscan aprovechar el tráfico.
 
 **¿Cuándo utiliza el cliente el producto?**
+
 Los usuarios usarán la plataforma de ÑanGo antes de las clases, para programar y coordinar viajes compartidos con otros estudiantes. De esta manera, se reducirá los tiempos de espera y optimizando la movilidad diaria.
 
 **WHERE**
+
 **¿Dónde está el cliente cuando usa el producto?**
+
 Los usuarios podrán acceder a ÑanGo desde sus casas, centros de estudio o cualquier otro lugar con acceso a internet. Esto les permitirá reservar un auto y coordinar el recojo en puntos específicos y planificar su ruta junto a otros estudiantes verificados.
 
 **¿A dónde se dirige?**
+
 Los usuarios utilizan ÑanGo para planificar rutas a la universidad, evitando zonas con alto tráfico, optimizando el tiempo de viaje y compartiendo los costos con otros estudiantes de su misma universidad.
 
 **¿Dónde surge el problema?**
+
 El problema se presenta en calles y avenidas de Lima y otras ciudades universitarias, donde el transporte informal, falsos taxistas, la congestión y la delincuencia generan un entorno poco seguro para los jóvenes estudiantes.
 
 **WHO**
+
 **¿Quiénes están involucrados?**
+
 Los principales involucrados son los estudiantes universitarios,ellos pueden participar tanto como pasajeros también como conductores. Quienes buscan movilizarse de forma segura ofreciendo sus vehículos para compartir viajes y reducir costos. Además, están involucrados los padres de familia, preocupados por la seguridad de sus hijos, y las universidades, que podrían fomentar el uso de esta herramienta como una solución para mejorar la movilidad y seguridad de su comunidad estudiantil.
 
 **¿A quiénes le sucede el problema?**
+
 El problema le sucede directamente a los estudiantes universitarios, principalmente aquellos que deben trasladarse desde zonas lejanas o vulnerables, y que dependen del transporte público para llegar a sus universidades.
 
 **¿Quién lo utilizará?**
+
 Lo utilizará los estudiantes registrados que deseen compartir viajes con compañeros de confianza. También podrán usarlo aquellos que tengan vehículo propio y deseen reducir sus gastos ofreciendo rutas seguras a otros estudiantes.
 
 **WHY**
+
 **¿Cuál es la causa del problema?**
+
 La causa principal es la falta de un sistema de transporte seguro, regulado y confiable para los estudiantes universitarios. La informalidad del servicio de taxis, la escasa presencia policial en zonas clave, y la falta de tecnología para coordinar viajes seguros agravan esta situación. Además, los costos elevados de movilidad individual hacen que muchos opten por opciones más económicas pero menos seguras.
 
 **HOW**
+
 **¿En qué condiciones los clientes usan nuestro producto?**
+
 Los estudiantes utilizan ÑanGo principalmente en condiciones de alta demanda de transporte, como horas punta, zonas alejadas, o lugares con alto índice delictivo. Usan la aplicación para coordinar de manera segura sus rutas, ahorrar dinero al compartir gastos y tener la tranquilidad de movilizarse con otros estudiantes verificados.
 
 **¿Cómo nos conocieron los compradores?**
+
 Los usuarios pueden conocer ÑanGo a través de campañas de concientización en redes sociales, alianzas con universidades, y mediante recomendaciones Word of Mout (de boca a boca) entre estudiantes.
 
 **¿Cómo prefieren los lectores acceder a nuestro contenido?**
+
 Los estudiantes prefieren acceder a nuestro contenido de manera digital, desde la aplicación móvil o página web. Valoran las notificaciones instantáneas, mapas interactivos, perfiles verificados y recomendaciones de seguridad dentro de la plataforma.
 
 **¿Qué llevó a la persona a llegar a esta situación?**
+
 La persona llegó a esta situación debido al aumento de la delincuencia y los altos costos del transporte privado. Esta necesidad de sentirse protegidos, moverse sin temor, y no gastar excesivamente llevó a los estudiantes a buscar una solución como ÑanGo, que responde tanto a la seguridad como a la economía.
 
-
 **HOW MUCH**
+
 Incluir estadísticas que sustenten la problemática
 
 Con el objetivo de sustentar la necesidad de implementar una solución de movilidad compartida más segura, se consultaron las estadísticas proporcionadas por la Policía Nacional del Perú y el Ministerio del Interior. A través de gráficos, se muestran los altos índices de robos de vehículos en Lima Metropolitana, lo que resalta la urgencia de tomar medidas preventivas.
@@ -100,7 +123,7 @@ Con el objetivo de sustentar la necesidad de implementar una solución de movili
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img1.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
 
-***Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.*
+**\*Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.\*
 **Fuente:** Instituto Nacional de Estadística e Informática(2024)
 
 Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Estadística e Informática, 2024), en el trimestre abril-junio de 2024 se registraron 1,816 denuncias por robo de vehículos en Lima Metropolitana, lo cual representa el 25,6 % del total nacional. Esta cifra equivale a aproximadamente 20 vehículos robados por día en esta ciudad, siendo los distritos más afectados Villa El Salvador (224 denuncias), San Juan de Lurigancho (190) y Carabayllo (152).
@@ -109,7 +132,7 @@ Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Est
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img2.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
 
-***Nota:**  Gráfico N.º 1.6. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.*
+**\*Nota:** Gráfico N.º 1.6. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.\*
 **Fuente:** Instituto Nacional de Estadística e Informática (2024)
 
 Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (como se cita en Instituto Nacional de Estadística e Informática, 2024), nos da un cuadro comparativo donde uno de los delitos genérico más evidenciados en Perú es contra la seguridad Pública. Esto significa ese sector es el más vulnerable porque esas son la cantidad de denuncias por comisión de delitos.
@@ -117,9 +140,11 @@ Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (
 El incremento de los robos de vehículos en Lima Metropolitana, evidenciado por las estadísticas de la Policía Nacional del Perú y el Ministerio del Interior, subraya la urgente necesidad de soluciones de movilidad más seguras. En este contexto, el proyecto Ñanjo ofrece una alternativa valiosa para los universitarios, permitiendo compartir transporte de manera eficiente y segura. Al promover una red de movilidad compartida entre estudiantes, se podría reducir la exposición a riesgos asociados con el uso individual de vehículos, contribuyendo así a la disminución de robos y mejorando la seguridad en los desplazamientos urbanos.
 
 ### 1.2.2 Lean UX Process.
+
 La metodología Lean UX se enfoca en el usuario y en la validación constante de soluciones frente a una problemática. Tras identificar la necesidad, consideramos adecuado aplicar esta metodología para diseñar una solución que sea relevante y efectiva.
 
 #### 1.2.2.1. Lean UX Problem Statements
+
 En el Perú, la inseguridad ciudadana es una problemática creciente que afecta gravemente al sistema de transporte, especialmente en zonas urbanas como Lima. Esta situación representa un riesgo constante para los estudiantes, quienes se ven expuestos a robos, asaltos y extorsiones al utilizar medios de transporte público o informal.
 
 Hemos identificado que uno de los principales desafíos que enfrentan los estudiantes es la falta de un sistema de transporte seguro, confiable y accesible, que además permita compartir gastos y rutas con personas de confianza. Esta carencia genera temor, estrés e incertidumbre, afectando su calidad de vida y su rendimiento académico.
@@ -128,9 +153,10 @@ La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los
 
 ¿Cómo podríamos diseñar una solución que les brinde a los estudiantes una forma de transporte segura, económica y compartida, utilizando tecnología para conectar a compañeros verificados y optimizar sus rutas diarias, promoviendo así la confianza y la protección en sus desplazamientos?
 
-
 #### 1.2.2.2. Lean UX Assumptions
+
 **Business Assumptions**
+
 1. Creemos que nuestros clientes necesitan una aplicación que les permita movilizarse de manera segura, confiable y económica, compartiendo viajes con otros estudiantes verificados.
 
 2. Esta necesidad se puede cubrir mediante una aplicación que integre validación de usuarios, rutas seguras, y un sistema de reparto de gastos entre pasajeros.
@@ -152,25 +178,33 @@ La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los
 10. Será posible aumentar la satisfacción del cliente brindando asistencia técnica, soporte en ruta y recomendaciones de seguridad personalizadas.
 
 **User Assumptions**
+
 **1. ¿Quién es el usuario?**
+
 Estudiantes universitarios(como pasajeros o conductores) y familiares del estudiante, que necesitan trasladarse hacia sus instituciones educativas de forma segura y económica.
 
 **2. ¿Dónde encaja nuestro producto en su vida?**
+
 En su rutina diaria, cuando deben movilizarse a clases o regresar a casa, especialmente en horarios de alto riesgo.
 
 **3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
 Al tratarse de un nuevo sistema, los usuarios podrían tener dudas sobre la seguridad y confiabilidad del servicio. Para resolverlo, se harán campañas informativas, se promoverán testimonios, y se establecerán protocolos de seguridad visibles desde el primer uso.
 
 **4. ¿Cuándo y cómo es usado nuestro producto?**
+
 ÑanGo será utilizado antes de clases para coordinar viajes, compartir rutas y gastos. La app permitirá programar viajes con antelación y ver sugerencias de compañeros con trayectos similares.
 
 **5. ¿Qué características son importantes?**
+
 Verificación de identidad, calificación de usuarios, alertas de ruta, GPS en tiempo real, sistema de pago compartido, botón de emergencia, planificación de viajes y rutas seguras.
 
 **6. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
 Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, colores cálidos y botones de acción rápida. Debe responder con fluidez y ofrecer información clara sobre seguridad y confiabilidad del viaje.
 
-Features
+**Features**
+
 - Seguimiento del vehículo en tiempo real.
 
 - Optimización de rutas y horarios para reducir tiempos de viaje.
@@ -192,6 +226,7 @@ Features
 - Soporte técnico constante y actualizaciones de sistema para mejorar el rendimiento y la seguridad.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 - Creemos que los estudiantes podrán optimizar su tiempo y reducir costos de transporte si se implementa una funcionalidad que les permita coordinar viajes en grupo hacia la universidad a través de una plataforma que les conecte con otros estudiantes de su misma universidad. Sabremos que hemos tenido éxito cuando el 30% de los estudiantes utilicen regularmente la plataforma para coordinar viajes y que el 25% reporte una disminución en sus gastos de transporte mensual.
 
 - Creemos que los estudiantes reducirán su huella de carbono y contribuirán a la sostenibilidad si proporcionamos una opción fácil de coordinar viajes en vehículos compartidos, disminuyendo el número de autos individuales en las rutas comunes hacia las universidades. Sabremos que hemos tenido éxito cuando el 20% de los estudiantes reporten que han preferido la opción de compartir vehículo por encima de usar transporte público o privado.
@@ -199,7 +234,9 @@ Features
 - Creemos que los estudiantes podrán mejorar la accesibilidad y seguridad en sus traslados si ofrecemos un sistema de calificación y seguimiento de viajes compartidos, lo que proporcionará mayor confianza y control. Sabremos que hemos tenido éxito cuando al menos el 15% de los usuarios reporten mayor confianza y comodidad al utilizar la plataforma, y que el 20% mencionen que el sistema de calificación ha mejorado su experiencia de viaje.
 
 #### 1.2.2.4. Lean UX Canvas
+
 **1.Problema de negocios:**
+
 En las ciudades universitarias, los estudiantes enfrentan altos costos de transporte, congestión vehicular y preocupaciones por la sostenibilidad. Actualmente, no existe una solución eficiente y accesible para coordinar viajes compartidos, lo que genera un impacto negativo en los presupuestos de los estudiantes y en el medio ambiente.
 
 Ñango busca resolver esta problemática ofreciendo una plataforma para que los estudiantes puedan compartir viajes de manera segura y económica, y también involucra a familiares y universidades para brindar mayor apoyo y confianza en el proceso.
@@ -225,6 +262,7 @@ Estudiantes (choferes y pasajeros) y familiares de los estudiantes que buscan un
 **4.Beneficios del usuario:**
 
 Estudiantes (choferes y pasajeros):
+
 - Ahorro económico al compartir los gastos del transporte.
 
 - Conexión rápida y segura con compañeros de universidad para organizar viajes.
@@ -234,6 +272,7 @@ Estudiantes (choferes y pasajeros):
 - Mayor seguridad al viajar con estudiantes verificados.
 
 Familiares:
+
 - Posibilidad de movilizarse junto a sus hijos o con estudiantes verificados.
 
 - Seguimiento en tiempo real del trayecto.
@@ -259,6 +298,7 @@ Creemos que los familiares estarán más tranquilos si pueden realizar un seguim
 Creemos que las universidades estarán dispuestas a promover la plataforma si ven que contribuye a la sostenibilidad y el bienestar de sus estudiantes. Sabremos que hemos tenido éxito cuando al menos tres universidades se asocien con la plataforma y la promuevan entre sus estudiantes.
 
 **7.¿Qué es lo más importante que necesitamos aprender primero?**
+
 Zonas de alta demanda de transporte: Conocer las áreas con mayor necesidad de transporte estudiantil nos ayudará a priorizar rutas y recursos, garantizando un servicio eficiente.
 
 Necesidades específicas de los estudiantes y familias: Identificar las principales preocupaciones de los estudiantes (choferes y pasajeros) y sus familias, como seguridad, puntualidad o comodidad, permitirá ajustar los servicios a sus expectativas.
@@ -301,7 +341,6 @@ Buscan opciones de transporte más económicas y convenientes.
 
 Valoran la accesibilidad a servicios que les permitan coordinar viajes fácilmente y sin complicaciones.
 
-
 **Segmento 2: Estudiantes con vehículo**
 
 Características Demográficas:
@@ -310,9 +349,9 @@ Edad: Igual y mayor de 18 años
 
 Nacionalidad: Peruana.
 
-Ubicación: Zonas urbanas especialmente cercanas a universidades 
+Ubicación: Zonas urbanas especialmente cercanas a universidades
 
-Nivel educativo: Estudiantes universitarios 
+Nivel educativo: Estudiantes universitarios
 
 Intereses: Opciones de estacionamiento seguro, eficiencia en el uso del vehículo, comodidad y ahorro en transporte.
 
@@ -345,7 +384,6 @@ Buscan garantizar la seguridad de los estudiantes durante sus traslados.
 Valoran la posibilidad de hacer un seguimiento de los viajes en tiempo real y recibir notificaciones sobre el estado del viaje.
 
 Están interesados en asegurarse de que sus hijos o familiares lleguen a la universidad de forma segura.
-
 
 # Requirements Elicitation & Analysis
 
