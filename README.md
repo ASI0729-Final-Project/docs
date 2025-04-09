@@ -198,6 +198,85 @@ Features
 
 - Creemos que los estudiantes podrán mejorar la accesibilidad y seguridad en sus traslados si ofrecemos un sistema de calificación y seguimiento de viajes compartidos, lo que proporcionará mayor confianza y control. Sabremos que hemos tenido éxito cuando al menos el 15% de los usuarios reporten mayor confianza y comodidad al utilizar la plataforma, y que el 20% mencionen que el sistema de calificación ha mejorado su experiencia de viaje.
 
+#### 1.2.2.4. Lean UX Canvas
+**1.Problema de negocios:**
+En las ciudades universitarias, los estudiantes enfrentan altos costos de transporte, congestión vehicular y preocupaciones por la sostenibilidad. Actualmente, no existe una solución eficiente y accesible para coordinar viajes compartidos, lo que genera un impacto negativo en los presupuestos de los estudiantes y en el medio ambiente.
+
+Ñango busca resolver esta problemática ofreciendo una plataforma para que los estudiantes puedan compartir viajes de manera segura y económica, y también involucra a familiares y universidades para brindar mayor apoyo y confianza en el proceso.
+
+¿Cómo podemos desarrollar una plataforma que conecte a los estudiantes (choferes y pasajeros) de forma eficiente, permita el seguimiento de los viajes por parte de los familiares y cuente con el respaldo de las universidades?
+
+**2.Resultados comerciales:**
+
+- Reducción en los costos de transporte para los estudiantes.
+
+- Mayor seguridad percibida en los viajes gracias a las funcionalidades de calificación y seguimiento.
+
+- Aumento en la cantidad de viajes compartidos entre estudiantes.
+
+- Posicionamiento de ÑanGo como una alternativa confiable frente a otros medios de transporte.
+
+- Generación de ingresos a través de funciones premium o colaboraciones estratégicas.
+
+**3.Usuarios y Clientes:**
+
+Estudiantes (choferes y pasajeros) y familiares de los estudiantes que buscan una alternativa más económica, segura para llegar a la universidad. Los choferes tienen vehículos disponibles, mientras que los pasajeros buscan reducir sus gastos de transporte.
+
+**4.Beneficios del usuario:**
+
+Estudiantes (choferes y pasajeros):
+- Ahorro económico al compartir los gastos del transporte.
+
+- Conexión rápida y segura con compañeros de universidad para organizar viajes.
+
+- Optimización del tiempo de desplazamiento mediante rutas eficientes.
+
+- Mayor seguridad al viajar con estudiantes verificados.
+
+Familiares:
+- Posibilidad de movilizarse junto a sus hijos o con estudiantes verificados.
+
+- Seguimiento en tiempo real del trayecto.
+
+- Recibir notificaciones inmediatas ante cualquier incidente o desvío.
+
+- Confianza en un sistema diseñado para la seguridad y bienestar estudiantil.
+
+**5.Soluciones:**
+
+Desarrollo de una plataforma móvil y web: Con opciones para que los estudiantes encuentren compañeros de viaje, tanto choferes como pasajeros, con la posibilidad de agregar rutas y horarios.
+
+Sistema de calificación y comentarios: Permitir a los estudiantes calificar a otros usuarios (choferes y pasajeros) para garantizar la confianza en la plataforma.
+
+Notificaciones y seguimiento: Implementar un sistema de seguimiento de viajes en tiempo real, con notificaciones automáticas para los familiares y alertas de seguridad.
+
+**6.Hipótesis:**
+
+Creemos que los estudiantes (choferes y pasajeros) utilizarán la plataforma si proporciona una forma fácil y confiable de coordinar viajes y compartir gastos de manera segura. Sabremos que hemos tenido éxito cuando al menos el 30% de los estudiantes se registren y utilicen la plataforma regularmente.
+
+Creemos que los familiares estarán más tranquilos si pueden realizar un seguimiento en tiempo real de los viajes de sus hijos. Sabremos que hemos tenido éxito cuando al menos el 15% de los familiares utilicen la función de seguimiento en tiempo real.
+
+Creemos que las universidades estarán dispuestas a promover la plataforma si ven que contribuye a la sostenibilidad y el bienestar de sus estudiantes. Sabremos que hemos tenido éxito cuando al menos tres universidades se asocien con la plataforma y la promuevan entre sus estudiantes.
+
+**7.¿Qué es lo más importante que necesitamos aprender primero?**
+Zonas de alta demanda de transporte: Conocer las áreas con mayor necesidad de transporte estudiantil nos ayudará a priorizar rutas y recursos, garantizando un servicio eficiente.
+
+Necesidades específicas de los estudiantes y familias: Identificar las principales preocupaciones de los estudiantes (choferes y pasajeros) y sus familias, como seguridad, puntualidad o comodidad, permitirá ajustar los servicios a sus expectativas.
+
+Patrones de uso del transporte: Estudiar cuándo y cómo los estudiantes utilizan el transporte permitirá crear horarios y rutas eficientes que satisfagan las necesidades de los usuarios.
+
+Interacción entre estudiantes y choferes: Entender cómo los estudiantes interactúan con los choferes y qué expectativas tienen sobre esta relación, ayudará a mejorar la experiencia durante el viaje.
+
+Seguridad y medidas preventivas: Identificar las medidas de seguridad necesarias tanto en el vehículo como en la plataforma de gestión del transporte, asegurando que se cumplan los estándares para proteger a los estudiantes y sus familias.
+
+**8.¿Cuál es la menor cantidad de trabajo que necesitamos para hacer lo siguiente más importante?**
+
+Encuestas y entrevistas iniciales: Realizar encuestas breves a estudiantes y familiares para obtener información sobre sus preocupaciones principales respecto al transporte, sin necesidad de un estudio extenso al principio.
+
+Análisis de seguridad básica: Investigar brevemente las principales preocupaciones de seguridad en el transporte estudiantil, enfocándose en los aspectos más críticos como la puntualidad y el estado de los vehículos.
+
+Análisis competitivo: Examinar rápidamente las plataformas o aplicaciones existentes para transporte escolar y aprender de sus características clave, sin realizar un análisis exhaustivo de cada una.
+
 # Requirements Elicitation & Analysis
 
 ## Entrevistas
