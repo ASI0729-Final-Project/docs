@@ -119,6 +119,15 @@ El incremento de los robos de vehículos en Lima Metropolitana, evidenciado por 
 ### 1.2.2 Lean UX Process.
 La metodología Lean UX se enfoca en el usuario y en la validación constante de soluciones frente a una problemática. Tras identificar la necesidad, consideramos adecuado aplicar esta metodología para diseñar una solución que sea relevante y efectiva.
 
+#### 1.2.2.1. Lean UX Problem Statements
+En el Perú, la inseguridad ciudadana es una problemática creciente que afecta gravemente al sistema de transporte, especialmente en zonas urbanas como Lima. Esta situación representa un riesgo constante para los estudiantes, quienes se ven expuestos a robos, asaltos y extorsiones al utilizar medios de transporte público o informal.
+
+Hemos identificado que uno de los principales desafíos que enfrentan los estudiantes es la falta de un sistema de transporte seguro, confiable y accesible, que además permita compartir gastos y rutas con personas de confianza. Esta carencia genera temor, estrés e incertidumbre, afectando su calidad de vida y su rendimiento académico.
+
+La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los estudiantes opten por alternativas riesgosas o costosas, incrementando su exposición a la delincuencia y reduciendo sus posibilidades de movilizarse con libertad.
+
+¿Cómo podríamos diseñar una solución que les brinde a los estudiantes una forma de transporte segura, económica y compartida, utilizando tecnología para conectar a compañeros verificados y optimizar sus rutas diarias, promoviendo así la confianza y la protección en sus desplazamientos?
+
 
 
 
