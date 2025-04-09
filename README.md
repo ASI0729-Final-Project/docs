@@ -18,6 +18,14 @@ Nuestra misión es transformar la forma en que los estudiantes se movilizan en P
 
 Nuestra visión es posicionarnos como una startup líder en seguridad de transporte para universidades en Perú. Aspiramos a construir y promover un entorno donde los estudiantes puedan acceder fácilmente a una movilidad segura, eficiente, confiable y colaborativa.
 
+### 1.1.2. Perfiles de integrantes del equipo
+
+Código de Alumno: U20221G068
+Descripción:
+Soy estudiante de Ingeniería de Software y actualmente curso el 5to ciclo. Considero que tengo buen dominio en la elaboración de diagramas en C++. Los lenguajes que sé es C++, SQL, CSS, HTML y Javascript. En mi tiempo libre me gusta tocar ukelele, leer libros, resolver sudoku, escuchar música y ver series. Mi compromiso radica en ser responsable con las tareas asignadas, y mis habilidades incluyen la creatividad, el trabajo en equipo, la empatía y la responsabilidad.
+
+<img src="imgIntegrantes/Jocelyn.png" alt="Jocelyn" title="Foto de Jocelyn" width="110"/>
+
 # Requirements Elicitation & Analysis
 
 ## Entrevistas
