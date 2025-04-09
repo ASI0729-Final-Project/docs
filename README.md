@@ -129,6 +129,67 @@ La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los
 ¿Cómo podríamos diseñar una solución que les brinde a los estudiantes una forma de transporte segura, económica y compartida, utilizando tecnología para conectar a compañeros verificados y optimizar sus rutas diarias, promoviendo así la confianza y la protección en sus desplazamientos?
 
 
+#### 1.2.2.2. Lean UX Assumptions
+**Business Assumptions**
+1. Creemos que nuestros clientes necesitan una aplicación que les permita movilizarse de manera segura, confiable y económica, compartiendo viajes con otros estudiantes verificados.
+
+2. Esta necesidad se puede cubrir mediante una aplicación que integre validación de usuarios, rutas seguras, y un sistema de reparto de gastos entre pasajeros.
+
+3. El valor más importante que se espera de nuestro servicio es la seguridad durante los traslados, seguida de accesibilidad económica y confianza entre usuarios.
+
+4. Adquiriremos la mayoría de nuestros usuarios mediante alianzas con universidades, campañas en redes sociales y eventos académicos.
+
+5. Nuestra competencia directa son los servicios de taxi tradicionales y aplicaciones de movilidad, pero estas no garantizan seguridad ni conexión exclusiva entre estudiantes.
+
+6. Superaremos a la competencia ofreciendo una comunidad cerrada de usuarios verificados, opciones de viaje compartido y evaluación de rutas seguras.
+
+7. El mayor riesgo de nuestro producto es la desconfianza inicial en el uso compartido del transporte con desconocidos.
+
+8. Este riesgo será mitigado implementando perfiles verificados, calificaciones por viaje, seguimiento GPS en tiempo real y soporte de emergencia en la aplicación.
+
+9. La confianza en la plataforma aumentará con el tiempo gracias a la validación de usuarios y experiencias positivas.
+
+10. Será posible aumentar la satisfacción del cliente brindando asistencia técnica, soporte en ruta y recomendaciones de seguridad personalizadas.
+
+**User Assumptions**
+**1. ¿Quién es el usuario?**
+Estudiantes universitarios(como pasajeros o conductores) y familiares del estudiante, que necesitan trasladarse hacia sus instituciones educativas de forma segura y económica.
+
+**2. ¿Dónde encaja nuestro producto en su vida?**
+En su rutina diaria, cuando deben movilizarse a clases o regresar a casa, especialmente en horarios de alto riesgo.
+
+**3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+Al tratarse de un nuevo sistema, los usuarios podrían tener dudas sobre la seguridad y confiabilidad del servicio. Para resolverlo, se harán campañas informativas, se promoverán testimonios, y se establecerán protocolos de seguridad visibles desde el primer uso.
+
+**4. ¿Cuándo y cómo es usado nuestro producto?**
+ÑanGo será utilizado antes de clases para coordinar viajes, compartir rutas y gastos. La app permitirá programar viajes con antelación y ver sugerencias de compañeros con trayectos similares.
+
+**5. ¿Qué características son importantes?**
+Verificación de identidad, calificación de usuarios, alertas de ruta, GPS en tiempo real, sistema de pago compartido, botón de emergencia, planificación de viajes y rutas seguras.
+
+**6. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, colores cálidos y botones de acción rápida. Debe responder con fluidez y ofrecer información clara sobre seguridad y confiabilidad del viaje.
+
+Features
+- Seguimiento del vehículo en tiempo real.
+
+- Optimización de rutas y horarios para reducir tiempos de viaje.
+
+- Notificaciones instantáneas sobre llegada, cancelaciones o cambios.
+
+- Sistema de verificación de identidad con correo institucional.
+
+- Administración eficiente de vehículos
+
+- Chat interno entre usuarios verificados para coordinar viajes
+
+- Calificaciones y comentarios entre pasajeros y conductores.
+
+- Historial de viajes y registro de gastos compartidos.
+
+- Botón de emergencia para alertar a contactos de confianza.
+
+- Soporte técnico constante y actualizaciones de sistema para mejorar el rendimiento y la seguridad.
 
 
 # Requirements Elicitation & Analysis
