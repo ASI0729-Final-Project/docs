@@ -21,10 +21,16 @@ Nuestra visión es posicionarnos como una startup líder en seguridad de transpo
 ### 1.1.2. Perfiles de integrantes del equipo
 
 Código de Alumno: U20221G068
+
 Descripción:
 Soy estudiante de Ingeniería de Software y actualmente curso el 5to ciclo. Considero que tengo buen dominio en la elaboración de diagramas en C++. Los lenguajes que sé es C++, SQL, CSS, HTML y Javascript. En mi tiempo libre me gusta tocar ukelele, leer libros, resolver sudoku, escuchar música y ver series. Mi compromiso radica en ser responsable con las tareas asignadas, y mis habilidades incluyen la creatividad, el trabajo en equipo, la empatía y la responsabilidad.
 
 <img src="imgIntegrantes/Jocelyn.png" alt="Jocelyn" title="Foto de Jocelyn" width="110"/>
+
+## 1.2. Solution Profile
+
+En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se debe resolver para fomentar la seguridad de los estudiantes.
+
 
 # Requirements Elicitation & Analysis
 
