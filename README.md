@@ -8,9 +8,9 @@ En esta sección se describen los detalles del problema que buscamos resolver. S
 
 TinkuyTech es una startup tecnológica dedicada a mejorar la seguridad de transporte de los estudiantes en Perú. Nuestra empresa ofrece un nuevo producto llamado ÑanGo, una aplicación web diseñada específicamente para los estudiantes. ÑanGo conecta a estudiantes que cuentan con movilidad propia con aquellos que buscan transporte para ir a la universidad. Los usuarios pueden coordinar rutas, compartir gastos y optimizar su tiempo de desplazamiento, contribuyendo así al bienestar y la eficiencia del viaje.
 
-Para ello, desarrollaremos una plataforma interactiva, y así los estudiantes pueden visualizar y coordinar rutas compartidas hacia la universidad, recibir recomendaciones de rutas en tiempo real, optimizar los costos de transporte y reducir el tiempo de desplazamiento, mejorando así la eficiencia general del viaje. Esto hace que la aplicación sea aún más viable y útil para los estudiantes.
+Para ello, desarrollaremos una plataforma interactiva que permitirá a los estudiantes visualizar y coordinar rutas compartidas hacia la universidad, organizar horarios, optimizar los costos de transporte y consultar los perfiles de los choferes y pasajeros, ofreciendo así una alternativa más segura. Esto hace que la aplicación sea aún más viable y útil para los estudiantes.
 
-Este producto está diseñado principalmente para estudiantes, familiares del estudiante y universidades que priorizan la seguridad y buscan una alternativa de transporte más práctico para su vida diaria.
+Este producto está diseñado principalmente para estudiantes (choferes o pasajeros) y familiares de los estudiantes (choferes), quienes priorizan la seguridad y buscan una alternativa de transporte más práctica para su vida diaria.
 
 **Misión**
 
@@ -37,7 +37,7 @@ En esta sección se describe el perfil de la solución teniendo en cuenta el pro
 
 En los últimos años, la inseguridad en el transporte ha aumentado significativamente en el Perú, afectando tanto a conductores como a pasajeros. Este problema se intensifica en el caso de los estudiantes, quienes muchas veces son víctimas de robos y asaltos, especialmente en zonas cercanas a sus centros de estudio. Además, la extorsión a transportistas por el cobro de "cupos" limita la disponibilidad de servicios seguros, generando temor y restringiendo la libertad de movilización.
 
-Ante esta situación, surge la necesidad de una solución tecnológica que permita a los estudiantes movilizarse con mayor seguridad. Es en este contexto que se propone ÑanGo, una plataforma de transporte compartido enfocada exclusivamente en la comunidad estudiantil. Esta solución facilita que los estudiantes que cuentan con movilidad propia puedan compartir sus rutas con otros compañeros, optimizando costos, reduciendo el tiempo de desplazamiento y minimizando los riesgos de seguridad por las medidas de protección integradas.
+Ante esta situación, surge la necesidad de una solución tecnológica que permita a los estudiantes movilizarse con mayor seguridad. Es en este contexto que se propone ÑanGo, una plataforma de transporte compartido enfocada exclusivamente en la comunidad estudiantil. Esta solución facilita que los estudiantes que cuentan con movilidad propia puedan compartir sus rutas con otros compañeros, optimizando costos, mayor tranquilidad en los desplazamientos y minimizando los riesgos de seguridad por las medidas de protección integradas.
 
 Para analizar la problemática, se utilizó la técnica de las 5 "W" y 2 "H":
 
@@ -69,7 +69,7 @@ Los usuarios podrán acceder a ÑanGo desde sus casas, centros de estudio o cual
 
 **¿A dónde se dirige?**
 
-Los usuarios utilizan ÑanGo para planificar rutas a la universidad, evitando zonas con alto tráfico, optimizando el tiempo de viaje y compartiendo los costos con otros estudiantes de su misma universidad.
+Los usuarios pueden utilizar ÑanGo para planificar rutas hacia la universidad, coordinar horarios y puntos de encuentro, optimizar el tiempo de viaje, verificar los perfiles de conductores y pasajeros, compartir los costos del transporte con otros estudiantes de su misma universidad y aprovechar mejor el uso del vehículo.
 
 **¿Dónde surge el problema?**
 
@@ -79,7 +79,7 @@ El problema se presenta en calles y avenidas de Lima y otras ciudades universita
 
 **¿Quiénes están involucrados?**
 
-Los principales involucrados son los estudiantes universitarios,ellos pueden participar tanto como pasajeros también como conductores. Quienes buscan movilizarse de forma segura ofreciendo sus vehículos para compartir viajes y reducir costos. Además, están involucrados los padres de familia, preocupados por la seguridad de sus hijos, y las universidades, que podrían fomentar el uso de esta herramienta como una solución para mejorar la movilidad y seguridad de su comunidad estudiantil.
+Los principales involucrados son los estudiantes universitarios, quienes pueden participar tanto como pasajeros como conductores. Buscan movilizarse de forma segura, ofreciendo sus vehículos para compartir viajes y reducir costos. Además, están involucrados los familiares de los estudiantes, quienes también pueden participar como choferes para brindar transporte ocasional a los compañeros de sus hijos o familiares. Esto podría fomentar el uso de esta herramienta como una solución para mejorar la movilidad y seguridad de la comunidad estudiantil.
 
 **¿A quiénes le sucede el problema?**
 
@@ -87,7 +87,7 @@ El problema le sucede directamente a los estudiantes universitarios, principalme
 
 **¿Quién lo utilizará?**
 
-Lo utilizará los estudiantes registrados que deseen compartir viajes con compañeros de confianza. También podrán usarlo aquellos que tengan vehículo propio y deseen reducir sus gastos ofreciendo rutas seguras a otros estudiantes.
+Lo utilizará los estudiantes registrados que deseen compartir viajes con compañeros de confianza. También podrán usarlo aquellos que tengan vehículo propio (como estudiantes o familiar del estudiante) y deseen reducir sus gastos ofreciendo rutas seguras a otros estudiantes.
 
 **WHY**
 
@@ -103,11 +103,11 @@ Los estudiantes utilizan ÑanGo principalmente en condiciones de alta demanda de
 
 **¿Cómo nos conocieron los compradores?**
 
-Los usuarios pueden conocer ÑanGo a través de campañas de concientización en redes sociales, alianzas con universidades, y mediante recomendaciones Word of Mout (de boca a boca) entre estudiantes.
+Los usuarios pueden conocer ÑanGo a través de campañas de concientización en redes sociales y mediante recomendaciones de boca a boca (Word of Mout) entre estudiantes.
 
 **¿Cómo prefieren los lectores acceder a nuestro contenido?**
 
-Los estudiantes prefieren acceder a nuestro contenido de manera digital, desde la aplicación móvil o página web. Valoran las notificaciones instantáneas, mapas interactivos, perfiles verificados y recomendaciones de seguridad dentro de la plataforma.
+Los estudiantes prefieren acceder a nuestro contenido de manera digital, desde la aplicación página web. Ya que valoran las notificaciones instantáneas, la coordinacion sobre las rutas y gastos compartidas y perfiles verificados.
 
 **¿Qué llevó a la persona a llegar a esta situación?**
 
@@ -119,23 +119,23 @@ Incluir estadísticas que sustenten la problemática
 
 Con el objetivo de sustentar la necesidad de implementar una solución de movilidad compartida más segura, se consultaron las estadísticas proporcionadas por la Policía Nacional del Perú y el Ministerio del Interior. A través de gráficos, se muestran los altos índices de robos de vehículos en Lima Metropolitana, lo que resalta la urgencia de tomar medidas preventivas.
 
-**Figura 1:** Robo de vehículos en Lima Metropolitana
+**Figura 1:** Robo de vehículos según SIDPOL
+
+![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img2.png "Gráfico N.º 1.2. Comparativo de delitos relacionados con la seguridad pública")
+
+***Nota:**  Gráfico N.º 1.2. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.*
+**Fuente:** Instituto Nacional de Estadística e Informática (2024)
+
+Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (como se cita en Instituto Nacional de Estadística e Informática, 2024), nos presenta un cuadro comparativo donde uno de los delitos genéricos más evidenciados en el Perú corresponde a la seguridad pública. Esto significa que dicho sector es uno de los más vulnerables, debido al elevado número de denuncias registradas por la comisión de este tipo de delitos.
+
+**Figura 2:** Robo de vehículos en Lima Metropolitana
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img1.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
 
-**\*Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.\*
+***Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.*
 **Fuente:** Instituto Nacional de Estadística e Informática(2024)
 
-Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Estadística e Informática, 2024), en el trimestre abril-junio de 2024 se registraron 1,816 denuncias por robo de vehículos en Lima Metropolitana, lo cual representa el 25,6 % del total nacional. Esta cifra equivale a aproximadamente 20 vehículos robados por día en esta ciudad, siendo los distritos más afectados Villa El Salvador (224 denuncias), San Juan de Lurigancho (190) y Carabayllo (152).
-
-**Figura 2:** Robo de vehículos según SIDPOL
-
-![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img2.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
-
-**\*Nota:** Gráfico N.º 1.6. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.\*
-**Fuente:** Instituto Nacional de Estadística e Informática (2024)
-
-Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (como se cita en Instituto Nacional de Estadística e Informática, 2024), nos da un cuadro comparativo donde uno de los delitos genérico más evidenciados en Perú es contra la seguridad Pública. Esto significa ese sector es el más vulnerable porque esas son la cantidad de denuncias por comisión de delitos.
+Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Estadística e Informática, 2024), en el trimestre abril-junio del 2024 se registraron 1,816 denuncias por robo de vehículos en Lima Metropolitana, lo cual representa el 25,6 % del total nacional. Esta cifra equivale a aproximadamente 20 vehículos robados por día en esta ciudad, siendo los distritos más afectados Villa El Salvador (224 denuncias), San Juan de Lurigancho (190) y Carabayllo (152).
 
 El incremento de los robos de vehículos en Lima Metropolitana, evidenciado por las estadísticas de la Policía Nacional del Perú y el Ministerio del Interior, subraya la urgente necesidad de soluciones de movilidad más seguras. En este contexto, el proyecto Ñanjo ofrece una alternativa valiosa para los universitarios, permitiendo compartir transporte de manera eficiente y segura. Al promover una red de movilidad compartida entre estudiantes, se podría reducir la exposición a riesgos asociados con el uso individual de vehículos, contribuyendo así a la disminución de robos y mejorando la seguridad en los desplazamientos urbanos.
 
@@ -157,13 +157,13 @@ La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los
 
 **Business Assumptions**
 
-1. Creemos que nuestros clientes necesitan una aplicación que les permita movilizarse de manera segura, confiable y económica, compartiendo viajes con otros estudiantes verificados.
+1. Creemos que nuestros clientes necesitan una aplicación que les permita movilizarse de forma segura, confiable y económica, compartiendo viajes con otros estudiantes verificados.
 
-2. Esta necesidad se puede cubrir mediante una aplicación que integre validación de usuarios, rutas seguras, y un sistema de reparto de gastos entre pasajeros.
+2. Esta necesidad puede cubrir mediante una aplicación que integre validación de usuarios, rutas seguras, y un sistema de reparto de gastos entre pasajeros.
 
-3. El valor más importante que se espera de nuestro servicio es la seguridad durante los traslados, seguida de accesibilidad económica y confianza entre usuarios.
+3. El valor más importante que se espera de nuestro servicio es la seguridad durante los traslados, seguida de la accesibilidad económica y confianza entre usuarios.
 
-4. Adquiriremos la mayoría de nuestros usuarios mediante alianzas con universidades, campañas en redes sociales y eventos académicos.
+4. Planeamos adquirir la mayoría de nuestros usuarios mediante campañas en redes sociales y eventos académicos.
 
 5. Nuestra competencia directa son los servicios de taxi tradicionales y aplicaciones de movilidad, pero estas no garantizan seguridad ni conexión exclusiva entre estudiantes.
 
@@ -171,21 +171,21 @@ La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los
 
 7. El mayor riesgo de nuestro producto es la desconfianza inicial en el uso compartido del transporte con desconocidos.
 
-8. Este riesgo será mitigado implementando perfiles verificados, calificaciones por viaje, seguimiento GPS en tiempo real y soporte de emergencia en la aplicación.
+8. Este riesgo será mitigado mediante perfiles verificados, calificaciones por viaje y soporte de emergencia en la aplicación.
 
 9. La confianza en la plataforma aumentará con el tiempo gracias a la validación de usuarios y experiencias positivas.
 
-10. Será posible aumentar la satisfacción del cliente brindando asistencia técnica, soporte en ruta y recomendaciones de seguridad personalizadas.
+10. La satisfacción del cliente también se podrá mejorar mediante la integración de un sistema de soporte.
 
 **User Assumptions**
 
 **1. ¿Quién es el usuario?**
 
-Estudiantes universitarios(como pasajeros o conductores) y familiares del estudiante, que necesitan trasladarse hacia sus instituciones educativas de forma segura y económica.
+Estudiantes universitarios(como pasajeros o conductores) que necesitan trasladarse hacia sus instituciones educativas de forma segura y económica, así como familiares de los estudiantes que desean compartir su auto para trasladar ocasionalmente a los compañeros de sus hijos.
 
 **2. ¿Dónde encaja nuestro producto en su vida?**
 
-En su rutina diaria, cuando deben movilizarse a clases o regresar a casa, especialmente en horarios de alto riesgo.
+En su rutina diaria, cuando deben movilizarse a las clases universitarias, especialmente en horarios de alto riesgo.
 
 **3. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
@@ -193,35 +193,31 @@ Al tratarse de un nuevo sistema, los usuarios podrían tener dudas sobre la segu
 
 **4. ¿Cuándo y cómo es usado nuestro producto?**
 
-ÑanGo será utilizado antes de clases para coordinar viajes, compartir rutas y gastos. La app permitirá programar viajes con antelación y ver sugerencias de compañeros con trayectos similares.
+ÑanGo será utilizado antes de clases para coordinar viajes, compartir rutas y gastos. La aplicación web permitirá programar viajes con antelación y coordinar trayectos similares con compañeros.
 
 **5. ¿Qué características son importantes?**
 
-Verificación de identidad, calificación de usuarios, alertas de ruta, GPS en tiempo real, sistema de pago compartido, botón de emergencia, planificación de viajes y rutas seguras.
+Verificación de identidad, calificación de usuarios, sistema de pago compartido, coordinar horarios de viajes y rutas seguras, y registro de detalle del trayecto.
 
 **6. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 
-Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, colores cálidos y botones de acción rápida. Debe responder con fluidez y ofrecer información clara sobre seguridad y confiabilidad del viaje.
+Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, colores fríos y botones de acción rápida. Debe responder con fluidez y ofrecer información clara sobre seguridad y confiabilidad del viaje.
 
 **Features**
 
-- Seguimiento del vehículo en tiempo real.
-
-- Optimización de rutas y horarios para reducir tiempos de viaje.
+- Visualización de rutas y horarios disponibles para facilitar la planificación de los viajes.
 
 - Notificaciones instantáneas sobre llegada, cancelaciones o cambios.
 
-- Sistema de verificación de identidad con correo institucional.
+- Sistema de verificación.
 
-- Administración eficiente de vehículos
+- Administración eficiente de vehículos.
 
-- Chat interno entre usuarios verificados para coordinar viajes
+- Chat interno entre usuarios verificados para coordinar viajes.
 
 - Calificaciones y comentarios entre pasajeros y conductores.
 
 - Historial de viajes y registro de gastos compartidos.
-
-- Botón de emergencia para alertar a contactos de confianza.
 
 - Soporte técnico constante y actualizaciones de sistema para mejorar el rendimiento y la seguridad.
 
@@ -239,9 +235,9 @@ Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, co
 
 En las ciudades universitarias, los estudiantes enfrentan altos costos de transporte, congestión vehicular y preocupaciones por la sostenibilidad. Actualmente, no existe una solución eficiente y accesible para coordinar viajes compartidos, lo que genera un impacto negativo en los presupuestos de los estudiantes y en el medio ambiente.
 
-Ñango busca resolver esta problemática ofreciendo una plataforma para que los estudiantes puedan compartir viajes de manera segura y económica, y también involucra a familiares y universidades para brindar mayor apoyo y confianza en el proceso.
+Ñango busca resolver esta problemática ofreciendo una plataforma para que los estudiantes puedan compartir viajes de manera segura y económica.Además, integra a familiares de los estudiantes como posibles conductores, brindando un entorno de mayor confianza y apoyo para la comunidad universitaria.
 
-¿Cómo podemos desarrollar una plataforma que conecte a los estudiantes (choferes y pasajeros) de forma eficiente, permita el seguimiento de los viajes por parte de los familiares y cuente con el respaldo de las universidades?
+¿Cómo podemos desarrollar una plataforma que conecte de manera segura y eficiente a estudiantes y familiares que actúan como conductores, con estudiantes que necesitan transporte, permitiendo la planificación y coordinación de viajes, comunicación interna entre usuarios y un sistema de calificaciones que genere confianza en la comunidad?
 
 **2.Resultados comerciales:**
 
@@ -262,7 +258,6 @@ Estudiantes (choferes y pasajeros) y familiares de los estudiantes que buscan un
 **4.Beneficios del usuario:**
 
 Estudiantes (choferes y pasajeros):
-
 - Ahorro económico al compartir los gastos del transporte.
 
 - Conexión rápida y segura con compañeros de universidad para organizar viajes.
@@ -271,31 +266,30 @@ Estudiantes (choferes y pasajeros):
 
 - Mayor seguridad al viajar con estudiantes verificados.
 
-Familiares:
-
+Familiares (choferes):
 - Posibilidad de movilizarse junto a sus hijos o con estudiantes verificados.
 
-- Seguimiento en tiempo real del trayecto.
+- Ahorro en combustible al compartir gastos del viaje con los pasajeros.
 
-- Recibir notificaciones inmediatas ante cualquier incidente o desvío.
+- Tranquilidad al tener un historial de viajes y calificaciones que refuerzan la confianza con los pasajeros.
 
 - Confianza en un sistema diseñado para la seguridad y bienestar estudiantil.
 
 **5.Soluciones:**
 
-Desarrollo de una plataforma móvil y web: Con opciones para que los estudiantes encuentren compañeros de viaje, tanto choferes como pasajeros, con la posibilidad de agregar rutas y horarios.
+Desarrollo de una plataforma web: Con opciones para que los estudiantes encuentren compañeros de viaje, tanto choferes como pasajeros, la capacidad de compartir sus rutas y horarios disponibles.
 
 Sistema de calificación y comentarios: Permitir a los estudiantes calificar a otros usuarios (choferes y pasajeros) para garantizar la confianza en la plataforma.
 
-Notificaciones y seguimiento: Implementar un sistema de seguimiento de viajes en tiempo real, con notificaciones automáticas para los familiares y alertas de seguridad.
+Notificaciones y seguimiento: Implementar un sistema de notificaciones que permitan a los conductores ver los viajes programados y los detalles del trayecto.
 
 **6.Hipótesis:**
 
-Creemos que los estudiantes (choferes y pasajeros) utilizarán la plataforma si proporciona una forma fácil y confiable de coordinar viajes y compartir gastos de manera segura. Sabremos que hemos tenido éxito cuando al menos el 30% de los estudiantes se registren y utilicen la plataforma regularmente.
+Creemos que los estudiantes que son choferes utilizarán la plataforma si proporciona una forma fácil y confiable de coordinar viajes y compartir gastos de manera segura. Sabremos que hemos tenido éxito cuando al menos el 30% de los choferes se registren y utilicen la plataforma regularmente.
 
-Creemos que los familiares estarán más tranquilos si pueden realizar un seguimiento en tiempo real de los viajes de sus hijos. Sabremos que hemos tenido éxito cuando al menos el 15% de los familiares utilicen la función de seguimiento en tiempo real.
+Creemos que los estudiantes que son pasajeros utilizarán la plataforma si les permite encontrar choferes de confianza, recibir un trato adecuado como pasajeros y compartir gastos de manera segura. Sabremos que hemos tenido éxito cuando al menos el 30% de los pasajeros se registren y utilicen la plataforma regularmente para coordinar sus viajes.
 
-Creemos que las universidades estarán dispuestas a promover la plataforma si ven que contribuye a la sostenibilidad y el bienestar de sus estudiantes. Sabremos que hemos tenido éxito cuando al menos tres universidades se asocien con la plataforma y la promuevan entre sus estudiantes.
+Creemos que los familiares estarán más tranquilos si pueden acceder a los detalles de los viajes, como las rutas y horarios de los trayectos de los estudiantes. Sabremos que hemos tenido éxito cuando al menos el 15% de los familiares que son choferes utilicen la plataforma para gestionar los viajes y conocer los detalles de las rutas.
 
 **7.¿Qué es lo más importante que necesitamos aprender primero?**
 
@@ -319,37 +313,15 @@ Análisis competitivo: Examinar rápidamente las plataformas o aplicaciones exis
 
 ## 1.3. Segmentos Objetivo
 
-**Segmento 1: Estudiantes sin vehículo**
-
-Características Demográficas:
-
-Edad: Igual y mayor a 16 años
-
-Nacionalidad: Peruana
-
-Ubicación: Áreas urbanas cercanas a instituciones educativas.
-
-Nivel educativo: Principalmente estudiantes de las universidades
-
-Intereses: Transporte accesible, puntualidad, comodidad, seguridad.
-
-Características Psicográficas:
-
-Estudiantes que no tienen vehículo propio o que desean reducir los costos de transporte.
-
-Buscan opciones de transporte más económicas y convenientes.
-
-Valoran la accesibilidad a servicios que les permitan coordinar viajes fácilmente y sin complicaciones.
-
-**Segmento 2: Estudiantes con vehículo**
+**Segmento 1: Estudiantes con vehículo**
 
 Características Demográficas:
 
 Edad: Igual y mayor de 18 años
 
-Nacionalidad: Peruana.
+Nacionalidad: Peruana
 
-Ubicación: Zonas urbanas especialmente cercanas a universidades
+Ubicación: Áreas urbanas
 
 Nivel educativo: Estudiantes universitarios
 
@@ -363,11 +335,33 @@ Buscan formas de generar ingresos adicionales o reducir los gastos de combustibl
 
 Valoran las ventajas de compartir viajes con otros estudiantes y la posibilidad de crear una comunidad dentro de la universidad.
 
-**Segmento 3: Familiares de los estudiantes**
+**Segmento 2: Estudiantes sin vehículo**
 
 Características Demográficas:
 
-Edad: 20-40 años
+Edad: Igual y mayor a 16 años
+
+Nacionalidad: Peruana
+
+Ubicación: Áreas urbanas
+
+Nivel educativo: Principalmente estudiantes de las universidades
+
+Intereses: Transporte accesible, puntualidad, comodidad, seguridad.
+
+Características Psicográficas:
+
+Estudiantes que no tienen vehículo propio o que desean reducir los costos de transporte.
+
+Buscan opciones de transporte más económicas y convenientes.
+
+Valoran la accesibilidad a servicios que les permitan coordinar viajes fácilmente y sin complicaciones.
+
+**Segmento 3: Familiares de los estudiantes con vehiculo**
+
+Características Demográficas:
+
+Edad: 18-50 años
 
 Nacionalidad: Peruana
 
@@ -375,15 +369,15 @@ Ubicación: Áreas urbanas
 
 Nivel educativo: Desde educación universitaria
 
-Intereses: Seguridad de los estudiantes, transporte eficiente y cómodo para los hijos, monitoreo de desplazamientos.
+Intereses: Seguridad de los estudiantes, transporte eficiente y cómodo para los hijos, registro de rutas.
 
 Características Psicográficas:
 
 Buscan garantizar la seguridad de los estudiantes durante sus traslados.
 
-Valoran la posibilidad de hacer un seguimiento de los viajes en tiempo real y recibir notificaciones sobre el estado del viaje.
+Valoran la posibilidad de ser choferes responsables y brindar un servicio seguro a los estudiantes.
 
-Están interesados en asegurarse de que sus hijos o familiares lleguen a la universidad de forma segura.
+Están interesados en tener una forma fácil de coordinar y realizar las rutas para los estudiantes.
 
 # Requirements Elicitation & Analysis
 
