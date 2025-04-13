@@ -508,6 +508,84 @@ Recoger informacion sobre las necesidades , expectativas y posibles preocupacion
 - ¿Estarías dispuesto/a a probar esta app como conductor?
 - ¿Participarías en pruebas futuras para mejorar la app?
 
+### Registro de Entrevistas
+
+Segmentos objetivos de estudiante con vehículo:
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>1</td>
+    <th>Nombre</th>
+    <td>Andres Collazos</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>20</td>
+    <th>Distrito</th>
+    <td>La Perla</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/Entrevista_1_con_estudiante_con_automovil.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, el estudiante Andres Collazo comenta que conduce moderadamente a la universidad y que estaría dispuesto a llevar a otros estudiantes para obtener un ingreso adicional. No le incomoda compartir su auto, pero recalca la importancia del respeto dentro del vehículo. Respecto a la aplicación web, considera importante consultar los perfiles tanto de choferes como de pasajeros, ya que desea una buena comunicación. Además, sugiere implementar un código de identificación como medida de seguridad. Sobre la ruta, le preocupa que pueda ser vista por terceras personas; sin embargo, no tiene problemas en compartir el horario. También prefiere poder elegir a los pasajeros para asegurar una buena experiencia. Respecto al método de pago, opta por Yape por su practicidad. En conclusión, le parece interesante el servicio que le ofrece Ñango y le gustaría probar la aplicación web y participar en futuras pruebas.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1mZ01IQ44AkLbB81HGdB91WgFqreGUh9a/view?usp=drive_link">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 4:05
+    </td>
+  </tr>
+</table>
+
+Segmentos objetivos de estudiante sin vehículo:
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>4</td>
+    <th>Nombre</th>
+    <td>Marllely Arias</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>22</td>
+    <th>Distrito</th>
+    <td>Lurigancho Chosica</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/Entrevista_2_con_estudiante_sin_automovil.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+     En la entrevista, Marllely Arias comenta que llega a la universidad en transporte público, lo cual le toma entre una hora y veinte minutos (sin tráfico) hasta dos horas (sin tráfico). Le interesaría utilizar un servicio de transporte compartido con otros estudiantes, ya que considera que sería más seguro y que puede compartir la ruta con compañeros de la universidad. Respecto a la aplicación web, considera importante contar con actualización en tiempo real de la ubicación y visualizar la calificación de los conductores. También prefiere poder elegir al conductor para tener mayor confianza. En cuanto al método de pago, opta por Yape y Plin por su practicidad. En conclusión, le resulta atractiva la propuesta del servicio que ofrece Ñango y le gustaría participar en futuras pruebas para compartir su experiencia como estudiante.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1yk4mQYxuR0_7n1OF_ND7Ogh0_6BDjMTv/view?usp=drive_link">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 2:43
+    </td>
+  </tr>
+</table>
+
+Segmentos objetivos de familiar del estudiante:
+
 ## Needfinding
 
 ### User Persons
