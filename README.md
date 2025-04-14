@@ -726,3 +726,17 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 #### Familiar de estudiante
 
 ![Familiar de estudiante](./imgs/as-is-familiar.png)
+
+### 3.1. To-be Scenario Mapping
+
+#### Estudiante pasajero
+
+![Estudiante pasajero](docs/imgs/to-be-estudiante.png)
+
+#### Estudiante conductor
+
+![Estudiante conductor](docs/imgs/to-be-estudiante-conductor.png)
+
+#### Familiar de estudiante
+
+![Familiar de estudiante](docs/imgs/to-be-familiar.png)
