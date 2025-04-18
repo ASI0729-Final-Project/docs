@@ -123,7 +123,7 @@ Con el objetivo de sustentar la necesidad de implementar una solución de movili
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img2.png "Gráfico N.º 1.2. Comparativo de delitos relacionados con la seguridad pública")
 
-***Nota:**  Gráfico N.º 1.2. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.*
+**\*Nota:** Gráfico N.º 1.2. Comparativo de delitos relacionados con la seguridad pública según SIDPOL 2024.\*
 **Fuente:** Instituto Nacional de Estadística e Informática (2024)
 
 Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (como se cita en Instituto Nacional de Estadística e Informática, 2024), nos presenta un cuadro comparativo donde uno de los delitos genéricos más evidenciados en el Perú corresponde a la seguridad pública. Esto significa que dicho sector es uno de los más vulnerables, debido al elevado número de denuncias registradas por la comisión de este tipo de delitos.
@@ -132,7 +132,7 @@ Según la Policía Nacional del Perú - Sistema de Denuncias Policiales-SIDPOL (
 
 ![Robo de vehículos en Lima Metropolitana](imgAntecedentes/img1.png "Gráfico N.º 1.5: Robo de vehículos en Lima Metropolitana")
 
-***Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.*
+**\*Nota:** Gráfico N.º 1.5. Estadísticas del robo de vehículos en Lima Metropolitana durante el 2020, 2021, 2022, 2023 y 2024.\*
 **Fuente:** Instituto Nacional de Estadística e Informática(2024)
 
 Según la Policía Nacional del Perú (como se cita en Instituto Nacional de Estadística e Informática, 2024), en el trimestre abril-junio del 2024 se registraron 1,816 denuncias por robo de vehículos en Lima Metropolitana, lo cual representa el 25,6 % del total nacional. Esta cifra equivale a aproximadamente 20 vehículos robados por día en esta ciudad, siendo los distritos más afectados Villa El Salvador (224 denuncias), San Juan de Lurigancho (190) y Carabayllo (152).
@@ -258,6 +258,7 @@ Estudiantes (choferes y pasajeros) y familiares de los estudiantes que buscan un
 **4.Beneficios del usuario:**
 
 Estudiantes (choferes y pasajeros):
+
 - Ahorro económico al compartir los gastos del transporte.
 
 - Conexión rápida y segura con compañeros de universidad para organizar viajes.
@@ -267,6 +268,7 @@ Estudiantes (choferes y pasajeros):
 - Mayor seguridad al viajar con estudiantes verificados.
 
 Familiares (choferes):
+
 - Posibilidad de movilizarse junto a sus hijos o con estudiantes verificados.
 
 - Ahorro en combustible al compartir gastos del viaje con los pasajeros.
@@ -384,6 +386,7 @@ Están interesados en tener una forma fácil de coordinar y realizar las rutas p
 ## Competidores
 
 ### Analisis Competitivo
+
 <table>
 <tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Para poder comprender mejor el panorama competitivo en el mercado de servicios de transporte para alumnos en Lima, Perú. Identificando fortalezas, debilidades, oportunidades y amenazas de mi startup y sus competidores.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">ÑanGo<br><img src="imgsLogos/ÑanGo.png"width="100"/></td><td colspan="1" valign="top" style="font-weight: bold;">GoLadies<br><img src="imgsLogos/go-ladies.png" width="100"/></td><td colspan="1" valign="top" style="font-weight: bold;">Hoop carpool<br><img src="imgsLogos/hoop-logo.png" width="100"/></td><td colspan="1" valign="top" style="font-weight: bold;">BlaBlaCar<br><img src="imgsLogos/blablacar-logo.png"width="100"/></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top"> Aplicación web diseñada específicamente para los estudiantes. ÑanGo conecta a estudiantes que cuentan con movilidad propia con aquellos que buscan transporte para ir a la universidad.</td><td colspan="1" valign="top">Go Ladies Perú se dedica a realizar traslados exclusivos a mujeres, niños, personas con discapacidad certificada y adultos mayores con identificación.</td><td colspan="1" valign="top">Hoop Carpool es una empresa de carpooling para empresas. Ofrece a tus empleados y alumnos la opcion de compartir el coche en su dia a dia.</td><td colspan="1" valign="top">BlaBlaCar es una comunidad de usuarios basada en la confianza que conecta a conductores con asientos vacíos y pasajeros que se dirigen a un mismo lugar, para que viajen juntos y compartan el costo.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Movilizacion de forma segura, confiable y económica ademas de compartir viajes solo con estudiantes verificados.</td><td colspan="1" valign="top">Transporte exclusivo de mujeres para mujeres, brindando seguridad y confianza en las usuarias. </td><td colspan="1" valign="top">Enfoque mas orientado a empresas como tambien hacer un impacto al tratar de reducir el uso de vehiculos. </td><td colspan="1" valign="top">Brinda viajes a precios bajos , reconociemiento mediante identificaciones y reservas faciles</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Estudiantes de Universidades en todo Lima.</td><td colspan="1" valign="top">Todas las mujeres de Lima. </td><td colspan="1" valign="top">Personal emprasarial. </td><td colspan="1" valign="top">Todo publico en general. </td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Promoción y publicidad en redes sociales y anuncios</td><td colspan="1" valign="top">Promoción en redes sociales, anuncios y colaboraciones con influenciadores.</td><td colspan="1" valign="top">Publicidad en redes sociales y anuncios.</td><td colspan="1" valign="top">Publicidad en paginas web.</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brinda servicio de transporte a estudiantes , utilizando vehiculos personales.</td><td colspan="1" valign="top">Brinda servicio de transporte de solo mujeres para mujeres . </td><td colspan="1" valign="top">Brinda servicio de transporte compartido a personal empresarial. </td><td colspan="1" valign="top">Brinda viajes en auto personal y bus compartido a todo publico. </td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Tarifa sujeta al conductor con previa coordinacion. </td><td colspan="1" valign="top">Tarifas sujeta al trayecto.</td><td colspan="1" valign="top">Tarifa sujeta a contrato</td><td colspan="1" valign="top">Tarifa sujeta al trayecto.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Aplicación web. </td><td colspan="1" valign="top">Sitio web.</td><td colspan="1" valign="top">Aplicación móvil y sitio web.</td><td colspan="1" valign="top">Aplicacion movil y sitio web.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Seguridad y rapidez al brindar servicio de transportes a estudiantes.</td><td colspan="1" valign="top">Servicio de transporte solo para mujeres. </td><td colspan="1" valign="top">Especializado en servicios de tranporte empresarial.</td><td colspan="1" valign="top">Servicio de transporte para todo publico </td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Dependencia de la disponibilidad de los usuarios. </td><td colspan="1" valign="top">Poca disponibilidad en horario nocturno.</td><td colspan="1" valign="top">Abarca solo empresas y costos altos</td><td colspan="1" valign="top">Poca publicidad y costos altos.
 </td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Mejora la seguridad del transporte de los estudiantes. </td><td colspan="1" valign="top">Mejora la seguridad para las mujeres al transportarse en taxi.</td><td colspan="1" valign="top">Reduccion de autos del personal empresarial. </td><td colspan="1" valign="top">Mejora la seguridad y la confianza al tomar un transporte de viaje extenso.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Competencia con servicios de taxi en general. </td><td colspan="1" valign="top">Competencia con servicios de taxi en general.</td><td colspan="1" valign="top">Cantidad minima de contratos. </td><td colspan="1" valign="top">Competencia de otros servicios similares.</td></tr></tbody></table>
@@ -393,13 +396,13 @@ Están interesados en tener una forma fácil de coordinar y realizar las rutas p
 
 #### Servicio especializado solo para estudiantes
 
--Testimonios reales de usuarios y conductores.   
+-Testimonios reales de usuarios y conductores.  
 -Resaltar que nuestros conductores entienden las rutinas , horarios y necesidades de los estudiantes.
 
 #### Precios accesibles y flexibles
 
-- Ofrecer tarifas mas economicas adaptadas a la economia de los estudiantes. 
-- Descuento por grupo si comparten el viaje entre varios amigos. 
+- Ofrecer tarifas mas economicas adaptadas a la economia de los estudiantes.
+- Descuento por grupo si comparten el viaje entre varios amigos.
 - Descuento por horario (cuando no hay mucho trafico o demanda).
 
 #### Competidores tradicionales
@@ -413,10 +416,10 @@ Están interesados en tener una forma fácil de coordinar y realizar las rutas p
 - Promover campañas como "Maneja seguro, estudia mejor".
 - Incentivar el uso compartido para reducir la huella de carbono.
 
-#### Fidelizacion 
+#### Fidelizacion
 
 - Recompensas para los conductores mejor evaluados.
-- Eventos offline con premios.  
+- Eventos offline con premios.
 
 ## Entrevistas
 
@@ -731,12 +734,12 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 
 #### Estudiante pasajero
 
-![Estudiante pasajero](docs/imgs/to-be-estudiante.png)
+![Estudiante pasajero](./imgs/to-be-estudiante.png)
 
 #### Estudiante conductor
 
-![Estudiante conductor](docs/imgs/to-be-estudiante-conductor.png)
+![Estudiante conductor](./imgs/to-be-estudiante-conductor.png)
 
 #### Familiar de estudiante
 
-![Familiar de estudiante](docs/imgs/to-be-familiar.png)
+![Familiar de estudiante](./imgs/to-be-familiar.png)
