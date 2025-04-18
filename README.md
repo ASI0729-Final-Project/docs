@@ -730,6 +730,104 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 
 ![Familiar de estudiante](./imgs/as-is-familiar.png)
 
+## Ubiquitous Language
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Term (Español)</th>
+      <th>Definition (español)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Student‑Passenger</strong> (Estudiante‑Pasajero)</td>
+      <td>Persona que necesita transporte para llegar a la universidad y busca compartir viaje con un conductor.</td>
+    </tr>
+    <tr>
+      <td><strong>Student‑Driver</strong> (Estudiante‑Conductor)</td>
+      <td>Persona con vehículo propio que ofrece asientos disponibles para llevar a otros estudiantes a la universidad.</td>
+    </tr>
+    <tr>
+      <td><strong>Family‑Driver</strong> (Conductor‑Familiar)</td>
+      <td>Miembro de la familia del estudiante que extiende la red de confianza ofreciendo su vehículo para transportar al estudiante y a otros compañeros.</td>
+    </tr>
+    <tr>
+      <td><strong>Ride</strong> (Viaje)</td>
+      <td>Trayecto completo acordado entre un conductor y uno o varios pasajeros, desde un punto de origen hasta un punto de destino.</td>
+    </tr>
+    <tr>
+      <td><strong>Route</strong> (Ruta)</td>
+      <td>Camino predefinido o planificado que recorre el vehículo durante un ride, normalmente optimizado por distancia o tiempo.</td>
+    </tr>
+    <tr>
+      <td><strong>Trip</strong> (Trayecto)</td>
+      <td>Segmento individual dentro de un ride, por ejemplo, desde el origen hasta el punto de encuentro o desde allí al destino final.</td>
+    </tr>
+    <tr>
+      <td><strong>Meeting Point</strong> (Punto de Encuentro)</td>
+      <td>Lugar acordado donde conductor y pasajero se encuentran para iniciar un trip.</td>
+    </tr>
+    <tr>
+      <td><strong>Reservation</strong> (Reserva)</td>
+      <td>Compromiso formal del pasajero de ocupar un asiento en un ride específico, bloqueando su cupo en la ruta.</td>
+    </tr>
+    <tr>
+      <td><strong>Availability</strong> (Disponibilidad)</td>
+      <td>Franjas horarias y días en que un driver declara que puede ofrecer asientos para otros usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>Schedule</strong> (Horario)</td>
+      <td>Planificación de fechas y horas de inicio y fin de cada ride o trip.</td>
+    </tr>
+    <tr>
+      <td><strong>Cost‑Sharing</strong> (Compartición de Costos)</td>
+      <td>Mecanismo por el cual conductor y pasajeros reparten entre ellos los gastos de combustible y peajes en proporción acordada.</td>
+    </tr>
+    <tr>
+      <td><strong>Payment</strong> (Pago)</td>
+      <td>Dinero que el pasajero entrega al conductor o a la plataforma como contraprestación por el servicio de transporte.</td>
+    </tr>
+    <tr>
+      <td><strong>Payment Method</strong> (Método de Pago)</td>
+      <td>Forma en que el pasajero elige realizar el payment: tarjeta, billetera electrónica o efectivo.</td>
+    </tr>
+    <tr>
+      <td><strong>Commission</strong> (Comisión)</td>
+      <td>Porcentaje o cargo fijo que la plataforma retiene sobre la tarifa del ride como contraprestación por el servicio.</td>
+    </tr>
+    <tr>
+      <td><strong>Cancellation Fee</strong> (Cargo por Cancelación)</td>
+      <td>Monto que se cobra al pasajero si cancela el ride después de haberse emparejado con un driver, compensando tiempo y combustible.</td>
+    </tr>
+    <tr>
+      <td><strong>Refund</strong> (Reembolso)</td>
+      <td>Devolución total o parcial de la tarifa al pasajero conforme a la política de reembolso establecida.</td>
+    </tr>
+    <tr>
+      <td><strong>Profile</strong> (Perfil)</td>
+      <td>Conjunto de atributos (nombre, foto, calificaciones) que describen a un usuario dentro de la plataforma.</td>
+    </tr>
+    <tr>
+      <td><strong>Rating</strong> (Calificación)</td>
+      <td>Valor numérico o cualitativo que un usuario asigna a otro tras completar un ride, reflejando satisfacción y confianza.</td>
+    </tr>
+    <tr>
+      <td><strong>Verification</strong> (Verificación)</td>
+      <td>Proceso de validar la identidad de un usuario (por ejemplo, mediante documento o selfie) para asegurar que es quien dice ser.</td>
+    </tr>
+    <tr>
+      <td><strong>University</strong> (Universidad)</td>
+      <td>Institución académica a la que los usuarios asisten y en cuyos alrededores ocurre la mayoría de los rides.</td>
+    </tr>
+    <tr>
+      <td><strong>Community</strong> (Comunidad)</td>
+      <td>Conjunto de estudiantes y familiares que interactúan y organizan rides dentro del ámbito universitario.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 3.1. To-be Scenario Mapping
 
 #### Estudiante pasajero
@@ -1310,42 +1408,40 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 | **Descripción TS**                    | Como Developer, necesito permitir que un conductor acepte o rechace solicitudes de viaje mediante un endpoint seguro.                                                                                                                                                                                                                                                                                                     |
 | **Criterios de Aceptación (Gherkin)** | **Scenario 1: Solicitud aceptada**<br>Dado que el conductor está autenticado,<br>Cuando envía una request PATCH a `/api/requests/{request_id}` con estado = "aceptado",<br>Entonces el sistema actualiza el estado y responde con 200.<br><br>**Scenario 2: Solicitud no encontrada o no autorizada**<br>Dado que el request_id no corresponde al conductor actual,<br>Entonces el sistema responde con código 403 o 404. |
 
-
 [comment]: <> (USER STORIES LANDING)
-
 
 ### Impact Mapping
 
-| Business Goal | Actor / Persona | Impact | Deliverables | User Stories |
-|---------------|------------------|--------|--------------|--------------|
-|  |  | <span style="color:green">Registrarse en la plataforma con correo institucional</span> | <span style="color:green">Flujo de registro con validación de dominio institucional</span> | <span style="color:green">Como usuario nuevo, deseo poder crear una cuenta con mi correo institucional, para acceder a ÑanGo.</span> |
-|  |  | <span style="color:green">Buscar viajes según horarios y ubicaciones</span> | <span style="color:green">Motor de búsqueda de viajes con filtros geográficos</span> | <span style="color:green">Como estudiante sin carro, deseo buscar viajes disponibles, para encontrar opciones adecuadas para mí.</span> |
-|  |  | <span style="color:green">Unirse a un viaje</span> | <span style="color:green">Solicitud con validación de asientos y perfil</span> | <span style="color:green">Como estudiante sin carro, deseo enviar solicitud para unirme a un viaje, para movilizarme a mi destino.</span> |
-|  |  | <span style="color:green">Comunicarse con conductores aceptados</span> | <span style="color:green">Chat habilitado tras solicitud aceptada</span> | <span style="color:green">Como pasajero, deseo chatear con el conductor después de ser aceptado, para coordinar el viaje.</span> |
-|  |  | <span style="color:green">Calificar al conductor y viaje</span> | <span style="color:green">Módulo de calificaciones post-viaje</span> | <span style="color:green">Como pasajero, deseo calificar el viaje, para mejorar la calidad del servicio.</span> |
-|  |  | <span style="color:green">Activar botón de emergencia</span> | <span style="color:green">Botón que abre chat con contacto de emergencia vía WhatsApp</span> | <span style="color:green">Como pasajero, deseo activar un botón de emergencia, para alertar a mis contactos si algo ocurre.</span> |
-|  |  | <span style="color:green">Ver ruta en tiempo real</span> | <span style="color:green">Integración GPS del viaje en curso</span> | <span style="color:green">Como pasajero, deseo ver el recorrido en tiempo real, para sentirme seguro y saber el avance del viaje.</span> |
-|  |  | <span style="color:green">Consultar historial de viajes</span> | <span style="color:green">Registro de viajes pasados y montos pagados</span> | <span style="color:green">Como pasajero, deseo revisar mi historial, para controlar mis viajes y gastos.</span> |
-|  | <span style="color:green">Estudiantes sin carro</span> | <span style="color:green">Programar viajes frecuentes</span> | <span style="color:green">Planificador de viajes recurrentes</span> | <span style="color:green">Como pasajero frecuente, deseo planificar mis viajes recurrentes, para evitar reservar cada vez.</span> |
-|  |  | <span style="color:red">Registrarse como conductor</span> | <span style="color:red">Registro con validación de licencia y datos vehiculares</span> | <span style="color:red">Como estudiante, deseo registrarme como conductor, para poder ofrecer viajes.</span> |
-|  |  | <span style="color:red">Publicar viajes</span> | <span style="color:red">Formulario de creación de viajes</span> | <span style="color:red">Como conductor, deseo publicar viajes, para compartir mi ruta y ganar dinero.</span> |
-|  |  | <span style="color:red">Gestionar solicitudes de pasajeros</span> | <span style="color:red">Dashboard de solicitudes con verificación de perfiles</span> | <span style="color:red">Como conductor, deseo aceptar o rechazar solicitudes, para tener control sobre quién viaja conmigo.</span> |
-|  |  | <span style="color:red">Visualizar calificaciones y reseñas</span> | <span style="color:red">Perfil con reputación acumulada</span> | <span style="color:red">Como conductor, deseo ver mis calificaciones, para mejorar mi servicio.</span> |
-|  |  | <span style="color:red">Coordinar con pasajeros</span> | <span style="color:red">Chat interno habilitado</span> | <span style="color:red">Como conductor, deseo comunicarme con pasajeros, para coordinar puntos de encuentro.</span> |
-|  |  | <span style="color:red">Optimizar rutas</span> | <span style="color:red">Algoritmo de sugerencia de rutas eficientes</span> | <span style="color:red">Como conductor, deseo recibir sugerencias de rutas, para ahorrar tiempo y gasolina.</span> |
-| Alcanzar 10,000 usuarios activos en 6 meses, con una tasa de retención mensual > 70% y calificación promedio > 4.5/5 | <span style="color:red">Estudiantes con carro</span>  | <span style="color:red">Compartir ubicación con pasajeros</span> | <span style="color:red">Compartición de ubicación en viaje activo</span> | <span style="color:red">Como conductor, deseo compartir mi ubicación, para generar confianza en mis pasajeros.</span> |
-|  |  | <span style="color:red">Activar botón de emergencia</span> | <span style="color:red">Función de alerta rápida a autoridades/contactos</span> | <span style="color:red">Como conductor, deseo contar con un botón de emergencia, para actuar ante cualquier incidente.</span> |
-|  |  | <span style="color:red">Calcular automáticamente costos compartidos</span> | <span style="color:red">Prorrateo automático de gastos</span> | <span style="color:red">Como conductor, deseo que se calcule automáticamente cuánto debe pagar cada pasajero, para mayor orden.</span> |
-|  |  | <span style="color:red">Consultar historial de viajes y ganancias</span> | <span style="color:red">Historial de viajes e ingresos generados</span> | <span style="color:red">Como conductor, deseo revisar cuánto he ganado, para tener control financiero.</span> |
-|  |  | <span style="color:red">Recibir notificaciones de demanda</span> | <span style="color:red">Notificaciones por zonas y horarios de alta demanda</span> | <span style="color:red">Como conductor, deseo recibir alertas de demanda, para saber dónde ofrecer viajes.</span> |
-|  |  | <span style="color:red">Programar viajes recurrentes</span> | <span style="color:red">Publicación automatizada de viajes diarios/semanales</span> | <span style="color:red">Como conductor habitual, deseo programar mis viajes frecuentes, para ahorrar tiempo en publicación.</span> |
-|  | <span style="color:blue">Familiares Conductores</span> | <span style="color:blue">Registrar cuenta y vincular familiar</span> | <span style="color:blue">Flujo de registro dual con vinculación de familiar</span> | <span style="color:blue">Como familiar, deseo registrarme como conductor y vincular el perfil de mi hijo/a, para viajar con él/ella.</span> |
-|  |  | <span style="color:blue">Publicar viajes con prioridad para familiar</span> | <span style="color:blue">Opción de asiento reservado en publicación de viaje</span> | <span style="color:blue">Como conductor, deseo publicar un viaje donde mi hijo/a tenga asiento reservado, para asegurar su traslado.</span> |
-|  |  | <span style="color:blue">Ver ubicación del familiar en viaje</span> | <span style="color:blue">Visualización GPS del hijo/a si viaja con otro conductor</span> | <span style="color:blue">Como familiar, deseo ver en tiempo real dónde está mi hijo/a, si viaja con otro conductor.</span> |
-|  |  | <span style="color:blue">Recibir alertas de seguridad de su hijo/a</span> | <span style="color:blue">Notificaciones por desvíos de ruta o botón de emergencia</span> | <span style="color:blue">Como familiar, deseo recibir alertas si algo pasa con el viaje de mi hijo/a, para actuar rápidamente.</span> |
-|  |  | <span style="color:blue">Calificar pasajeros y recibir calificaciones</span> | <span style="color:blue">Sistema bidireccional de calificaciones</span> | <span style="color:blue">Como conductor, deseo calificar a los pasajeros, y recibir evaluaciones, para fomentar confianza.</span> |
-|  |  | <span style="color:blue">Consultar historial propio y del familiar</span> | <span style="color:blue">Visualización combinada de viajes propios y del familiar</span> | <span style="color:blue">Como familiar, deseo ver el historial de viajes míos y de mi hijo/a, para tener trazabilidad.</span> |
-|  |  | <span style="color:blue">Comunicarse con pasajeros y su familiar</span> | <span style="color:blue">Chat habilitado para familiares conductores</span> | <span style="color:blue">Como familiar conductor, deseo comunicarme por chat, para coordinar mejor con mi hijo/a y pasajeros.</span> |
-|  |  | <span style="color:blue">Reportar incidentes</span> | <span style="color:blue">Módulo de denuncias</span> | <span style="color:blue">Como familiar, deseo reportar incidentes, para contribuir a la seguridad de la comunidad.</span> |
-|  |  | <span style="color:blue">Optimizar rutas con paradas familiares</span> | <span style="color:blue">Planificador con puntos familiares</span> | <span style="color:blue">Como conductor, deseo planificar rutas que recojan/dejen a mi hijo/a, para comodidad y seguridad.</span> |
-|  |  | <span style="color:blue">Ser notificado si hijo/a activa botón de emergencia</span> | <span style="color:blue">Alerta automática por WhatsApp/chat</span> | <span style="color:blue">Como familiar, deseo recibir una alerta inmediata si mi hijo/a usa el botón de emergencia.</span> |
+| Business Goal                                                                                                        | Actor / Persona                                        | Impact                                                                                 | Deliverables                                                                                 | User Stories                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                      |                                                        | <span style="color:green">Registrarse en la plataforma con correo institucional</span> | <span style="color:green">Flujo de registro con validación de dominio institucional</span>   | <span style="color:green">Como usuario nuevo, deseo poder crear una cuenta con mi correo institucional, para acceder a ÑanGo.</span>        |
+|                                                                                                                      |                                                        | <span style="color:green">Buscar viajes según horarios y ubicaciones</span>            | <span style="color:green">Motor de búsqueda de viajes con filtros geográficos</span>         | <span style="color:green">Como estudiante sin carro, deseo buscar viajes disponibles, para encontrar opciones adecuadas para mí.</span>     |
+|                                                                                                                      |                                                        | <span style="color:green">Unirse a un viaje</span>                                     | <span style="color:green">Solicitud con validación de asientos y perfil</span>               | <span style="color:green">Como estudiante sin carro, deseo enviar solicitud para unirme a un viaje, para movilizarme a mi destino.</span>   |
+|                                                                                                                      |                                                        | <span style="color:green">Comunicarse con conductores aceptados</span>                 | <span style="color:green">Chat habilitado tras solicitud aceptada</span>                     | <span style="color:green">Como pasajero, deseo chatear con el conductor después de ser aceptado, para coordinar el viaje.</span>            |
+|                                                                                                                      |                                                        | <span style="color:green">Calificar al conductor y viaje</span>                        | <span style="color:green">Módulo de calificaciones post-viaje</span>                         | <span style="color:green">Como pasajero, deseo calificar el viaje, para mejorar la calidad del servicio.</span>                             |
+|                                                                                                                      |                                                        | <span style="color:green">Activar botón de emergencia</span>                           | <span style="color:green">Botón que abre chat con contacto de emergencia vía WhatsApp</span> | <span style="color:green">Como pasajero, deseo activar un botón de emergencia, para alertar a mis contactos si algo ocurre.</span>          |
+|                                                                                                                      |                                                        | <span style="color:green">Ver ruta en tiempo real</span>                               | <span style="color:green">Integración GPS del viaje en curso</span>                          | <span style="color:green">Como pasajero, deseo ver el recorrido en tiempo real, para sentirme seguro y saber el avance del viaje.</span>    |
+|                                                                                                                      |                                                        | <span style="color:green">Consultar historial de viajes</span>                         | <span style="color:green">Registro de viajes pasados y montos pagados</span>                 | <span style="color:green">Como pasajero, deseo revisar mi historial, para controlar mis viajes y gastos.</span>                             |
+|                                                                                                                      | <span style="color:green">Estudiantes sin carro</span> | <span style="color:green">Programar viajes frecuentes</span>                           | <span style="color:green">Planificador de viajes recurrentes</span>                          | <span style="color:green">Como pasajero frecuente, deseo planificar mis viajes recurrentes, para evitar reservar cada vez.</span>           |
+|                                                                                                                      |                                                        | <span style="color:red">Registrarse como conductor</span>                              | <span style="color:red">Registro con validación de licencia y datos vehiculares</span>       | <span style="color:red">Como estudiante, deseo registrarme como conductor, para poder ofrecer viajes.</span>                                |
+|                                                                                                                      |                                                        | <span style="color:red">Publicar viajes</span>                                         | <span style="color:red">Formulario de creación de viajes</span>                              | <span style="color:red">Como conductor, deseo publicar viajes, para compartir mi ruta y ganar dinero.</span>                                |
+|                                                                                                                      |                                                        | <span style="color:red">Gestionar solicitudes de pasajeros</span>                      | <span style="color:red">Dashboard de solicitudes con verificación de perfiles</span>         | <span style="color:red">Como conductor, deseo aceptar o rechazar solicitudes, para tener control sobre quién viaja conmigo.</span>          |
+|                                                                                                                      |                                                        | <span style="color:red">Visualizar calificaciones y reseñas</span>                     | <span style="color:red">Perfil con reputación acumulada</span>                               | <span style="color:red">Como conductor, deseo ver mis calificaciones, para mejorar mi servicio.</span>                                      |
+|                                                                                                                      |                                                        | <span style="color:red">Coordinar con pasajeros</span>                                 | <span style="color:red">Chat interno habilitado</span>                                       | <span style="color:red">Como conductor, deseo comunicarme con pasajeros, para coordinar puntos de encuentro.</span>                         |
+|                                                                                                                      |                                                        | <span style="color:red">Optimizar rutas</span>                                         | <span style="color:red">Algoritmo de sugerencia de rutas eficientes</span>                   | <span style="color:red">Como conductor, deseo recibir sugerencias de rutas, para ahorrar tiempo y gasolina.</span>                          |
+| Alcanzar 10,000 usuarios activos en 6 meses, con una tasa de retención mensual > 70% y calificación promedio > 4.5/5 | <span style="color:red">Estudiantes con carro</span>   | <span style="color:red">Compartir ubicación con pasajeros</span>                       | <span style="color:red">Compartición de ubicación en viaje activo</span>                     | <span style="color:red">Como conductor, deseo compartir mi ubicación, para generar confianza en mis pasajeros.</span>                       |
+|                                                                                                                      |                                                        | <span style="color:red">Activar botón de emergencia</span>                             | <span style="color:red">Función de alerta rápida a autoridades/contactos</span>              | <span style="color:red">Como conductor, deseo contar con un botón de emergencia, para actuar ante cualquier incidente.</span>               |
+|                                                                                                                      |                                                        | <span style="color:red">Calcular automáticamente costos compartidos</span>             | <span style="color:red">Prorrateo automático de gastos</span>                                | <span style="color:red">Como conductor, deseo que se calcule automáticamente cuánto debe pagar cada pasajero, para mayor orden.</span>      |
+|                                                                                                                      |                                                        | <span style="color:red">Consultar historial de viajes y ganancias</span>               | <span style="color:red">Historial de viajes e ingresos generados</span>                      | <span style="color:red">Como conductor, deseo revisar cuánto he ganado, para tener control financiero.</span>                               |
+|                                                                                                                      |                                                        | <span style="color:red">Recibir notificaciones de demanda</span>                       | <span style="color:red">Notificaciones por zonas y horarios de alta demanda</span>           | <span style="color:red">Como conductor, deseo recibir alertas de demanda, para saber dónde ofrecer viajes.</span>                           |
+|                                                                                                                      |                                                        | <span style="color:red">Programar viajes recurrentes</span>                            | <span style="color:red">Publicación automatizada de viajes diarios/semanales</span>          | <span style="color:red">Como conductor habitual, deseo programar mis viajes frecuentes, para ahorrar tiempo en publicación.</span>          |
+|                                                                                                                      | <span style="color:blue">Familiares Conductores</span> | <span style="color:blue">Registrar cuenta y vincular familiar</span>                   | <span style="color:blue">Flujo de registro dual con vinculación de familiar</span>           | <span style="color:blue">Como familiar, deseo registrarme como conductor y vincular el perfil de mi hijo/a, para viajar con él/ella.</span> |
+|                                                                                                                      |                                                        | <span style="color:blue">Publicar viajes con prioridad para familiar</span>            | <span style="color:blue">Opción de asiento reservado en publicación de viaje</span>          | <span style="color:blue">Como conductor, deseo publicar un viaje donde mi hijo/a tenga asiento reservado, para asegurar su traslado.</span> |
+|                                                                                                                      |                                                        | <span style="color:blue">Ver ubicación del familiar en viaje</span>                    | <span style="color:blue">Visualización GPS del hijo/a si viaja con otro conductor</span>     | <span style="color:blue">Como familiar, deseo ver en tiempo real dónde está mi hijo/a, si viaja con otro conductor.</span>                  |
+|                                                                                                                      |                                                        | <span style="color:blue">Recibir alertas de seguridad de su hijo/a</span>              | <span style="color:blue">Notificaciones por desvíos de ruta o botón de emergencia</span>     | <span style="color:blue">Como familiar, deseo recibir alertas si algo pasa con el viaje de mi hijo/a, para actuar rápidamente.</span>       |
+|                                                                                                                      |                                                        | <span style="color:blue">Calificar pasajeros y recibir calificaciones</span>           | <span style="color:blue">Sistema bidireccional de calificaciones</span>                      | <span style="color:blue">Como conductor, deseo calificar a los pasajeros, y recibir evaluaciones, para fomentar confianza.</span>           |
+|                                                                                                                      |                                                        | <span style="color:blue">Consultar historial propio y del familiar</span>              | <span style="color:blue">Visualización combinada de viajes propios y del familiar</span>     | <span style="color:blue">Como familiar, deseo ver el historial de viajes míos y de mi hijo/a, para tener trazabilidad.</span>               |
+|                                                                                                                      |                                                        | <span style="color:blue">Comunicarse con pasajeros y su familiar</span>                | <span style="color:blue">Chat habilitado para familiares conductores</span>                  | <span style="color:blue">Como familiar conductor, deseo comunicarme por chat, para coordinar mejor con mi hijo/a y pasajeros.</span>        |
+|                                                                                                                      |                                                        | <span style="color:blue">Reportar incidentes</span>                                    | <span style="color:blue">Módulo de denuncias</span>                                          | <span style="color:blue">Como familiar, deseo reportar incidentes, para contribuir a la seguridad de la comunidad.</span>                   |
+|                                                                                                                      |                                                        | <span style="color:blue">Optimizar rutas con paradas familiares</span>                 | <span style="color:blue">Planificador con puntos familiares</span>                           | <span style="color:blue">Como conductor, deseo planificar rutas que recojan/dejen a mi hijo/a, para comodidad y seguridad.</span>           |
+|                                                                                                                      |                                                        | <span style="color:blue">Ser notificado si hijo/a activa botón de emergencia</span>    | <span style="color:blue">Alerta automática por WhatsApp/chat</span>                          | <span style="color:blue">Como familiar, deseo recibir una alerta inmediata si mi hijo/a usa el botón de emergencia.</span>                  |
