@@ -730,7 +730,7 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 
 ![Familiar de estudiante](./imgs/as-is-familiar.png)
 
-## Ubiquitous Language
+## 2.4 Ubiquitous Language
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
