@@ -827,7 +827,6 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
   </tbody>
 </table>
 
-
 ### 3.1. To-be Scenario Mapping
 
 #### Estudiante pasajero
@@ -1445,3 +1444,47 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 |                                                                                                                      |                                                        | <span style="color:blue">Reportar incidentes</span>                                    | <span style="color:blue">Módulo de denuncias</span>                                          | <span style="color:blue">Como familiar, deseo reportar incidentes, para contribuir a la seguridad de la comunidad.</span>                   |
 |                                                                                                                      |                                                        | <span style="color:blue">Optimizar rutas con paradas familiares</span>                 | <span style="color:blue">Planificador con puntos familiares</span>                           | <span style="color:blue">Como conductor, deseo planificar rutas que recojan/dejen a mi hijo/a, para comodidad y seguridad.</span>           |
 |                                                                                                                      |                                                        | <span style="color:blue">Ser notificado si hijo/a activa botón de emergencia</span>    | <span style="color:blue">Alerta automática por WhatsApp/chat</span>                          | <span style="color:blue">Como familiar, deseo recibir una alerta inmediata si mi hijo/a usa el botón de emergencia.</span>                  |
+
+# Capítulo IV: Product Design
+
+## 4.6. Domain-Driven Software Architecture.
+
+En Ñango adoptamos un enfoque Domain-Driven Design (DDD) que divide la lógica de negocio en cinco Bounded Contexts independientes: Users, Payments, Reservations, Ratings y Messaging
+
+### 4.6.1. Software Architecture Context Diagram.
+
+En el Diagrama de Contexto (C4 Level 1) representamos a Ñango como un único sistema (“Ride-Share Platform”) y sus interacciones con actores y sistemas externos:
+
+- Actores (Persons): Student-Passenger, Student-Driver, Family-Driver.
+
+- Sistemas externos: University Authentication (SSO universitario) y Payment Gateway (pasarela de pagos).
+
+![Context Diagram](./structurizr/context-diagram.png)
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+En el Diagrama de Contenedores (C4 Level 2) desglosamos Ñango en piezas ejecutables:
+
+- Web Application (Angular SPA): interfaz de usuario para reservas y gestión de rides.
+
+- API Gateway (Spring Boot): enrutador que delega peticiones a los bounded context.
+
+- User Service, Payment Service, Reservation Service, Rating Service, Messaging Service
+
+- Database (PostgreSQL): almacena usuarios, pagos, reservas, calificaciones y mensajes.
+
+![Container Diagram](./structurizr/container-diagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cada contenedor para mostrar sus piezas lógicas. Por ejemplo, en Reservation Service:
+
+- ReservationController: expone los endpoints /rides y /reserve.
+
+- ReservationApplicationService: implementa casos de uso como reserva y cancelación.
+
+- ReservationDomain: entidades, agregados y lógica de dominio.
+
+- ReservationRepository: persistencia de datos en PostgreSQL.
+
+![Component Diagram](./structurizr/component-diagram.png)
