@@ -1562,3 +1562,48 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
 - ReservationRepository: persistencia de datos en PostgreSQL.
 
 ![Component Diagram](./structurizr/component-diagram.png)
+
+
+## 3.4. Product Backlog
+
+| \#Orden | User Story ID | Título | Descripción | Story Points |
+| :---- | :---- | :---- | :---- | :---- |
+| **1** | US01 | Registro de nuevas cuentas | Como usuario nuevo no registrado, deseo poder crear una cuenta en la aplicación, para acceder a las funcionalidades exclusivas de ÑanGo. | 5 |
+| **2** | US02 | Recuperación de contraseña | Como usuario que olvidó su contraseña, quiero recuperar el acceso a mi cuenta, para poder seguir usando la app. | 3 |
+| **3** | US03 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión en la app, para acceder a mis funcionalidades personalizadas. | 3 |
+| **4** | US04 | Cierre de sesión | Como usuario autenticado, quiero cerrar sesión, para proteger el acceso a mi cuenta. | 2 |
+| **5** | US05 | Edición de perfil | Como usuario autenticado, quiero poder editar mi perfil, para mantener mi información actualizada. | 5 |
+| **6** | US06 | Chat de comunicación | Como usuario, quiero comunicarme con otros mediante chat, para coordinar viajes y resolver dudas. | 8 |
+| **7** | US07 | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña, para reforzar la seguridad de mi cuenta. |  |
+| **8** | US-S01 | Verificación con correo institucional | Como estudiante, quiero verificar mi cuenta utilizando mi "DNI" y "Carnet Universitario". | 5 |
+| **9** | US-S02 | Búsqueda de viajes disponibles | Como estudiante sin vehículo, quiero buscar viajes disponibles, para poder unirme a ellos. | 8 |
+| **10** | US-S03 | Solicitud de unirse a un viaje | Como estudiante, quiero solicitar unirme a un viaje disponible, para participar en el transporte compartido. | 8 |
+| **11** | US-S04 | Notificaciones en tiempo real | Como estudiante, quiero recibir notificaciones sobre el estado de mi solicitud de viaje. | 5 |
+| **12** | US-S05 | Sistema de calificación post-viaje | Como estudiante, quiero calificar el viaje después de completarlo. | 5 |
+| **13** | US-S06 | Chat interno con Grupo | Como estudiante, quiero comunicarme con el conductor una vez aceptada mi solicitud. | 5 |
+| **14** | US-S08 | Ruta del Viaje en el Mapa | Como estudiante, quiero ver la ruta del viaje para saber dónde está el conductor. | 8 |
+| **15** | US-S09 | Historial de viajes y gastos | Como estudiante, quiero consultar el historial de mis viajes y gastos. | 5 |
+| **16** | US-S10 | Planificación de viajes recurrentes | Como estudiante, quiero programar viajes recurrentes para el mismo trayecto. | 8 |
+| **17** | US-D01 | Registro como conductor | Como estudiante con vehículo, quiero registrarme como conductor. | 8 |
+| **18** | US-D02 | Verificación de licencia y vehículo | Como conductor, quiero que mis datos y licencia sean verificados. | 5 |
+| **19** | US-D03 | Publicación de viajes | Como conductor, quiero publicar viajes indicando ruta, horarios y costo. | 8 |
+| **20** | US-D04 | Gestión de solicitudes | Como conductor, quiero aceptar/rechazar solicitudes de pasajeros. | 8 |
+| **21** | US-D05 | Sistema de reputación | Como conductor, quiero ver mi calificación promedio y comentarios. | 5 |
+| **22** | US-D06 | Chat interno con pasajeros | Como conductor, quiero comunicarme con pasajeros confirmados. | 5 |
+| **23** | US-D11 | Historial de viajes y ganancias | Como conductor, quiero ver mi historial de viajes y ganancias. | 5 |
+| **24** | US-D12 | Notificaciones de demanda | Como conductor, quiero recibir alertas sobre zonas/horarios con alta demanda. | 5 |
+| **25** | US-F01 | Registro dual como conductor y familiar | Como familiar conductor, quiero registrarme como conductor familiar. | 8 |
+| **26** | US-F05 | Calificación bidireccional | Como familiar conductor, quiero calificar a pasajeros y recibir calificaciones. | 5 |
+| **27** | US-F08 | Reporte de incidentes | Como familiar conductor, quiero reportar incidentes con conductores/pasajeros. | 5 |
+| **28** | US-L01 | Registro en la plataforma | Como usuario nuevo, quiero encontrar una sección clara para registrarme. | 3 |
+| **29** | US-L02 | Inicio de sesión | Como usuario registrado, quiero encontrar un botón de "Iniciar sesión" visible. | 3 |
+| **30** | US-L03 | Información sobre la app | Como visitante, quiero entender qué hace la app y cómo funciona. | 3 |
+| **31** | US-L04 | Beneficios clave | Como visitante, quiero ver los beneficios de la app. | 3 |
+| **32** | US-L05 | Planes para conductores | Como conductor, quiero comparar planes (gratis/premium). | 5 |
+| **33** | US-L07 | Responsividad | Como usuario, quiero que la landing se vea bien en todos los dispositivos. | 5 |
+| **34** | TS01 | Endpoint de Registro de Usuario | Como Developer, necesito crear un endpoint para registro de usuarios. | 8 |
+| **35** | TS02 | Endpoint de Login de Usuario | Como Developer, necesito implementar un endpoint para autenticación. | 5 |
+| **36** | TS03 | Endpoint para publicar viaje | Como Developer, necesito crear un endpoint para publicar viajes. | 8 |
+| **37** | TS04 | Endpoint para solicitar unirse a viaje | Como Developer, necesito permitir solicitudes para unirse a viajes. | 8 |
+| **38** | TS05 | Integración con Servicios Externos | Como Developer, necesito integrar servicio de validación de ID estudiantil. | 13 |
+
