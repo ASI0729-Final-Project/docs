@@ -1789,6 +1789,470 @@ El conjunto de información Ñango será representado por el sistema mediante la
 
 **Fuente:** Elaboración Propia
 
+### 4.2.3. SEO Tags and Meta Tags
+
+**Title:**
+"Ñango – Share the ride, save the day"
+
+**Meta Description:**
+"Connect with classmates and share rides to campus in a safe, affordable, and eco-friendly way. Ñango offers a tech-based carpooling solution designed for students in Peru."
+
+**Keywords:**
+"Ñango, student carpooling, shared transportation, campus rides, university mobility, safe ride app, ride sharing Peru, student transport solution"
+
+**Author:**
+TinkuyTech Team
+
+### 4.3.2. Landing Page Mock-up
+
+**Figura N:** Home de la landing page
+
+![Imagen de Register](/imgCap4/Landing/MLanding1.png "Register")
+
+***Nota:** El wireframe muestra la sección Home de la landing page, con un mensaje principal, botones de registro (Start for Free) y una barra de navegación con accesos a las secciones clave del sitio.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Sección "How it Works"
+
+![Imagen de Register](/imgCap4/Landing/MLanding2.png "Register")
+
+***Nota:** El wireframe presenta la sección How It Works, donde se explica de forma simple y visual el funcionamiento de la plataforma en tres pasos: buscar u ofrecer un viaje, confirmar y dividir costos, y calificar la experiencia.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Sección "About Us"
+
+![Imagen de Register](/imgCap4/Landing/MLanding3.png "Register")
+
+***Nota:** Muestra la misión y visión de Ñango, junto con su enfoque en movilidad estudiantil.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Sección "Features"
+
+![Imagen de Register](/imgCap4/Landing/MLanding4.png "Register")
+
+***Nota:** Presenta los beneficios clave de la plataforma: ahorro, networking y sostenibilidad.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Sección "Plans"
+
+![Imagen de Register](/imgCap4/Landing/MLanding5.png "Register")
+
+***Nota:** Se detallan los planes de suscripción disponibles, con sus respectivas funcionalidades..*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Sección "Be Ñango"
+
+![Imagen de Register](/imgCap4/Landing/MLanding6.png "Register")
+
+***Nota:** Contiene el formulario de registro para nuevos usuarios de la plataforma.*
+
+**Fuente:** Elaboración Propia
+
+### 4.4.2. Web Applications Mock-ups
+
+**Figura N:** Registro en la aplicación web
+
+![Imagen de Register](/imgCap4/Mock-ups/1.RegisterMU.png "Register")
+
+***Nota:** Mock-up para registrar al nuevo usuario*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Iniciar sesión en la aplicación web
+
+![Imagen de Login](/imgCap4/Mock-ups/2.LoginMU.png "Login")
+
+***Nota:** Mock-up para ingresar con una cuenta ya existe.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Mensaje para recuperar contraseña desde el login
+
+![Imagen de Message](/imgCap4/Mock-ups/3.LoginMessageMU.png "Message")
+
+***Nota:** El mock-up para recuperación de contraseña se activa al hacer clic en el enlace "Forgot your password?". Y se muestra una ventana flotante con instrucciones para restablecer la contraseña del usuario.*
+
+**Fuente:** Elaboración Propia
+***
+
+**Figura N:** Recuperación de contraseña
+
+![Imagen de Password](/imgCap4/Mock-ups/4.PasswordRecovery.png "Password")
+
+***Nota:** Al realizar la instrucción de la ventana flotante, te dirigirá a la pantalla "Password Recovery" y el usuario tiene que ingresar su contraseña nueva.*
+
+**Fuente:** Elaboración Propia
+
+***
+**Figura N:** Ver Planes
+
+![Imagen de Password](/imgCap4/Mock-ups/PlanMu1.png "Password")
+
+
+***Nota:** Se muestra la pantalla donde el usuario puede visualizar y comparar los planes disponibles antes de contratarlos.*
+
+**Fuente:** Elaboración Propia
+
+***
+**Figura N:** Procesar tu pago para un plan
+
+![Imagen de Password](/imgCap4/Mock-ups/PlanM21.png "Password")
+
+
+***Nota:**  El mock-ups representa el formulario para ingresar los datos de pago al momento de adquirir un plan.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Vista para el estudiante y familiar del estudiante (conductor)**
+
+**Figura N:** Verificación de perfil de un estudiante para acceder al rol de conductor
+
+![Imagen de Profile Verificationn](/imgCap4/Mock-ups/Conductor/17.ProfileVerificationMUC.png "Profile Verification")
+
+***Nota:**  Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "License Type" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Verificación de perfil del familiar de un estudiante para acceder al rol de conductor
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/18.ProfileVerificationMUC2.PNG "Navegation")
+
+***Nota:** Mock-up para el ingreso de credenciales del familiar de un estudiante. El familiar debe subir dos documentos obligatorios: "License Type" y "Student ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
+
+**Fuente:** Elaboración Propia
+***
+
+**Figura N:** Menú principal de la página web
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/19.HomeMUC.PNG "Navegation")
+
+***Nota:**  Al acceder a la vista del conductor, el usuario podrá navegar por las siguientes secciones: "Home","Routes", "Requests" y "History".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de cambio de contraseña
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/20.HomeChangePasswordMUC.PNG "Navegation")
+
+***Nota:** Mock-up correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla del perfil del usuario
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/21.HomeMyProfileMUC.PNG "Navegation")
+
+***Nota:**  El mock-up correspondiente a la funcionalidad de modificación del perfil del usuario. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "My Profile", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de rutas 
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/22.RoutesMUC.PNG "Navegation")
+
+***Nota:** Mock-up que muestra la interfaz donde el usuario, en su rol de conductor, puede generar los detalles de su ruta.*
+
+**Fuente:** Elaboración Propia
+***
+
+**Figura N:** Pantalla de solicitud
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
+
+***Nota:** En el mock-up se visualiza la sección de solicitudes y reprogramaciones, junto con tres botones que permiten la interacción del usuario. El primero permite aceptar la solicitud de viaje, el segundo añade al pasajero al chat grupal del viaje, y el tercero permite rechazar la solicitud.*
+
+**Fuente:** Elaboración Propia
+
+***
+**Figura N:** Pantalla flotante para aceptar la solicitud del pasajero
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
+
+***Nota:** Mock-up para aceptar la solicitud del usuario (pasajero)*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla flotante para agregar al usuario (pasajero) a un chat grupal
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/29.RequestGroupMUC.PNG "Navegation")
+
+***Nota:** Mock-up para agregar al usuario (pasajero) al grupo del viaje solicitado*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla flotante para rechazar la solicitud del pasajero
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/30.RequestRejectMUC.PNG "Navegation")
+
+***Nota:** Mock-up para rechazar la solicitud del usuario (pasajero).*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla flotante para ver los comentarios
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/24.RequestCommentsMUC.PNG "Navegation")
+
+***Nota:** Mock-up que muestra la interfaz donde el conductor puede visualizar los comentarios recibidos relacionados con su calificación como prestador del servicio. Esta sección permite consultar opiniones de los pasajeros sobre su desempeño en los viajes realizados.*
+
+**Fuente:** Elaboración Propia
+***
+
+**Figura N:** Pantalla del chat grupal
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/25.ChatMUC.PNG "Navegation")
+
+***Nota:** El usuario puede interactuar con el chat grupal desde las secciones "Routes" y "Requests", facilitando así la comunicación entre los participantes del viaje.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:**  Pantalla del historial de viajes
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/26.HistoryMUC.PNG "Navegation")
+
+***Nota:** El mock-up muestra el historial de los detalles de sus rutas como "passengers", "starting point", "destination", "date", "time", "number of passengers", "individual fare", "total fare", y "status".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de soporte
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/27.SupportMUC.PNG "Navegation")
+
+***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email".*
+
+**Fuente:** Elaboración Propia
+***
+
+**Vista para el estudiante (pasajero)**
+
+**Figura N:** Verificación de perfil del estudiante para acceder al rol de pasajero
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/5.ProfileVerificationMUP.png "Navegation")
+
+***Nota:** Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "ID" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del pasajero.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Menú principal de la página web
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/6.HomeMUP.PNG  "Navegation")
+
+***Nota:** Al acceder a la vista del pasajero, el usuario podrá navegar por las siguientes secciones: "Quotese", "History", "My Profile", "Change Password" y "Support"*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de cambio de contraseña
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/7.HomeChangePasswordMUP.PNG  "Navegation")
+
+***Nota:**  Mock-up correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Verificación de perfil del estudiante para acceder al rol de pasajero
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/8.HomeMyProfileMUP.PNG  "Navegation")
+
+***Nota:**  Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "ID" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del pasajero.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de cotización
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/9.QuotesMUP.PNG  "Navegation")
+
+***Nota:** El presente Mock-up facilita al estudiante la búsqueda y selección de rutas disponibles, optimizando así su experiencia de navegación dentro de la plataforma.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de reserva
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/10.QuotesReserveMUP.PNG  "Navegation")
+
+***Nota:** Mock-up que muestra la visualización de una cotización para un próximo viaje. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante "Reserve".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+
+**Figura N:** Pantalla de comentarios
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/11.QuoteCommentsMUP.PNG.png "Navegation")
+
+***Nota:** Mock-up que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante denominada "Comments".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla del chat grupal
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/12.ChatMUP.png  "Navegation")
+
+***Nota:** El usuario puede interactuar con el chat grupal desde la secciones "Quotes", facilitando así la comunicación entre todo el grupo del viaje.*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de historial
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/13.HistoryMUP.PNG  "Navegation")
+
+***Nota:** El Mock-up muestra el historial de los detalles de los viajes que realizó como "driver", "starting point", "destination", "date", "hour"y "Pay".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de reporgamación
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/14.HistoryRescheduleMUP.PNG  "Navegation")
+
+***Nota:** Este Mock-up corresponde a la pantalla flotante de "Reschedule" accesible desde la sección "History".*
+
+**Fuente:** Elaboración Propia
+***
+
+**Figura N:** Pantalla de comentarios
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/15.HistoryCommentsMUP.PNG  "Navegation")
+
+***Nota:**  Mock-up que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico, y que además permite continuar dejando mensajes relacionados con su experiencia de viaje. Esta interfaz se accede desde la sección "History" y despliega una pantalla flotante denominada "Comments".*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** Pantalla de soporte
+
+![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/16.SupportMUP.PNG  "Navegation")
+
+***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email".*
+
+**Fuente:** Elaboración Propia
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+**Figura N:** User goal: Registrar con un plan
+
+![Imagen de Estructura de estudiante](/imgCap4/Flow7.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Registrar con un plan 
+
+![Imagen de Flujo](/imgCap4/Flow8.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Recuperación de contraseña desde el inicio sesión
+
+![Imagen de Flujo](/imgCap4/Flow9.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero y Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Cambio de contraseña desde home
+
+![Imagen de Flujo](/imgCap4/Flow10.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Editar perfil desde home
+
+![Imagen de Flujo](/imgCap4/Flow11.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Navegar en el dashboard del pasajero
+
+![Imagen de Flujo](/imgCap4/Flow12.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura N:** User goal: Navegar en el dashboard del conductor
+
+![Imagen de Flujo](/imgCap4/Flow13.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero*
+
+**Fuente:** Elaboración Propia
+
+## 4.5 Web Application Prototyping
+Explicación de 
+[<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114309_upc_edu_pe/EZ58kM1ocjZOqpHKoUqD4zYB6jizr8ADE8Piv4zSNGaihQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pa8BLe</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114309_upc_edu_pe/EZ58kM1ocjZOqpHKoUqD4zYB6jizr8ADE8Piv4zSNGaihQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pa8BLe)
+
 ## 4.6. Domain-Driven Software Architecture.
 
 En Ñango adoptamos un enfoque Domain-Driven Design (DDD) que divide la lógica de negocio en cinco Bounded Contexts independientes: Users, Payments, Reservations, Ratings y Messaging
