@@ -1922,7 +1922,7 @@ una organización y sus respectivos repositorios, cada uno con sus respectivas
 
   Los enlaces correspondientes son los siguientes:
 
-- [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+- [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 - [<u>https://github.com/ASI0729-Final-Project/Informe_final </u>](https://github.com/ASI0729-Final-Project/docs)
 
@@ -2145,7 +2145,7 @@ apartado para conocer la aplicación web. Debe ser responsive.</th>
 
 #### 5.2.1.3. Development Evidence for Sprint Review. 
 
- - **FALTA**
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
 En el sprint 1 solo se trabajo en el diseño e implementacion de Landing page 
@@ -2153,7 +2153,6 @@ por lo cual no hay una evidencia de testing.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review 
 
-- **Se necesita el landing page para realizar**
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2166,7 +2165,7 @@ El despliegue del Landing Page se realizó a través de GitHub pages. El
 link de nuestra Landing Page es el siguiente:
 
 Link:
-[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
