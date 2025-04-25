@@ -1562,3 +1562,10 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
 - ReservationRepository: persistencia de datos en PostgreSQL.
 
 ![Component Diagram](./structurizr/component-diagram.png)
+
+ #### **4.8. Database Design**
+
+   ##### **4.8.1. Database Diagrams.**
+   
+   <img src="imgs/ÑangoDatabaseDiagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+   
