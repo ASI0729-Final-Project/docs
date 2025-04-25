@@ -1833,7 +1833,7 @@ una organización y sus respectivos repositorios, cada uno con sus respectivas
 
   Los enlaces correspondientes son los siguientes:
 
-- [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+- [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 - [<u>https://github.com/ASI0729-Final-Project/Informe_final </u>](https://github.com/ASI0729-Final-Project/docs)
 
@@ -2077,7 +2077,7 @@ El despliegue del Landing Page se realizó a través de GitHub pages. El
 link de nuestra Landing Page es el siguiente:
 
 Link:
-[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
