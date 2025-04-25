@@ -46,7 +46,7 @@ Código de Alumno: U201819674
 
 Mi nombre es Henry Kevin Diaz Gutierrez, tengo 24 años, soy estudiante de Ingenieria de Software en la UPC.Me caracterizo por ser creativo , cumplir con lo que se me brinda y ayudar a resolver problemas si se presenta.Desde siempre me intereso el tema de los videojuegos y de el tipo de diseño que se empleaba, eso hizo que me guste el desarrollo de software. 
  
-<img src="imgIntegrantes/Henry.PNG" alt="Henry" title="Foto de Henry" width="110"/>
+<img src="imgIntegrantes/Henry.png" alt="Henry" title="Foto de Henry" width="110"/>
 
 ## 1.2. Solution Profile
 
@@ -724,7 +724,7 @@ Segmentos objetivos de familiar del estudiante:
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
     </td>
   </tr>
@@ -758,7 +758,7 @@ Segmentos objetivos de familiar del estudiante:
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
     </td>
   </tr>
@@ -777,6 +777,29 @@ Segmentos objetivos de familiar del estudiante:
     </td>
   </tr>
 </table>
+
+### 2.2.3. Análisis de entrevistas 
+
+**Segmentos objetivos de estudiante con vehículo:**
+
+- Los entrevistados consideraron que una plataforma que le permita ofrecer cupos a otros estudiantes sería beneficiosa tanto en términos económicos como de eficiencia. También valoraron positivamente aspectos como la geolocalización en tiempo real y la validación de perfiles, al considerar que la seguridad es un factor clave para generar confianza en este tipo de iniciativas.
+
+En cuanto a los incentivos, mencionaron que una compensación justa por viaje, así como una interfaz fácil de usar, serían elementos determinantes para su participación activa como conductor dentro del sistema.
+
+**Segmentos objetivos de estudiante sin vehículo:**
+
+- Los participantes destacaron como elementos clave la necesidad de contar con una aplicación web que brinde actualización en tiempo real de la ubicación del vehículo, así como la posibilidad de visualizar la calificación de los conductores. Además, manifestaron preferencia por poder seleccionar al conductor, lo cual les genera mayor confianza y sensación de seguridad.
+
+En cuanto al método de pago, se mostraron inclinados por opciones digitales como Yape y Plin, debido a su facilidad de uso y accesibilidad. En general, la propuesta del servicio fue bien recibida, generando interés en participar en pruebas piloto y contribuir con su experiencia como usuarios potenciales.
+
+**Segmentos objetivos de familiar del estudiante:**
+
+- Los entrevistados expresaron una actitud positiva hacia la iniciativa de implementar un sistema de transporte compartido para estudiantes, destacando que ya se encuentra involucrado en el traslado diario de su familiar a la universidad. Esta rutina, aunque asumida con responsabilidad, representa una carga de tiempo y esfuerzo que podría optimizarse si se integraran más pasajeros en un solo viaje.
+
+Valoraron especialmente que la plataforma proponga medidas de seguridad como la verificación de identidad de los usuarios y el monitoreo en tiempo real del recorrido, aspectos que considera fundamentales al tratarse del transporte de jóvenes.
+
+Asimismo, mostraron disposición a participar en el servicio siempre que exista claridad en los horarios, rutas y condiciones. 
+
 
 ## 2.3. Needfinding
 
@@ -1835,7 +1858,7 @@ una organización y sus respectivos repositorios, cada uno con sus respectivas
 
 - [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
 
-- [<u>https://github.com/ASI0729-Final-Project/Informe_final </u>](https://github.com/ASI0729-Final-Project/docs)
+- [<u>https://github.com/ASI0729-Final-Project/Informe_final </u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 - [<u>https://github.com/ASI0729-Final-Project/backend</u>](https://github.com/ASI0729-Final-Project/backend)
 
@@ -2077,7 +2100,7 @@ El despliegue del Landing Page se realizó a través de GitHub pages. El
 link de nuestra Landing Page es el siguiente:
 
 Link:
-[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/landing-page)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
