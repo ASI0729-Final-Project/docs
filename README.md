@@ -774,7 +774,7 @@ Segmentos objetivos de familiar del estudiante:
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
     </td>
   </tr>
@@ -808,7 +808,7 @@ Segmentos objetivos de familiar del estudiante:
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
     </td>
   </tr>
