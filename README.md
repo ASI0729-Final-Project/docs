@@ -42,6 +42,12 @@ Descripción:Mi nombre es Mariano Moises Oblitas Davila soy estudiante de 18 añ
 
 <img src="imgIntegrantes/Mariano.PNG" alt="Mariano" title="Foto de Mariano" width="110"/>
 
+Código de Alumno: U201819674
+
+Mi nombre es Henry Kevin Diaz Gutierrez, tengo 24 años, soy estudiante de Ingenieria de Software en la UPC.Me caracterizo por ser creativo , cumplir con lo que se me brinda y ayudar a resolver problemas si se presenta.Desde siempre me intereso el tema de los videojuegos y de el tipo de diseño que se empleaba, eso hizo que me guste el desarrollo de software. 
+ 
+<img src="imgIntegrantes/Henry.PNG" alt="Henry" title="Foto de Henry" width="110"/>
+
 ## 1.2. Solution Profile
 
 En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se debe resolver para fomentar la seguridad de los estudiantes.
@@ -704,6 +710,73 @@ Segmentos objetivos de familiar del estudiante:
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>9</td>
+    <th>Nombre</th>
+    <td>Luis Angel Becerra</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>30</td>
+    <th>Distrito</th>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3"> 
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1x73hd6iTWwZnEDO1hQaXoada_pWeMqZM/view?usp=drive_link">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 3:46
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>8</td>
+    <th>Nombre</th>
+    <td>Alvaro Lazarte</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>32</td>
+    <th>Distrito</th>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3"> 
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1Eda29uZega_h7xYKHt1DU_ks12OnxMk0/view?usp=drive_link">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 4:42
+    </td>
+  </tr>
+</table>
 
 ## Needfinding
 
