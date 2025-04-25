@@ -36,6 +36,12 @@ Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingenier
 
 <img src="imgIntegrantes/anderson.jpg" alt="Anderson" title="Foto de Anderson" width="110"/>
 
+Código de Alumno: U202310222
+
+Descripción:Mi nombre es Mariano Moises Oblitas Davila soy estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías.
+
+<img src="imgIntegrantes/Mariano.png" alt="Mariano" title="Foto de Mariano" width="110"/>
+
 ## 1.2. Solution Profile
 
 En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se debe resolver para fomentar la seguridad de los estudiantes.
