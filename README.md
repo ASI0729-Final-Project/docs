@@ -785,6 +785,28 @@ Segmentos objetivos de familiar del estudiante:
   </tr>
 </table>
 
+### 2.2.3. Análisis de entrevistas 
+
+**Segmentos objetivos de estudiante con vehículo:**
+
+- Los entrevistados consideraron que una plataforma que le permita ofrecer cupos a otros estudiantes sería beneficiosa tanto en términos económicos como de eficiencia. También valoraron positivamente aspectos como la geolocalización en tiempo real y la validación de perfiles, al considerar que la seguridad es un factor clave para generar confianza en este tipo de iniciativas.
+
+En cuanto a los incentivos, mencionaron que una compensación justa por viaje, así como una interfaz fácil de usar, serían elementos determinantes para su participación activa como conductor dentro del sistema.
+
+**Segmentos objetivos de estudiante sin vehículo:**
+
+- Los participantes destacaron como elementos clave la necesidad de contar con una aplicación web que brinde actualización en tiempo real de la ubicación del vehículo, así como la posibilidad de visualizar la calificación de los conductores. Además, manifestaron preferencia por poder seleccionar al conductor, lo cual les genera mayor confianza y sensación de seguridad.
+
+En cuanto al método de pago, se mostraron inclinados por opciones digitales como Yape y Plin, debido a su facilidad de uso y accesibilidad. En general, la propuesta del servicio fue bien recibida, generando interés en participar en pruebas piloto y contribuir con su experiencia como usuarios potenciales.
+
+**Segmentos objetivos de familiar del estudiante:**
+
+- Los entrevistados expresaron una actitud positiva hacia la iniciativa de implementar un sistema de transporte compartido para estudiantes, destacando que ya se encuentra involucrado en el traslado diario de su familiar a la universidad. Esta rutina, aunque asumida con responsabilidad, representa una carga de tiempo y esfuerzo que podría optimizarse si se integraran más pasajeros en un solo viaje.
+
+Valoraron especialmente que la plataforma proponga medidas de seguridad como la verificación de identidad de los usuarios y el monitoreo en tiempo real del recorrido, aspectos que considera fundamentales al tratarse del transporte de jóvenes.
+
+Asimismo, mostraron disposición a participar en el servicio siempre que exista claridad en los horarios, rutas y condiciones.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Persons
