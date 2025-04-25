@@ -26,6 +26,12 @@ Soy estudiante de Ingeniería de Software y actualmente curso el 5to ciclo. Cons
 
 <img src="imgIntegrantes/Jocelyn.png" alt="Jocelyn" title="Foto de Jocelyn" width="110"/>
 
+Código de Alumno: u202114309
+Descripción:
+Soy Camila Conde, estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota
+
+<img src="imgIntegrantes/Camila.jpg" alt="Camila" title="Perfil" width="110">
+
 # Requirements Elicitation & Analysis
 
 ## Entrevistas
