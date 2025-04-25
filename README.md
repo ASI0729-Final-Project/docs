@@ -29,6 +29,19 @@ Soy estudiante de Ingeniería de Software y actualmente curso el 5to ciclo. Cons
 
 <img src="imgIntegrantes/Jocelyn.png" alt="Jocelyn" title="Foto de Jocelyn" width="110"/>
 
+Código de Alumno:  U202016154
+
+Descripción:
+Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile.
+
+<img src="imgIntegrantes/anderson.jpg" alt="Anderson" title="Foto de Anderson" width="110"/>
+
+Código de Alumno: U202310222
+
+Descripción:Mi nombre es Mariano Moises Oblitas Davila soy estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías.
+
+<img src="imgIntegrantes/Mariano.PNG" alt="Mariano" title="Foto de Mariano" width="110"/>
+
 ## 1.2. Solution Profile
 
 En esta sección se describe el perfil de la solución teniendo en cuenta el problema y las ideas que se debe resolver para fomentar la seguridad de los estudiantes.
@@ -546,6 +559,42 @@ Segmentos objetivos de estudiante con vehículo:
    <th>Timing</th>
     <td colspan="3">
         00:00 - 4:05
+    </td>
+  </tr>
+</table>
+
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>2</td>
+    <th>Nombre</th>
+    <td>Yulia Martinez</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>19</td>
+    <th>Distrito</th>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/Entrevista_2_con_estudiante_con_automovil.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, la estudiante Yulia Martinez comenta que conduce casi diariamente a la universidad y que estaría dispuesta a llevar a otros estudiantes para obtener un ingreso adicional, ya que ciertas veces trasnporta a compañeras, amigas de esta misma, y opta por un metodo de pago virtual, coimo Yape o PLin, tambien esta dispuesta a probar la aplicacion y participar en futuras pruebas.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1iQG1POjiUkZo-9h1XJCk6l_RWJ6Frf7V/view?usp=sharing">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:04 - 4:35
     </td>
   </tr>
 </table>
@@ -1490,6 +1539,49 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 |                                                                                                                      |                                                        | <span style="color:blue">Optimizar rutas con paradas familiares</span>                 | <span style="color:blue">Planificador con puntos familiares</span>                           | <span style="color:blue">Como conductor, deseo planificar rutas que recojan/dejen a mi hijo/a, para comodidad y seguridad.</span>           |
 |                                                                                                                      |                                                        | <span style="color:blue">Ser notificado si hijo/a activa botón de emergencia</span>    | <span style="color:blue">Alerta automática por WhatsApp/chat</span>                          | <span style="color:blue">Como familiar, deseo recibir una alerta inmediata si mi hijo/a usa el botón de emergencia.</span>                  |
 
+## 3.4. Product Backlog
+
+| \#Orden | User Story ID | Título | Descripción | Story Points |
+| :---- | :---- | :---- | :---- | :---- |
+| **1** | US01 | Registro de nuevas cuentas | Como usuario nuevo no registrado, deseo poder crear una cuenta en la aplicación, para acceder a las funcionalidades exclusivas de ÑanGo. | 5 |
+| **2** | US02 | Recuperación de contraseña | Como usuario que olvidó su contraseña, quiero recuperar el acceso a mi cuenta, para poder seguir usando la app. | 3 |
+| **3** | US03 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión en la app, para acceder a mis funcionalidades personalizadas. | 3 |
+| **4** | US04 | Cierre de sesión | Como usuario autenticado, quiero cerrar sesión, para proteger el acceso a mi cuenta. | 2 |
+| **5** | US05 | Edición de perfil | Como usuario autenticado, quiero poder editar mi perfil, para mantener mi información actualizada. | 5 |
+| **6** | US06 | Chat de comunicación | Como usuario, quiero comunicarme con otros mediante chat, para coordinar viajes y resolver dudas. | 8 |
+| **7** | US07 | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña, para reforzar la seguridad de mi cuenta. |  |
+| **8** | US-S01 | Verificación con correo institucional | Como estudiante, quiero verificar mi cuenta utilizando mi "DNI" y "Carnet Universitario". | 5 |
+| **9** | US-S02 | Búsqueda de viajes disponibles | Como estudiante sin vehículo, quiero buscar viajes disponibles, para poder unirme a ellos. | 8 |
+| **10** | US-S03 | Solicitud de unirse a un viaje | Como estudiante, quiero solicitar unirme a un viaje disponible, para participar en el transporte compartido. | 8 |
+| **11** | US-S04 | Notificaciones en tiempo real | Como estudiante, quiero recibir notificaciones sobre el estado de mi solicitud de viaje. | 5 |
+| **12** | US-S05 | Sistema de calificación post-viaje | Como estudiante, quiero calificar el viaje después de completarlo. | 5 |
+| **13** | US-S06 | Chat interno con Grupo | Como estudiante, quiero comunicarme con el conductor una vez aceptada mi solicitud. | 5 |
+| **14** | US-S08 | Ruta del Viaje en el Mapa | Como estudiante, quiero ver la ruta del viaje para saber dónde está el conductor. | 8 |
+| **15** | US-S09 | Historial de viajes y gastos | Como estudiante, quiero consultar el historial de mis viajes y gastos. | 5 |
+| **16** | US-S10 | Planificación de viajes recurrentes | Como estudiante, quiero programar viajes recurrentes para el mismo trayecto. | 8 |
+| **17** | US-D01 | Registro como conductor | Como estudiante con vehículo, quiero registrarme como conductor. | 8 |
+| **18** | US-D02 | Verificación de licencia y vehículo | Como conductor, quiero que mis datos y licencia sean verificados. | 5 |
+| **19** | US-D03 | Publicación de viajes | Como conductor, quiero publicar viajes indicando ruta, horarios y costo. | 8 |
+| **20** | US-D04 | Gestión de solicitudes | Como conductor, quiero aceptar/rechazar solicitudes de pasajeros. | 8 |
+| **21** | US-D05 | Sistema de reputación | Como conductor, quiero ver mi calificación promedio y comentarios. | 5 |
+| **22** | US-D06 | Chat interno con pasajeros | Como conductor, quiero comunicarme con pasajeros confirmados. | 5 |
+| **23** | US-D11 | Historial de viajes y ganancias | Como conductor, quiero ver mi historial de viajes y ganancias. | 5 |
+| **24** | US-D12 | Notificaciones de demanda | Como conductor, quiero recibir alertas sobre zonas/horarios con alta demanda. | 5 |
+| **25** | US-F01 | Registro dual como conductor y familiar | Como familiar conductor, quiero registrarme como conductor familiar. | 8 |
+| **26** | US-F05 | Calificación bidireccional | Como familiar conductor, quiero calificar a pasajeros y recibir calificaciones. | 5 |
+| **27** | US-F08 | Reporte de incidentes | Como familiar conductor, quiero reportar incidentes con conductores/pasajeros. | 5 |
+| **28** | US-L01 | Registro en la plataforma | Como usuario nuevo, quiero encontrar una sección clara para registrarme. | 3 |
+| **29** | US-L02 | Inicio de sesión | Como usuario registrado, quiero encontrar un botón de "Iniciar sesión" visible. | 3 |
+| **30** | US-L03 | Información sobre la app | Como visitante, quiero entender qué hace la app y cómo funciona. | 3 |
+| **31** | US-L04 | Beneficios clave | Como visitante, quiero ver los beneficios de la app. | 3 |
+| **32** | US-L05 | Planes para conductores | Como conductor, quiero comparar planes (gratis/premium). | 5 |
+| **33** | US-L07 | Responsividad | Como usuario, quiero que la landing se vea bien en todos los dispositivos. | 5 |
+| **34** | TS01 | Endpoint de Registro de Usuario | Como Developer, necesito crear un endpoint para registro de usuarios. | 8 |
+| **35** | TS02 | Endpoint de Login de Usuario | Como Developer, necesito implementar un endpoint para autenticación. | 5 |
+| **36** | TS03 | Endpoint para publicar viaje | Como Developer, necesito crear un endpoint para publicar viajes. | 8 |
+| **37** | TS04 | Endpoint para solicitar unirse a viaje | Como Developer, necesito permitir solicitudes para unirse a viajes. | 8 |
+| **38** | TS05 | Integración con Servicios Externos | Como Developer, necesito integrar servicio de validación de ID estudiantil. | 13 |
+
 # Capítulo IV: Product Design
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -1533,3 +1625,80 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
 - ReservationRepository: persistencia de datos en PostgreSQL.
 
 ![Component Diagram](./structurizr/component-diagram.png)
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+   
+<img src="imgs/ÑangoClassDIagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+### 4.7.2. Class Dictionary
+
+#### 1\. Class Structure
+
+| Component | Syntax Example | Description |
+| :---- | :---- | :---- |
+| **Class Name** | `class Usuario` | Top section of the box. |
+| **Attributes** | `+id: UUID` | Variables (fields) of the class. `+` \= public. |
+| **Methods** | `+autenticar(): Boolean` | Functions (operations). `-` \= private. |
+| **Separator** | `--` or `..` | Line dividing attributes and methods. |
+
+---
+
+#### 2\. Visibility Modifiers
+
+| Symbol | Meaning | Example |
+| :---- | :---- | :---- |
+| `+` | Public | `+nombre: String` |
+| `-` | Private | `-contraseña: String` |
+| `#` | Protected | `#saldo: Decimal` |
+| `~` | Package | `~token: String` |
+
+---
+
+#### 3\. Data Types
+
+| Type | Example | Notes |
+| :---- | :---- | :---- |
+| Primitives | `String`, `Integer` | Basic language types. |
+| Custom | `UUID`, `DateTime` | Defined in your system. |
+| Collections | `List<Viaje>`, `Map` | For relationships with multiplicity. |
+
+---
+
+#### 4\. Relationships
+
+| Type | Syntax (Mermaid) | Example | Meaning |  |
+| :---- | :---- | :---- | :---- | :---- |
+| **Association** | `Usuario --> Reserva` | User books a reservation. | General link between classes. |  |
+| **Inheritance** | \`Usuario \< | \-- Conductor\` | Driver inherits from User. | "is-a" relationship. |
+| **Composition** | `Viaje *-- Ruta` | Trip owns a Route (lifecycle). | Strong ownership (filled diamond). |  |
+| **Aggregation** | `Chat o-- Mensaje` | Chat contains Messages. | Weak ownership (empty diamond). |  |
+| **Dependency** | `Pago ..> Factura` | Payment uses Invoice temporarily. | "uses" relationship. |  |
+
+---
+
+#### 5\. Multiplicity (Cardinality)
+
+| Notation | Meaning | Example (Mermaid) |
+| :---- | :---- | :---- |
+| `1` | Exactly one | `Usuario "1" -- "1" Perfil` |
+| `*` or `n` | Many (0 or more) | `Viaje "1" -- "*" Reserva` |
+| `0..1` | Optional (0 or 1\) | `Factura "0..1" -- "1" Pago` |
+| `1..*` | At least one | `Chat "1" -- "1..*" Mensaje` |
+
+---
+
+#### 6\. Notes & Stereotypes
+
+| Element | Syntax | Example |
+| :---- | :---- | :---- |
+| **Note** | `note for Class: "Text"` | Adds comments to a class. |
+| **Stereotype** | `<<interface>>` | `<<Service>> PagoService` |
+
+
+## **4.8. Database Design**
+
+### **4.8.1. Database Diagrams.**
+   
+<img src="imgs/ÑangoDatabaseDiagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+  
