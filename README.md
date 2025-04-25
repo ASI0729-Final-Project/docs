@@ -1657,6 +1657,66 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 
 # Capítulo IV: Product Design
 
+## 4.2 Information Architecture
+### 4.2.2. Labeling Systems
+
+El conjunto de información Ñango será representado por el sistema mediante las siguientes etiquetas.
+
+**Tabla N:** Tabla de sistemas de etiquetas
+
+<table border="2">
+  <tr>
+    <th>Labeling Systems</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>En esta sección se muestra la sección inicial de la página web, donde se recibe a los usuarios con una pregunta llamativa y me muestra un botón para que te dirija a "Routes".</td>
+  </tr>
+  <tr>
+    <td>Routes</td>
+    <td>En esta sección se genera los detalles de la ruta que se desea brindar al usuario (pasajero).</td>
+  </tr>
+   <tr>
+    <td>Request</td>
+    <td>.En esta sección se visualiza los detalles de las solicitudes de los usuarios (pasajero) como la fecha enviada, el nombre de la ruta, el estado de la solicitud y entre otros.</td>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td>En esta sección se puede vizualizar los viajes pendientes, confirmados o realizados que hizo el usuario (conductor).</td>
+  </tr>
+
+</table>
+
+***Nota:** Tabla para la vista de Conductor*
+
+**Fuente:** Elaboración Propia
+
+**Tabla N:** Tabla de sistemas de etiquetas
+
+<table border="2">
+  <tr>
+    <th>Labeling Systems</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>En esta sección se muestra la sección inicial de la página web, donde se recibe a los usuarios con una pregunta llamativa y se muestra un botón para que te dirija a "Quotes".</td>
+  </tr>
+  <tr>
+    <td>Quotes</td>
+    <td>En esta sección se muestran si hay viajes disponibles en base a la busqueda que se realiza.</td>
+  </tr>
+   <tr>
+    <td>History</td>
+    <td>En esta sección se muestran todos los viajes y sus detalles como el estado en el que está el viaje.</td>
+  </tr>
+</table>
+
+***Nota:** Tabla para la vista de Pasajeros*
+
+**Fuente:** Elaboración Propia
+
 ## 4.6. Domain-Driven Software Architecture.
 
 En Ñango adoptamos un enfoque Domain-Driven Design (DDD) que divide la lógica de negocio en cinco Bounded Contexts independientes: Users, Payments, Reservations, Ratings y Messaging
