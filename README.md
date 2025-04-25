@@ -2086,9 +2086,18 @@ En esta entrega, se ha realizado nuestra Landing Page. El código realizado se e
   </tr>
 </table>
 
-####  
+#### 5.2.1.2 Aspect Leaders and Collaborators
 
-#### 5.2.1.2. Sprint Backlog 1. 
+| Team Member                     | GitHub Username   | Authentication  | User Management | Reservation     | Payment         | Messaging       |
+|---------------------------------|-------------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| **Gamarra Vega, Anderson Jose** | `AndersonGamarraV`   | L               | C               | C               | C               | C               |
+| **Conde Isla, Camila**  | `camilac07`          | C               | L               | C               | C               | C               |
+| **Diaz Gutierrez, Henry Kevin**  | `HenryDiaz12`          | C               | L               | C               | C               | C               |
+| **Oblitas Davila, Mariano Moises**  | `MarianoOblitas`          | C               | L               | C               | C               | C               |
+| **Almerco Rojas, Damely Jocy**  | `JocyDam`          | C               | L               | C               | C               | C               |
+
+
+#### 5.2.1.3. Sprint Backlog 1
 
 <table>
 <colgroup>
