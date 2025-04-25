@@ -1,3 +1,46 @@
+# <p align="center">Informe de Trabajo Final</p>
+
+## <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
+
+<div align="center">
+  <img src="./imgsLogos/upc-logo.png" alt="Logo de UPC" />
+</div>
+
+<p align="center">Ingeniería de Software</p>
+<p align="center">Desarrollo de Aplicaciones Open Source - 4344</p>
+<p align="center"><strong>Docente:</strong> Rafael Oswaldo Castro Veramendi</p>
+<p align="center"><strong>Startup:</strong> TinkuyTech</p>
+<p align="center"><strong>Producto:</strong> Ñango</p>
+
+<p align="center"><strong>Team members:</strong></p>
+
+| Nombre                            | Código     |
+| --------------------------------- | ---------- |
+| Almerco Rojas, Damely Jocy        | U20221G068 |
+| Gamarra Vega, Anderson Jose       | u202016154 |
+| Conde Isla, Camila                | U20201F140 |
+| Oblitas Davila, Mariano Moises    | U202310222 |
+| Diaz Gutierrez, Henry Kevin       | U201819674 |
+
+<p align="center"><strong>Ciclo 2025-01</strong></p>
+
+# Registro de versiones del informe
+
+| Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                                                                                                                                                                                       |
+| ------- | ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     | 25/04/2025 | TinkuyTech | En esta primera entrega se han incluido los capítulos:<br />Capítulo I: Introducción <br />Capítulo II: Requirements Elicitation & Analysis<br />Capítulo III: Requirements Specification<br />Capítulo IV: Product Design<br />Capítulo V: Product Implementation, Validation & Deployment                       |
+
+# Student Outcomes
+
+ABET – EAC - Student Outcome 1: La capacidad de identificar, formular y resolver problemas complejos de ingeniería aplicando principios de ingeniería, ciencias y matemáticas.
+
+| Criterio específico                                                                 | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.                | **Almerco Rojas, Damely Jocy**<br/>• Realizó entrevistas a segmentos objetivos registrando respuestas<br/>• Presentó oralmente los wireframes y diseños<br/><br/>**Gamarra Vega, Anderson Jose**<br/>• Expuso análisis competitivo al equipo<br/>• Comunicó hallazgos de needfinding en reuniones<br/><br/>**Conde Isla, Camila**<br/>• Participó activamente en entrevistas con usuarios<br/>• Explicó mockups durante revisiones<br/><br/>**Diaz Gutierrez, Henry Kevin**<br/>• Condujo entrevistas diseñadas<br/>• Presentó aspectos técnicos de configuración<br/><br/>**Oblitas Davila, Mariano Moises**<br/>• Explicó user stories en planning<br/>• Comunicó estructura de backlog | La comunicación oral fue clave para:<br/>- Obtener información de usuarios<br/>- Alinear visiones del equipo<br/>- Presentar avances<br/>Todos adaptaron su discurso según la audiencia (usuarios/equipo/profesores)                                                                               |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.              | **Almerco Rojas, Damely Jocy**<br/>• Redactó Startup/Solution Profile<br/>• Documentó wireflows con claridad<br/><br/>**Gamarra Vega, Anderson Jose**<br/>• Elaboró análisis competitivo escrito<br/>• Formuló issues técnicas en GitHub<br/><br/>**Conde Isla, Camila**<br/>• Documentó sistemas de labeling<br/>• Describió user flows detalladamente<br/><br/>**Diaz Gutierrez, Henry Kevin**<br/>• Escribió manual de estilo de código<br/>• Registró configuración de entorno<br/><br/>**Oblitas Davila, Mariano Moises**<br/>• Redactó user stories concisas<br/>• Modeló BD con documentación asociada       | La documentación escrita:<br/>- Fue adecuada para distintos niveles técnicos<br/>- Permitió trazabilidad del proyecto<br/>- Incluyó formatos variados (técnicos/descriptivos)<br/>Los registros fueron precisos y orientados al propósito |
+
+
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
