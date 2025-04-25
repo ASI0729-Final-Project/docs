@@ -1728,6 +1728,80 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 | **38** | TS05 | Integración con Servicios Externos | Como Developer, necesito integrar servicio de validación de ID estudiantil. | 13 |
 
 # Capítulo IV: Product Design
+## 4.1. Style Guidelines
+
+QuakeNet ofrece una experiencia coherente, intuitiva y visualmente atractiva. Por ello, en esta sección presentamos el estilo con el que se debe redactar, diseñar y presentar el producto. Se ha seleccionado el patrón Z como el principal esquema de escaneo visual en nuestras interfaces, lo que facilita la interacción del usuario y mejora la navegación. Este enfoque refuerza la experiencia de uso y garantiza una comunicación clara y eficiente en cada punto de contacto.
+
+### 4.1.1. General Style Guidelines
+
+**Colores**
+
+Los colores fueron seleccionados a partir del logo para mantener coherencia visual y fortalecer la identidad de la marca. Se usaron tonos fríos por su capacidad de transmitir confianza y modernidad.
+La paleta permite aplicar los colores en diferentes elementos visuales (fondos, botones, textos) garantizando contraste, accesibilidad y una experiencia de usuario clara.
+
+**Figura N:** Paleta de colores
+
+![Imagen de paleta de colores](/imgCap4/PaletaColores.png "Paleta de colores")
+
+***Nota:** La paleta incluye colores primarios, secundarios, acentos y de soporte, lo que permite aplicarlos en una amplia gama de componente*
+
+**Fuente:** Elaboración Propia
+
+**Tipografía**
+
+La tipografía que está usando Ñango es la fuente Inter por su excelente legibilidad y estilo moderno, ideal para una aplicación web. El sistema tipográfico establece una jerarquía clara mediante variaciones de peso y tamaño, facilitando la lectura y navegación. Desde títulos grandes y llamativos hasta textos de cuerpo sutiles, esta estructura visual refuerza la identidad de marca y mejora la experiencia del usuario.
+
+**Figura N:** Tipografía
+
+![Imagen de Tipografía](/imgCap4/Tipografía2.png "Tipografía")
+
+***Nota:** La jerarquía visual empleada en la landing page se basa en el uso estratégico de tamaños y pesos tipográficos, utilizando la fuente Nunito como base. Esta estructura facilita la organización del contenido, mejora la legibilidad y guía la atención del usuario de forma intuitiva.*
+
+**Fuente:** Elaboración Propia
+
+**Figura N:** Tipografía
+
+![Imagen de Tipografía](/imgCap4/Tipografía.png "Tipografía")
+
+***Nota:** La jerarquía visual implementada en la página web utiliza tamaños de fuente consistentes y proporcionales para organizar la información de manera clara y estructurada. Cabe resaltar que esta estructura está diseñada exclusivamente para la versión web de la plataforma.*
+
+**Fuente:** Elaboración Propia
+
+
+**Branding**
+
+Ñango es una plataforma intuitiva y dinámica que facilita el transporte compartido entre estudiantes universitarios. La marca se posiciona como un aliado confiable en la vida académica, conectando a estudiantes que necesitan movilizarse (pasajeros) con otros estudiantes o familiares que pueden ofrecer transporte (conductores). Fomentamos la eficiencia, seguridad y colaboración entre la comunidad universitaria, consolidando a Ñango como una solución moderna y solidaria que optimiza los trayectos diarios y refuerza el sentido de comunidad.
+
+**Logotipo**
+
+El logo de Ñango se ha diseñado para reflejar cercanía y confianza. Su forma simple pero reconocible permite una fácil identificación, mientras que sus líneas suaves y modernas transmiten accesibilidad y fluidez. La tipografía utilizada es atractiva y legible, lo que refuerza la naturaleza colaborativa de la plataforma. Ñango es un proyecto inspirado en la idea de “camino en movimiento” o “vamos por el camino”; por ello, el logotipo simboliza el trayecto compartido y la conexión entre estudiantes que se apoyan mutuamente para movilizarse, representando así el espíritu solidario y práctico de Ñango.
+
+**Figura N:** Logo Principal
+![Imagen de Logo Principal](/imgCap4/LogoPrincipal.png "Logo Principal")
+***Nota:** Logo principal con colores fríos.*
+
+**Fuente:** Elaboración Propia
+
+**Iconos**
+
+Los iconos seleccionados no solo facilitan la interacción dentro de la plataforma, sino que también optimizan el acceso a funciones clave como la comunicación entre pasajeros y conductor, la reserva de servicios o la reprogramación, y la edición de perfiles o comentarios del viaje. 
+
+**Figura N:** Logo Secundario
+![Imagen de Iconos](/imgCap4/Icono.png "Iconos")
+
+***Nota:** Logo secundario para una mayor legilibilidad y contraste visual con fondos oscuros.*
+
+**Fuente:** Elaboración Propia
+
+Se usaron los iconos indicados en la figura para lograr un diseño más intuitivo. De esta manera, los usuarios pueden navegar de forma más rápida y eficiente, lo que mejora la experiencia general y promueve una interacción más fluida.
+
+**Tono de Comunicacion**
+
+Ñango utiliza un lenguaje cercano, claro y profesional. Al hablar de forma sencilla y directa, aseguramos que tanto los pasajeros como los conductores comprendan fácilmente cada mensaje. Así, transmitimos confianza, seguridad y una experiencia más humana en cada viaje
+
+**Language**
+
+En Ñango, nos expresamos de manera clara, inclusiva y accesible. Procuramos que la comunicación sea comprensible para todos, evitando tecnicismos o palabras complicadas. Nuestro objetivo es que cualquier persona, sin importar su experiencia en tecnología, pueda interactuar con la plataforma sin dificultades.
 
 ## 4.2 Information Architecture
 ### 4.2.2. Labeling Systems
