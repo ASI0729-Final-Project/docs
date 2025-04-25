@@ -799,7 +799,7 @@ Segmentos objetivos de estudiante sin vehículo:
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="https://drive.google.com/file/d/1yk4mQYxuR0_7n1OF_ND7Ogh0_6BDjMTv/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1Xh4D4Xz7sj_SylvQF9hLsyzM5X_oH3HX/view?usp=drive_link">
         Ver grabación
       </a>
     </td>
@@ -816,7 +816,7 @@ Segmentos objetivos de familiar del estudiante:
 <table border="1">
   <tr>
     <th>Entrevista</th>
-    <td>1</td>
+    <td>7</td>
     <th>Nombre</th>
     <td>Fiorella Chuquinaupa</td>
   </tr>
@@ -835,7 +835,7 @@ Segmentos objetivos de familiar del estudiante:
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="https://drive.google.com/file/d/1mZ01IQ44AkLbB81HGdB91WgFqreGUh9a/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1pN3AankKyMPINmh4XmcEDJW3cENZw4dk/view?usp=drive_link">
         Ver grabación
       </a>
     </td>
@@ -3410,6 +3410,7 @@ por lo cual no hay una evidencia de testing.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review 
 
+*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114309_upc_edu_pe/EboMLpOfe95AhllEEjWPfnoBzTcnNtEyMJKeAjVLD6XokQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=bqFpnq*
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -3427,3 +3428,17 @@ Link:
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ![Team Collaboration](./imgs/branch.PNG)
+
+## Anexos. 
+
+**Link Figma**
+*https://www.figma.com/design/VGb5iBL3GtskGhtV5oCplx/OPEN-4344?node-id=0-1&t=f4sPtIxZx8sdwShS-1*
+
+**Link Landing Page**
+*https://asi0729-final-project.github.io/landing-page/*
+
+**Link Repositorio Docs Github**
+*https://github.com/ASI0729-Final-Project/docs*
+
+**Link Organizacion Github**
+*https://github.com/ASI0729-Final-Project*
