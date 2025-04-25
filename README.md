@@ -16,7 +16,7 @@
 
 | Nombre                            | Código     |
 | --------------------------------- | ---------- |
-| Almerco Rojas, Damely Jocy        | U20221G068 |
+| Almerco Rojas, Damaly Jocy        | U20221G068 |
 | Gamarra Vega, Anderson Jose       | u202016154 |
 | Conde Isla, Camila                | U20201F140 |
 | Oblitas Davila, Mariano Moises    | U202310222 |
@@ -1706,6 +1706,10 @@ El User Journey Mapping representa el “viaje” actual (As-Is) de cada User Pe
 | **38** | TS05 | Integración con Servicios Externos | Como Developer, necesito integrar servicio de validación de ID estudiantil. | 13 |
 
 # Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+QuakeNet ofrece una experiencia coherente, intuitiva y visualmente atractiva. Por ello, en esta sección presentamos el estilo con el que se debe redactar, diseñar y presentar el producto. Se ha seleccionado el patrón Z como el principal esquema de escaneo visual en nuestras interfaces, lo que facilita la interacción del usuario y mejora la navegación. Este enfoque refuerza la experiencia de uso y garantiza una comunicación clara y eficiente en cada punto de contacto.
 
 ## 4.2 Information Architecture
 ### 4.2.2. Labeling Systems
