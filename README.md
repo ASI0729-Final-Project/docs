@@ -2189,6 +2189,9 @@ apartado para conocer la aplicación web. Debe ser responsive.</th>
 
 #### 5.2.1.3. Development Evidence for Sprint Review. 
 
+| **Repository**                                                                                                  | **Branch**                   | **Commit Id** | **Commit messages**              | **Commit Messages Body** | **Commit On (Date)** |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------|---------------|----------------------------------|--------------------------|----------------------|
+| **[<u>https://github.com/ASI0729-Final-Project/landing-page</u>](https://github.com/ASI0729-Final-Project/landing-page)** | feature/navbar-footer-styles | ec8b49c       | feature: navbar, footer y styles | feat: Add more ilustrations                       | 25/04/2025           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
