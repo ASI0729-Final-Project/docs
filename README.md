@@ -557,6 +557,42 @@ Segmentos objetivos de estudiante con vehículo:
   </tr>
 </table>
 
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>2</td>
+    <th>Nombre</th>
+    <td>Yulia Martinez</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>19</td>
+    <th>Distrito</th>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="imgEntrevistas/Entrevista_2_con_estudiante_con_automovil.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, la estudiante Yulia Martinez comenta que conduce casi diariamente a la universidad y que estaría dispuesta a llevar a otros estudiantes para obtener un ingreso adicional, ya que ciertas veces trasnporta a compañeras, amigas de esta misma, y opta por un metodo de pago virtual, coimo Yape o PLin, tambien esta dispuesta a probar la aplicacion y participar en futuras pruebas.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://drive.google.com/file/d/1iQG1POjiUkZo-9h1XJCk6l_RWJ6Frf7V/view?usp=sharing">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:04 - 4:35
+    </td>
+  </tr>
+</table>
+
 Segmentos objetivos de estudiante sin vehículo:
 
 <table border="1">
