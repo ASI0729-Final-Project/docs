@@ -1562,3 +1562,71 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
 - ReservationRepository: persistencia de datos en PostgreSQL.
 
 ![Component Diagram](./structurizr/component-diagram.png)
+
+
+
+
+ ##### **4.7.2. Class Dictionary**
+
+### **1\. Class Structure**
+
+| Component | Syntax Example | Description |
+| :---- | :---- | :---- |
+| **Class Name** | `class Usuario` | Top section of the box. |
+| **Attributes** | `+id: UUID` | Variables (fields) of the class. `+` \= public. |
+| **Methods** | `+autenticar(): Boolean` | Functions (operations). `-` \= private. |
+| **Separator** | `--` or `..` | Line dividing attributes and methods. |
+
+---
+
+### **2\. Visibility Modifiers**
+
+| Symbol | Meaning | Example |
+| :---- | :---- | :---- |
+| `+` | Public | `+nombre: String` |
+| `-` | Private | `-contraseña: String` |
+| `#` | Protected | `#saldo: Decimal` |
+| `~` | Package | `~token: String` |
+
+---
+
+### **3\. Data Types**
+
+| Type | Example | Notes |
+| :---- | :---- | :---- |
+| Primitives | `String`, `Integer` | Basic language types. |
+| Custom | `UUID`, `DateTime` | Defined in your system. |
+| Collections | `List<Viaje>`, `Map` | For relationships with multiplicity. |
+
+---
+
+### **4\. Relationships**
+
+| Type | Syntax (Mermaid) | Example | Meaning |  |
+| :---- | :---- | :---- | :---- | :---- |
+| **Association** | `Usuario --> Reserva` | User books a reservation. | General link between classes. |  |
+| **Inheritance** | \`Usuario \< | \-- Conductor\` | Driver inherits from User. | "is-a" relationship. |
+| **Composition** | `Viaje *-- Ruta` | Trip owns a Route (lifecycle). | Strong ownership (filled diamond). |  |
+| **Aggregation** | `Chat o-- Mensaje` | Chat contains Messages. | Weak ownership (empty diamond). |  |
+| **Dependency** | `Pago ..> Factura` | Payment uses Invoice temporarily. | "uses" relationship. |  |
+
+---
+
+### **5\. Multiplicity (Cardinality)**
+
+| Notation | Meaning | Example (Mermaid) |
+| :---- | :---- | :---- |
+| `1` | Exactly one | `Usuario "1" -- "1" Perfil` |
+| `*` or `n` | Many (0 or more) | `Viaje "1" -- "*" Reserva` |
+| `0..1` | Optional (0 or 1\) | `Factura "0..1" -- "1" Pago` |
+| `1..*` | At least one | `Chat "1" -- "1..*" Mensaje` |
+
+---
+
+### **6\. Notes & Stereotypes**
+
+| Element | Syntax | Example |
+| :---- | :---- | :---- |
+| **Note** | `note for Class: "Text"` | Adds comments to a class. |
+| **Stereotype** | `<<interface>>` | `<<Service>> PagoService` |
+
