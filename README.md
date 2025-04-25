@@ -2022,7 +2022,8 @@ demás características utilizados en el proyecto.
   - Separar los escenarios
 
 ### 5.1.4. Software Deployment Configuration. 
-----------
+
+En esta entrega, se ha realizado nuestra Landing Page. El código realizado se encuentra alojado en un repositorio en GitHub. Usamos GitHub Pages para desplegar la página, para que los usuarios puedan visualizar correctamente y tener una buena experiencia.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
