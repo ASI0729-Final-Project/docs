@@ -46,7 +46,14 @@ Código de Alumno: U201819674
 
 Mi nombre es Henry Kevin Diaz Gutierrez, tengo 24 años, soy estudiante de Ingenieria de Software en la UPC.Me caracterizo por ser creativo , cumplir con lo que se me brinda y ayudar a resolver problemas si se presenta.Desde siempre me intereso el tema de los videojuegos y de el tipo de diseño que se empleaba, eso hizo que me guste el desarrollo de software. 
  
-<img src="imgIntegrantes/Henry.PNG" alt="Henry" title="Foto de Henry" width="110"/>
+<img src="imgIntegrantes/Henry.png" alt="Henry" title="Foto de Henry" width="110"/>
+
+Código de Alumno: u202114309
+
+Descripción:
+Soy Camila Conde, estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota
+
+<img src="imgIntegrantes/Camila.jpg" alt="Camila" title="Perfil" width="110">
 
 ## 1.2. Solution Profile
 
@@ -2141,4 +2148,4 @@ Link:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-![Team Collaboration](./imgs/branch.png)
+![Team Collaboration](./imgs/branch.PNG)
