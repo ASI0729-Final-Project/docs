@@ -40,7 +40,7 @@ Código de Alumno: U202310222
 
 Descripción:Mi nombre es Mariano Moises Oblitas Davila soy estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías.
 
-<img src="imgIntegrantes/Mariano.png" alt="Mariano" title="Foto de Mariano" width="110"/>
+<img src="imgIntegrantes/Mariano.PNG" alt="Mariano" title="Foto de Mariano" width="110"/>
 
 ## 1.2. Solution Profile
 
