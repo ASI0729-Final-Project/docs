@@ -1702,3 +1702,310 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
    
 <img src="imgs/ÑangoDatabaseDiagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
   
+# Capítulo V: Product Implementation, Validation & Deployment. 
+
+## 5.1. Software Configuration Management. 
+
+### 5.1.1. Software Development Environment Configuration. 
+
+**Project Management**
+
+- **Discord**: Discord es una plataforma que usamos como si fuera un salon virtual. 
+Podemos crear un servidor solo para nuestro proyecto, con canales para chatear, compartir ideas y hacer reuniones por voz o video. 
+También se puede compartir pantalla y todo queda guardado. 
+Es fácil de usar, gratis, y se adapta bien para trabajar en equipo.
+
+- **WhatsApp**: WhatsApp es una app de mensajería que usamos para chatear, hacer llamadas o videollamadas. También se pueden mandar fotos, audios, documentos y hasta crear grupos para hablar con varias personas al mismo tiempo. 
+Es súper útil para comunicarse rápido y directo.
+
+- **Desarrollo de la Landing Page:** : Para lograr el desarrollo, se uso herramientas como HTML, CSS.
+
+**Requirements Management**
+
+- **Miro**: Es una plataforma de pizarra digital que permite a los equipos colaborar en tiempo real. 
+Es especialmente útil para desarrollar ideas visualmente, como esquemas, mapas conceptuales o prototipos, lo que 
+la hace ideal para sesiones de brainstorming y planificación de proyectos.
+
+**Product UX/UI Design:**
+
+- **Figma**: Es una herramienta enfocada en el diseño de interfaces y la experiencia del usuario. 
+Permite desarrollar prototipos y maquetas de aplicaciones, facilitando la colaboración en tiempo real entre 
+los miembros del equipo durante el desarrollo de proyectos.
+
+**Software Development**
+
+- **Git**: Es una tecnología clave en el desarrollo de software, ya que permite llevar un control 
+de los cambios en el código fuente y mejorar el trabajo en equipo. 
+Por otro lado, Visual Studio Code es un editor de código muy versátil y personalizable, ideal para 
+escribir, depurar y desarrollar programas en distintos lenguajes de programación.
+
+**Software Documentation**
+
+- **GitHub**: Es una plataforma de desarrollo que utiliza el sistema de
+control de Git. Se utiliza para alojar, revisar y colaborar en proyectos
+de desarrollo de software
+
+**Software Testing**
+
+- **Gherkin**: un lenguaje especializado diseñado para describir pruebas de 
+aceptación de manera que sean fáciles de entender por cualquier persona. 
+Generalmente, se utiliza junto con herramientas de pruebas basadas en comportamiento 
+para automatizar la verificación de funcionalidades en el software.
+
+### 5.1.2. Source Code Management. 
+
+Para un mayor orden el proyecto se trabajó en GitHub, donde se creó
+una organización y sus respectivos repositorios, cada uno con sus respectivas 
+  ramas.
+
+  Los enlaces correspondientes son los siguientes:
+
+- [<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+
+- [<u>https://github.com/ASI0729-Final-Project/Informe_final </u>](https://github.com/ASI0729-Final-Project/docs)
+
+- [<u>https://github.com/ASI0729-Final-Project/backend</u>](https://github.com/ASI0729-Final-Project/backend)
+
+- [<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)
+
+### 
+
+### 5.1.3. Source Code Style Guide & Conventions. 
+
+En esta sección se presentarán las normas, estructuras, estilos y
+demás características utilizados en el proyecto.
+
+- HTML: Se mencionan las convenciones y estándares de este lenguaje : 
+
+  - Utilizar el nombre de las etiquetas en minúsculas
+
+  - En las etiquetas, color comillas para los valores de los atributos
+
+  - No omitir las etiquetas
+
+  - No omitir los metadatos
+
+- CSS: Se considero las siguientes recomendaciones como las más
+  importantes:
+
+  - Usan nombres breves para las clases
+
+  - No usar los selectores de ID
+
+  - Usar propiedades abreviadas
+
+  - Usar nombres generales para las clases
+
+- JavaScript: Se considero los siguientes puntos como los más
+  importantes para tener un buen desarrollo del código:
+
+  - Usar nombres fáciles de leer y recordar
+
+  - Comentar lo esencial
+
+  - Usar notaciones sencillas de entender
+
+  - Evitar el uso de variables globales
+
+- Gherkin: Se consideran los siguientes puntos como los más importantes,
+  además, fueron las que consideramos para el proyecto:
+
+  - Para los pasos se deben usar tablas
+
+  - En los parámetros usar comillas
+
+  - Separar los escenarios
+
+### 5.1.4. Software Deployment Configuration. 
+----------
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1 
+
+#### 5.2.1.1. Sprint Planning 1. 
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center; font-weight:bold;">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>01/04/2024</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>16:00 horas (GMT -5)</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Modalidad remota a través de WhatsApp y Discord</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Gamarra Vega, Anderson</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>Todos los miembros de TinkuyTech</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 – 1 Review Summary</th>
+    <td>No consideramos contar con un sprint anterior</td>
+  </tr>
+  <tr>
+    <th>Sprint 0 – 1 Retrospective Summary</th>
+    <td>En este sprint se espera implementar el landing page, algunas caracteristicas del servicio a brindar,
+    header y footer. 
+    Al final de este sprint, el landing page se desplegara y cualquier usuario debería 
+    poder acceder y visualizar la página a través del link.</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center; font-weight:bold;">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Realizar y desplegar el landing page.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>4</td>
+  </tr>
+</table>
+
+####  
+
+#### 5.2.1.2. Sprint Backlog 1. 
+
+<table>
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 10%" />
+<col style="width: 29%" />
+<col style="width: 9%" />
+<col style="width: 18%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sprint #</th>
+<th colspan="7">Sprint 1</th>
+</tr>
+<tr class="odd">
+<th colspan="2">User Story</th>
+<th colspan="6">Work-Item / Task</th>
+</tr>
+<tr class="header">
+<th>Id</th>
+<th>Title</th>
+<th>Id</th>
+<th>Title</th>
+<th>Description</th>
+<th>Estimation (Hours)</th>
+<th>Assigned To</th>
+<th>Status (To-do / In-Process / To-Review (Done)</th>
+</tr>
+<tr class="odd">
+<th colspan="2" rowspan="8"><p>US01</p>
+<p>Visualización del landing page</p></th>
+<th>WI01</th>
+<th>Header</th>
+<th>Implementación de estilos que corresponden al
+encabezado (Header). Debe ser responsive</th>
+<th>2</th>
+<th>Camila Conde</th>
+<th>Done</th>
+</tr>
+<tr class="header">
+<th>WI02</th>
+<th>Footer</th>
+<th>Implementación de los estilos que correspondan al pie
+de página (Footer). Debe ser responsive.</th>
+<th>2</th>
+<th>Mariano Oblitas</th>
+<th>Done</th>
+</tr>
+<tr class="odd">
+<th>WI03</th>
+<th>Bienvenida</th>
+<th>Implementación de los estilos que corresponden al mensaje de bienvenida en el landing page. Debe ser responsive.</th>
+<th>3</th>
+<th>Jocelyn Almerco</th>
+<th>Done</th>
+</tr>
+<tr class="header">
+<th>WI04</th>
+<th>Navigation Bar</th>
+<th>Implementación de los estilos que corresponden a la barra de navegación. Debe ser responsive.</th>
+<th>3</th>
+<th>Camila Conde</th>
+<th>Done</th>
+</tr>
+<tr class="odd">
+<th>WI05</th>
+<th>Botones</th>
+<th>Implementación de los estilos que corresponden a los
+botones de la página. Debe ser responsive.</th>
+<th>4</th>
+<th>Jocelyn Almerco</th>
+<th>Done</th>
+</tr>
+<tr class="odd">
+<th>WI06</th>
+<th>Formulario de registro</th>
+<th>Diseño e implementación de la sección de Registro de una cuenta.</th>
+<th>4</th>
+<th>Anderson Gamarra</th>
+<th>Done</th>
+</tr>
+<tr class="header">
+<th>WI07</th>
+<th>Información de la aplicación web</th>
+<th>Implementación que corresponden al
+apartado para conocer la aplicación web. Debe ser responsive.</th>
+<th>3</th>
+<th>Henry Diaz</th>
+<th>Done</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review. 
+
+ - **FALTA**
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+En el sprint 1 solo se trabajo en el diseño e implementacion de Landing page 
+por lo cual no hay una evidencia de testing. 
+
+#### 5.2.1.5. Execution Evidence for Sprint Review 
+
+- **Se necesita el landing page para realizar**
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Este sprint 1 solo trata la implementación del landing page, por lo
+que no hay un servicio adicinal.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
+
+El despliegue del Landing Page se realizó a través de GitHub pages. El
+link de nuestra Landing Page es el siguiente:
+
+Link:
+[<u>https://github.com/ASI0729-Final-Project/Landing_page</u>](https://github.com/ASI0729-Final-Project/design)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+![Team Collaboration](./imgs/branch.png)
