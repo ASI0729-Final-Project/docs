@@ -3039,68 +3039,96 @@ En los Diagramas de Componentes (C4 Level 3) profundizamos en el interior de cad
 
 ### 4.7.2. Class Dictionary
 
-#### 1\. Class Structure
+Here are the Class Dictionary tables in Markdown format for easy copying and pasting:
 
-| Component | Syntax Example | Description |
-| :---- | :---- | :---- |
-| **Class Name** | `class Usuario` | Top section of the box. |
-| **Attributes** | `+id: UUID` | Variables (fields) of the class. `+` \= public. |
-| **Methods** | `+autenticar(): Boolean` | Functions (operations). `-` \= private. |
-| **Separator** | `--` or `..` | Line dividing attributes and methods. |
+#### 1. User
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único del usuario (PK) |
+| firstName | String | Sí | No | Nombres del usuario |
+| lastName | String | Sí | No | Apellidos del usuario |
+| email | String | Sí | Sí | Correo electrónico (usado para login) |
+| password | String | Sí | No | Contraseña hasheada |
+| phone | String | No | No | Teléfono de contacto |
+| profilePicture | URL | No | No | URL de la foto de perfil |
+| isVerified | Boolean | No | No | Indica si el email está verificado (default: false) |
+| userType | Enum [student, driver, family_driver] | Sí | No | Tipo de usuario |
+| createdAt | DateTime | Auto | No | Fecha de creación |
+| updatedAt | DateTime | Auto | No | Fecha de última actualización |
 
----
+#### 2. Student
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| userId | UUID | Sí | Sí | FK a User (PK) |
+| studentId | String | Sí | Sí | Código de estudiante universitario |
+| university | String | Sí | No | Universidad a la que pertenece |
+| verificationStatus | Enum [pending, verified, rejected] | Sí | No | Estado de verificación institucional |
 
-#### 2\. Visibility Modifiers
+#### 3. Driver
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| userId | UUID | Sí | Sí | FK a User (PK) |
+| licenseNumber | String | Sí | Sí | Número de licencia de conducir |
+| carModel | String | Sí | No | Modelo del vehículo |
+| licensePlate | String | Sí | Sí | Placa del vehículo |
+| verificationStatus | Enum [pending, verified, rejected] | Sí | No | Estado de verificación como conductor |
 
-| Symbol | Meaning | Example |
-| :---- | :---- | :---- |
-| `+` | Public | `+nombre: String` |
-| `-` | Private | `-contraseña: String` |
-| `#` | Protected | `#saldo: Decimal` |
-| `~` | Package | `~token: String` |
+#### 4. FamilyDriver
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| driverId | UUID | Sí | Sí | FK a Driver (PK) |
+| childId | UUID | Sí | Sí | FK a Student (hijo/a vinculado) |
 
----
+#### 5. Trip
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único (PK) |
+| driverId | UUID | Sí | No | FK a Driver |
+| origin | String | Sí | No | Punto de origen del viaje |
+| destination | String | Sí | No | Punto de destino |
+| departureTime | DateTime | Sí | No | Fecha y hora de salida |
+| availableSeats | Integer | Sí | No | Número de asientos disponibles |
+| pricePerSeat | Float | Sí | No | Costo por pasajero |
+| status | Enum [pending, active, completed, cancelled] | Sí | No | Estado del viaje |
 
-#### 3\. Data Types
+#### 6. TripRequest
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único (PK) |
+| tripId | UUID | Sí | No | FK a Trip |
+| studentId | UUID | Sí | No | FK a Student |
+| status | Enum [pending, accepted, rejected] | Sí | No | Estado de la solicitud |
 
-| Type | Example | Notes |
-| :---- | :---- | :---- |
-| Primitives | `String`, `Integer` | Basic language types. |
-| Custom | `UUID`, `DateTime` | Defined in your system. |
-| Collections | `List<Viaje>`, `Map` | For relationships with multiplicity. |
+#### 7. Review
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único (PK) |
+| tripId | UUID | Sí | No | FK a Trip |
+| reviewerId | UUID | Sí | No | FK a User (quien califica) |
+| revieweeId | UUID | Sí | No | FK a User (quien recibe la calificación) |
+| rating | Integer (1-5) | Sí | No | Puntuación del 1 al 5 |
+| comment | Text | No | No | Comentario opcional |
 
----
+#### 8. Chat
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único (PK) |
+| tripId | UUID | Sí | Sí | FK a Trip (1:1) |
 
-#### 4\. Relationships
+#### 9. Message
+| Campo | Tipo | Requerido | Único | Descripción |
+|-------|------|-----------|-------|-------------|
+| id | UUID | Sí | Sí | Identificador único (PK) |
+| chatId | UUID | Sí | No | FK a Chat |
+| senderId | UUID | Sí | No | FK a User |
+| content | Text | Sí | No | Contenido del mensaje |
+| timestamp | DateTime | Auto | No | Fecha y hora de envío |
 
-| Type | Syntax (Mermaid) | Example | Meaning |  |
-| :---- | :---- | :---- | :---- | :---- |
-| **Association** | `Usuario --> Reserva` | User books a reservation. | General link between classes. |  |
-| **Inheritance** | \`Usuario \< | \-- Conductor\` | Driver inherits from User. | "is-a" relationship. |
-| **Composition** | `Viaje *-- Ruta` | Trip owns a Route (lifecycle). | Strong ownership (filled diamond). |  |
-| **Aggregation** | `Chat o-- Mensaje` | Chat contains Messages. | Weak ownership (empty diamond). |  |
-| **Dependency** | `Pago ..> Factura` | Payment uses Invoice temporarily. | "uses" relationship. |  |
-
----
-
-#### 5\. Multiplicity (Cardinality)
-
-| Notation | Meaning | Example (Mermaid) |
-| :---- | :---- | :---- |
-| `1` | Exactly one | `Usuario "1" -- "1" Perfil` |
-| `*` or `n` | Many (0 or more) | `Viaje "1" -- "*" Reserva` |
-| `0..1` | Optional (0 or 1\) | `Factura "0..1" -- "1" Pago` |
-| `1..*` | At least one | `Chat "1" -- "1..*" Mensaje` |
-
----
-
-#### 6\. Notes & Stereotypes
-
-| Element | Syntax | Example |
-| :---- | :---- | :---- |
-| **Note** | `note for Class: "Text"` | Adds comments to a class. |
-| **Stereotype** | `<<interface>>` | `<<Service>> PagoService` |
-
+#### Relaciones Clave:
+- **User** es la clase padre de **Student** y **Driver** (herencia)
+- **Driver** es padre de **FamilyDriver** (herencia)
+- **Trip** tiene relaciones 1:N con **TripRequest** y **Review**
+- **Chat** se asocia 1:1 con **Trip** y 1:N con **Message**
 
 ## **4.8. Database Design**
 
