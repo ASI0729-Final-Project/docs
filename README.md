@@ -3565,7 +3565,8 @@ En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web
 
 Para esta entrega, el Frontend de la App Web se encuentran en lanzamiento y de acceso abierto para todos los usuarios:
 
-Link: **[<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)**
+Link: **[<u>https://asi0729-final-project.github.io/frontend</u>](
+https://asi0729-final-project.github.io/frontend/)**
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3585,7 +3586,8 @@ Servicio Maps: Location IQ (API EXTERNA)
 
 El despliegue del Frontend Web App se realizó a través de GitHub pages. El link de nuestra Frontend Web App  es el siguiente:
 
-Link: **[<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)**
+Link: **[<u>https://asi0729-final-project.github.io/frontend</u>](
+https://asi0729-final-project.github.io/frontend/)**
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
