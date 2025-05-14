@@ -3471,6 +3471,131 @@ Link:
 
 ![Team Collaboration](./imgs/branch.PNG)
 
+
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+
+---
+
+
+| **Sprint #**                        | **Sprint 2**                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                              |
+| **Date**                            | 10 de mayo del 2024                                                                                                                                                                                                                                                                                                                          |
+| **Time**                            | 09:00 AM                                                                                                                                                                                                                                                                                                                                     |
+| **Location**                        | Modalidad remota (Google Meet)                                                                                                                                                                                                                                                                                                               |
+| **Prepared By**                     | Equipo GigU                                                                                                                                                                                                                                                                                                                                  |
+| **Attendees**                       | Camila, Anderson, Mariano, Jocelyn, Henry                                                                                                                                                                                                                                                                                                    |
+| **Sprint n-1 Review Summary**       | En el Sprint 1 se completó la landing page con Astro, incluyendo secciones de registro, login y beneficios. El despliegue en Vercel fue exitoso y está disponible para feedback inicial.                                                                                                                                                      |
+| **Sprint n-1 Retrospective Summary**| Se identificó que la validación de formularios en el frontend necesita mejoras. También se priorizará la documentación de componentes para facilitar la escalabilidad.                                                                                                                                                                        |
+| **Sprint Goal & User Stories**      | **Objetivo del Sprint 2**: Desplegar el frontend funcional de la AppWeb GigU con autenticación, gestión de perfil y chat básico, listo para integración con backend.                                                                                                                                                                         |
+| **Sprint 2 Velocity**               | 24 (basado en capacidad del equipo: 6 horas/día × 4 días × 5 miembros)                                                                                                                                                                                                                                                                       |
+| **Sum of Story Points**             | 24 (asignados a las tareas prioritarias)                                                                                                                                                                                                                                                                                                     |
+
+---
+
+
+#### 5.2.2.2 Aspect Leaders and Collaborators
+
+
+| Team Member                     | GitHub Username   | History Page | Home Page | Quotes Component | My Profile | Change Password | Toolbar | Login Form | Register Form | Password Recovery Form | Login & Register Logic | Routers Component | Support Page | Chat Footer Component | Requests | Request Management |
+|---------------------------------|-------------------|--------------|-----------|------------------|------------|------------------|---------|------------|---------------|------------------------|-------------------------|-------------------|--------------|-----------------------|----------|--------------------|
+| **Camila** | `camilac07` | L | C | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **Anderson** | `AndersonGamarraV` | - | - | L | L | L | L | - | - | - | - | - | - | - | - | - |
+| **Mariano** | `MarianoOblitas` | - | - | - | - | - | - | L | L | L | L | - | - | - | - | - |
+| **Jocelyn** | `JocyDam` | - | - | - | - | - | - | - | - | - | - | L | L | L | - | - |
+| **Henry** | `HenryDiaz12` | - | - | - | - | - | - | - | - | - | - | - | - | - | L | L |
+
+
+#### 5.2.2.3. Sprint Backlog 2
+
+| Id     | Title                          | Task Id | Title (Task)                     | Description                                                                                                  | Estimation (Hours) | Assigned To | Status       |
+|--------|--------------------------------|---------|----------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------|-------------|--------------|
+| **US01** | Registro de nuevas cuentas     | TA-01   | Desarrollar Login Form           | Implementar formulario de inicio de sesión con validación de campos (email, contraseña).                     | 4                  | Mariano     | Done         |
+| **US01** | Registro de nuevas cuentas     | TA-02   | Desarrollar Register Form        | Crear formulario de registro con campos obligatorios (nombres, apellidos, email, contraseña, confirmación).  | 5                  | Mariano     | Done         |
+| **US02** | Recuperación de contraseña     | TA-03   | Password Recovery Form           | Implementar flujo de recuperación de contraseña con enlace de verificación por correo.                       | 3                  | Mariano     | Done         |
+| **US03** | Inicio de sesión               | TA-04   | Login & Register Logic           | Lógica de autenticación (JWT) y redirección a pantalla principal tras login exitoso.                         | 6                  | Mariano     | Done         |
+| **US04** | Cierre de sesión               | TA-05   | Toolbar Component                | Botón de logout en toolbar con redirección a pantalla de inicio.                                             | 2                  | Anderson    | Done         |
+| **US05** | Edición de perfil              | TA-06   | My Profile Component             | Componente para editar campos de perfil (nombre, email, foto) con validación.                                | 4                  | Anderson    | Done         |
+| **US07** | Cambiar contraseña             | TA-07   | Change Password Component        | Formulario para cambiar contraseña con validación de contraseña actual y nueva.                              | 3                  | Anderson    | Done         |
+| **US06** | Chat de comunicación           | TA-08   | Chat Footer Component            | Componente de chat integrado en el footer para mensajes en tiempo real.                                      | 5                  | Jocelyn     | Done         |
+| **US-L03** | Información sobre la app       | TA-09   | Home Page                        | Sección "¿Cómo funciona?" con iconos y pasos simplificados.                                                  | 3                  | Camila      | Done         |
+| **US-L04** | Beneficios destacados          | TA-10   | History Page                     | Lista de 3 beneficios clave (ahorro, seguridad, conveniencia) en landing.                                    | 2                  | Camila      | Done         |
+| **TS01** | Endpoint de Registro           | TA-11   | Requests (API)                   | Crear endpoint `/api/register` para almacenar datos de usuario en BD.                                        | 4                  | Henry       | Done         |
+| **TS02** | Endpoint de Login              | TA-12   | Request Management (API)         | Implementar endpoint `/api/login` con generación de JWT.                                                     | 3                  | Henry       | Done         |
+
+---
+
+**Key Details:**  
+1. **Status**: Todos los ítems están marcados como **Done** pues estan terminados. 
+2. **Asignaciones**:  
+   - **Mariano**: Lógica de autenticación (login/register/recovery).  
+   - **Anderson**: Componentes de perfil y seguridad (toolbar, change password).  
+   - **Jocelyn**: Integración de chat.  
+   - **Camila**: Contenido informativo (landing).  
+   - **Henry**: Endpoints de autenticación (API).  
+3. **Épicas cubiertas**:  
+   - Onboarding (US-L01 a US-L05).  
+   - Autenticación (US01-US04).  
+   - Gestión de Perfil (US05, US07).  
+
+**Notas:**  
+- Los user stories **US08-US12** (Segmento Conductores) y **TS03-TS05** (Gestión de Viajes) son parte del backend.  
+- Se priorizaron tareas técnicas (API) y componentes críticos (login, perfil) para el sprint.  
+
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+| **Repository**                                                                                                  | **Branch**                   | **Commit Id** | **Commit messages**              | **Commit Messages Body** | **Commit On (Date)** |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------|---------------|----------------------------------|--------------------------|----------------------|
+| **[<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)** | feat: History component | 6c5a9ea6804989bdccc1ad32f882c7a6cdcd5b3e       | feature History component                       | 14/05/2025           |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web, priorizando la funcionalidad y respuesta ante los supuestos consumos de servicios. Ante la falta de Backend, priorizamos la funcionalidad ante los testings de desarrollo.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para esta entrega, el Frontend de la App Web se encuentran en lanzamiento y de acceso abierto para todos los usuarios:
+
+Link: **[<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)**
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el Frontend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
+
+Servicio Users: Beeceptor #user-api
+
+Servicio Request:Beeceptor #nango-api-request
+
+Servicio Quotes: #nango-api
+
+Servicio History: #history
+
+Servicio Maps: Location IQ (API EXTERNA)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Frontend Web App se realizó a través de GitHub pages. El link de nuestra Frontend Web App  es el siguiente:
+
+Link: **[<u>https://github.com/ASI0729-Final-Project/frontend</u>](https://github.com/ASI0729-Final-Project/frontend)**
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+![Team Collaboration](./imgs/CommitsFrontEnd.JPG)
+
+
+
+
+
+
 ## Anexos. 
 
 **Link Figma**
