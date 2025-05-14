@@ -302,11 +302,11 @@ La metodología Lean UX se enfoca en el usuario y en la validación constante de
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-En el Perú, la inseguridad ciudadana es una problemática creciente que afecta gravemente al sistema de transporte, especialmente en zonas urbanas como Lima. Esta situación representa un riesgo constante para los estudiantes, quienes se ven expuestos a robos, asaltos y extorsiones al utilizar medios de transporte público o informal.
+La inseguridad ciudadana en el Perú, particularmente en zonas urbanas como Lima, ha alcanzado niveles alarmantes y ha impactado gravemente en el sistema de transporte público e informal. Esta situación ha convertido el simple acto de movilizarse en una actividad de alto riesgo para los estudiantes universitarios, quienes se enfrentan diariamente a robos, asaltos y extorsiones. A partir del Lean UX Problem Statement, se identifica como eje central la ausencia de una solución de movilidad segura, confiable y accesible que les permita desplazarse sin temor, compartiendo rutas y gastos con personas de confianza.
 
-Hemos identificado que uno de los principales desafíos que enfrentan los estudiantes es la falta de un sistema de transporte seguro, confiable y accesible, que además permita compartir gastos y rutas con personas de confianza. Esta carencia genera temor, estrés e incertidumbre, afectando su calidad de vida y su rendimiento académico.
+Uno de los principales desafíos que enfrentan los estudiantes es precisamente esta carencia de un sistema de transporte que garantice seguridad, accesibilidad y economía. La falta de alternativas confiables genera temor, estrés e incertidumbre, afectando directamente su calidad de vida y rendimiento académico.
 
-La ausencia de soluciones de movilidad seguras y comunitarias conlleva a que los estudiantes opten por alternativas riesgosas o costosas, incrementando su exposición a la delincuencia y reduciendo sus posibilidades de movilizarse con libertad.
+En consecuencia, muchos optan por alternativas riesgosas o costosas, lo que incrementa su exposición a la delincuencia y reduce su libertad de movilización.
 
 ¿Cómo podríamos diseñar una solución que les brinde a los estudiantes una forma de transporte segura, económica y compartida, utilizando tecnología para conectar a compañeros verificados y optimizar sus rutas diarias, promoviendo así la confianza y la protección en sus desplazamientos?
 
@@ -385,6 +385,14 @@ Debe tener una interfaz juvenil, amigable y confiable, con diseño intuitivo, co
 - Creemos que los estudiantes reducirán su huella de carbono y contribuirán a la sostenibilidad si proporcionamos una opción fácil de coordinar viajes en vehículos compartidos, disminuyendo el número de autos individuales en las rutas comunes hacia las universidades. Sabremos que hemos tenido éxito cuando el 20% de los estudiantes reporten que han preferido la opción de compartir vehículo por encima de usar transporte público o privado.
 
 - Creemos que los estudiantes podrán mejorar la accesibilidad y seguridad en sus traslados si ofrecemos un sistema de calificación y seguimiento de viajes compartidos, lo que proporcionará mayor confianza y control. Sabremos que hemos tenido éxito cuando al menos el 15% de los usuarios reporten mayor confianza y comodidad al utilizar la plataforma, y que el 20% mencionen que el sistema de calificación ha mejorado su experiencia de viaje.
+
+- Creemos que los estudiantes estarán más dispuestos a utilizar la plataforma si esta ofrece perfiles verificados y filtros de coincidencia por universidad o facultad. Sabremos que hemos tenido éxito cuando al menos el 60 % de los usuarios activen la verificación de identidad y el 70 % prefiera viajar con contactos verificados de su misma institución.
+
+- Creemos que la adopción aumentará si se integra un sistema de notificaciones para viajes programados. Sabremos que hemos tenido éxito cuando el 80 % de los trayectos se confirmen con más de 6 horas de anticipación y se reduzca en un 30 % la tasa de cancelaciones de último minuto.
+
+- Creemos que la plataforma será más atractiva si permite compartir gastos automáticamente mediante pagos digitales entre los pasajeros. Sabremos que hemos tenido éxito cuando al menos el 50 % de los viajes registrados utilicen el sistema de pago integrado y el 85 % de los usuarios lo califiquen como fácil y seguro.
+
+
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -761,7 +769,7 @@ Segmentos objetivos de estudiante sin vehículo:
   <tr>
     <th>Captura de la entrevista: <img src="imgEntrevistas/Entrevista_4_con_estudiante_sin_automovil.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
-    
+         En la entrevista, Marllely Arias comenta que llega a la universidad en transporte público, lo cual le toma entre una hora y veinte minutos (sin tráfico) hasta dos horas (sin tráfico). Le interesaría utilizar un servicio de transporte compartido con otros estudiantes, ya que considera que sería más seguro y que puede compartir la ruta con compañeros de la universidad. Respecto a la aplicación web, considera importante contar con actualización en tiempo real de la ubicación y visualizar la calificación de los conductores. También prefiere poder elegir al conductor para tener mayor confianza. En cuanto al método de pago, opta por Yape y Plin por su practicidad. En conclusión, le resulta atractiva la propuesta del servicio que ofrece Ñango y le gustaría participar en futuras pruebas para compartir su experiencia como estudiante.
     </td>
   </tr>
   <tr>
@@ -778,6 +786,10 @@ Segmentos objetivos de estudiante sin vehículo:
         00:00 - 2:43
     </td>
   </tr>
+</table>
+
+
+<table border="1">
   <tr>
     <th>Entrevista</th>
     <td>5</td>
@@ -793,7 +805,7 @@ Segmentos objetivos de estudiante sin vehículo:
   <tr>
     <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista5_estudiante_sin_auto.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
-     En la entrevista, Marllely Arias comenta que llega a la universidad en transporte público, lo cual le toma entre una hora y veinte minutos (sin tráfico) hasta dos horas (sin tráfico). Le interesaría utilizar un servicio de transporte compartido con otros estudiantes, ya que considera que sería más seguro y que puede compartir la ruta con compañeros de la universidad. Respecto a la aplicación web, considera importante contar con actualización en tiempo real de la ubicación y visualizar la calificación de los conductores. También prefiere poder elegir al conductor para tener mayor confianza. En cuanto al método de pago, opta por Yape y Plin por su practicidad. En conclusión, le resulta atractiva la propuesta del servicio que ofrece Ñango y le gustaría participar en futuras pruebas para compartir su experiencia como estudiante.
+     Fiorella se traslada en transporte público hasta la universidad, pero le resulta incómodo por la falta de espacio y la congestión en las unidades durante horas punta. Su viaje toma entre 1 hora 20 minutos y 2 horas. Considera que un servicio de transporte compartido con estudiantes sería una opción más segura y ordenada. Le gustaría que la aplicación permita ver calificaciones, elegir al conductor y seguir la ubicación en tiempo real. Prefiere usar Yape o Plin como medio de pago y está interesada en participar en pruebas del servicio ÑanGo.
     </td>
   </tr>
   <tr>
@@ -818,7 +830,7 @@ Segmentos objetivos de familiar del estudiante:
     <th>Entrevista</th>
     <td>7</td>
     <th>Nombre</th>
-    <td>Fiorella Chuquinaupa</td>
+    <td>Reiner Chuquinaupa</td>
   </tr>
   <tr>
     <th>Edad</th>
@@ -829,7 +841,7 @@ Segmentos objetivos de familiar del estudiante:
   <tr>
     <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista7_familiar_con_auto.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
-        
+        Reiner es padre de Fiorella y cuenta con un vehículo propio. Le gustaría utilizarlo para apoyar en el transporte de su hija y compartir el viaje con algunos de sus compañeros de universidad. Considera que esta opción contribuiría a su seguridad y permitiría optimizar el uso del auto. Ve con buenos ojos la propuesta de ÑanGo y está dispuesto a participar como conductor en una red confiable de transporte estudiantil.
     </td>
   </tr>
   <tr>
@@ -864,6 +876,7 @@ Segmentos objetivos de familiar del estudiante:
   <tr>
     <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_8_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
+    Luis Ángel cuenta con vehículo propio y actualmente apoya en los traslados de su prima, estudiante universitaria que cursa clases en el turno mañana. Debido a que ella vive en una zona con pocas rutas seguras y suele salir muy temprano, Luis Ángel considera que acompañarla le da mayor tranquilidad tanto a ella como a su familia. Estaría dispuesto a compartir el viaje con uno o dos compañeros de su prima, siempre que sean verificados, para aprovechar mejor el uso del auto y contribuir a su seguridad. Le interesa una solución como ÑanGo que facilite este tipo de coordinación entre familiares y estudiantes.
     </td>
   </tr>
   <tr>
@@ -898,6 +911,7 @@ Segmentos objetivos de familiar del estudiante:
   <tr>
     <th>Captura de la entrevista: <img src="imgEntrevistas/entrevista_9_familiar_con_auto.PNG" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3"> 
+    Álvaro tiene un vehículo propio y expresó su disposición a apoyar en los traslados universitarios de su hermana menor, quien inicia su primer ciclo en una universidad del Cercado de Lima. Debido a que ella aún no conoce bien la zona ni las rutas seguras, Álvaro considera importante acompañarla al menos en los primeros meses, y está dispuesto a compartir el viaje con uno o dos de sus compañeros para optimizar el uso del vehículo. Valora una solución como ÑanGo porque fomentaría un entorno seguro y de confianza para los jóvenes estudiantes, especialmente en zonas de alto tránsito.
     </td>
   </tr>
   <tr>
@@ -2189,7 +2203,7 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ![Imagen de Register](/imgCap4/Landing/MLanding6.png "Register")
 
-***Nota:** Contiene el formulario de registro para nuevos usuarios de la plataforma.*
+***Nota:** Contiene el formulario para los usuarios puedan entrar a la plataforma.*
 
 **Fuente:** Elaboración Propia
 
