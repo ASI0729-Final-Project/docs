@@ -3595,7 +3595,530 @@ https://asi0729-final-project.github.io/frontend/)**
 
 
 
+### 5.2.3. Sprint 3
 
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+**Segmentos objetivos de estudiante con vehículo (Conductor)**
+
+**Presentación del entrevistado**
+
+* ¿Cuál es tu nombre?
+* ¿Qué edad tienes?
+* ¿En qué universidad estudias?
+
+**Landing Page**
+* Acciones clave dentro del sistema
+* Navegación interactiva por la interfaz web
+
+**User Goal: Registrar con un plan**
+* Si el usuario no tiene cuenta, accede a “Registrarse”.
+* Ingresa nombre, apellido, correo, contraseña y selecciona tipo: Conductor.
+* Si los datos son válidos, elige un plan (National Future, Pro Generation, Success Premium).
+* Realiza el pago e ingresa a la verificación del perfil.
+* Selecciona si es Estudiante o Familiar.
+* Sube una foto, verifica email y celular, y completa sus datos de acuerdo al perfil de conductor.
+
+**User Goal: Recuperación de contraseña desde el inicio sesión**
+* El usuario accede a la Landing Page.
+* Presiona el botón “Iniciar sesión”.
+* Ingresa su correo electrónico y contraseña.
+* Puede marcar la opción “Recordarme”.
+* Si olvidó la contraseña, puede recuperarla desde el enlace inferior.
+* Si los datos son correctos, accede al Dashboard del Conductor.
+
+**User Goal: Cambio de contraseña desde Home**
+* Desde el perfil accede a “Cambiar contraseña”.
+* Introduce contraseña actual, nueva y confirma.
+* Recibe confirmación en pantalla y por correo electrónico.
+
+**User Goal: Editar perfil desde Home**
+* Desde el menú superior accede a su perfil.
+* Modifica datos como: nombre, foto, placa del vehículo, modelo, correo, número de contacto, plan, número de la placa de licencia y el estado del perfil "familar".
+
+**User Goal: Navegar por el Dashboard del Conductor**
+* El usuario inicia sesión desde la Landing Page.
+* Desde la barra de navegación superior (navigator), tiene acceso a:
+  - **Home**: Vista general con acceso al botón de creación rápida de viaje.
+  - **Routes**: Página para generar rutas nuevas.
+  - **Requests**: Sección para gestionar solicitudes de pasajeros (pendientes, confirmadas, canceladas).
+  - **History**: Historial de viajes ofrecidos, con filtros por mes y costo.
+  - **Chat**
+
+**Preguntas principales**
+* ¿Pudiste editar tu perfil y vehículo sin problemas?
+* ¿Qué tal fue el proceso para gestionar solicitudes de pasajeros?
+* ¿La sección de historial te ayudó a revisar tus viajes?
+* ¿Hubo algo que no entendiste o te confundió en la app?
+* Según a lo que viste de la landing y la aplicación web ¿Tuviste alguna dificultad visual o técnica durante la navegación?
+
+**Valoración de experiencia**
+* Del 1 al 10, ¿qué tan útil te pareció la app para gestionar tus viajes como conductor?
+* ¿Qué funcionalidad te pareció más valiosa?
+* ¿Qué función le agregarías sí o sí?
+* ¿Recomendarías esta plataforma a otros estudiantes conductores? ¿Por qué?
+
+**Segmentos objetivos de estudiante sin vehículo (Pasajero)**
+
+**Presentación del entrevistado**
+
+* ¿Cuál es tu nombre?
+* ¿Qué edad tienes?
+* ¿En qué universidad estudias?
+
+**Landing Page**
+* Acciones clave dentro del sistema
+* Navegación interactiva por la interfaz web
+
+**User Goal: Registrar con un plan**
+* Si no tiene cuenta, accede a “Registrarse”.
+* Ingresa sus datos, selecciona tipo: Pasajero.
+* Valida el formulario y elige un plan.
+* Procede al pago con tarjeta.
+* Luego verifica su perfil (sube foto, email, celular).
+
+**User Goal: Recuperación de contraseña desde el inicio sesión**
+* El usuario accede a la Landing Page.
+* Presiona el botón “Iniciar sesión”.
+* Ingresa su correo electrónico y contraseña.
+* Puede marcar “Recordarme” o recuperar su contraseña desde el enlace.
+* Si inicia sesión correctamente, accede al Dashboard del Pasajero.
+
+**User Goal: Cambio de contraseña desde Home**
+* Desde el perfil accede a “Cambiar contraseña”.
+* Introduce contraseña actual, nueva y confirma.
+* Recibe confirmación en pantalla y por correo electrónico.
+
+**User Goal: Editar perfil desde Home**
+* Desde el menú superior accede a “Mi perfil”.
+* Modifica datos como: nombre, foto, correo, clave y número de contacto.
+
+**User Goal: Navegar por el Dashboard del Pasajero**
+* El usuario inicia sesión desde la Landing Page.
+* La barra de navegación (navigator) contiene accesos directos a:
+  - **Home**: Vista de bienvenida con búsqueda de viajes.
+  - **Quotes**: Módulo para filtrar y visualizar viajes disponibles.
+  - **History**: Sección de historial con acciones como confirmar o reagendar.
+
+**Preguntas principales**
+* ¿Te fue fácil encontrar un viaje compatible con tu ruta?
+* ¿Te resultó clara la solicitud de viaje?
+* ¿La sección de historial te ayudó a revisar tus viajes pasados?
+* ¿Pudiste modificar tus datos sin dificultad en la sección mi perfil?
+* ¿Hubo algo que no entendiste o te confundió en la app?
+* ¿Tuviste alguna dificultad visual o técnica durante la navegación?
+
+**Valoración de experiencia**
+* Del 1 al 10, ¿qué tan útil te pareció la app para encontrar y solicitar viajes?
+* ¿Qué funcionalidad te pareció más valiosa?
+* Según a lo que viste de la landing y la aplicación web ¿Qué función le agregarías sí o sí?
+* ¿Recomendarías esta plataforma a otros estudiantes sin vehículo? ¿Por qué?
+
+
+**Segmentos objetivos de familiar del estudiante (Conductor)**
+
+**Presentación del entrevistado**
+
+* ¿Cuál es su nombre?
+* ¿Qué edad tiene?
+* ¿Cuál es su vínculo con el estudiante?
+* ¿Suele transportar a su familiar a clases?
+
+**User Goal: Registrar con un plan**
+* Si el usuario no tiene cuenta, accede a “Registrarse”.
+* Ingresa nombre, apellido, correo, contraseña y selecciona tipo: Conductor.
+* Si los datos son válidos, elige un plan (National Future, Pro Generation, Success Premium).
+* Realiza el pago e ingresa a la verificación del perfil.
+* Selecciona si es Estudiante o Familiar.
+* Sube una foto, verifica email y celular, y completa sus datos de acuerdo al perfil de conductor.
+
+**User Goal: Recuperación de contraseña desde el inicio sesión**
+* El usuario accede a la Landing Page.
+* Presiona el botón “Iniciar sesión”.
+* Ingresa su correo electrónico y contraseña.
+* Puede marcar la opción “Recordarme”.
+* Si olvidó la contraseña, puede recuperarla desde el enlace inferior.
+* Si los datos son correctos, accede al Dashboard del Conductor.
+
+**User Goal: Cambio de contraseña desde Home**
+* Desde el perfil accede a “Cambiar contraseña”.
+* Introduce contraseña actual, nueva y confirma.
+* Recibe confirmación en pantalla y por correo electrónico.
+
+**User Goal: Editar perfil desde Home**
+* Desde el menú superior accede a su perfil.
+* Modifica datos como: nombre, foto, placa del vehículo, modelo, correo, número de contacto, plan, número de la placa de licencia y el estado del perfil "familar".
+
+**User Goal: Navegar por el Dashboard del Conductor**
+* El usuario inicia sesión desde la Landing Page.
+* Desde la barra de navegación superior (navigator), tiene acceso a:
+  - **Home**: Vista general con acceso al botón de creación rápida de viaje.
+  - **Routes**: Página para generar rutas nuevas.
+  - **Requests**: Sección para gestionar solicitudes de pasajeros (pendientes, confirmadas, canceladas).
+  - **History**: Historial de viajes ofrecidos, con filtros por mes y costo.
+  - **Chat**
+
+**Preguntas principales**
+* ¿Te fue fácil registrar un viaje desde tu panel?
+* ¿Qué tal fue el proceso para gestionar solicitudes de pasajeros?
+* ¿Pudiste configurar tu privacidad y perfil sin problemas?
+* ¿La sección de historial te ayudó a revisar tus viajes?
+* ¿Hubo algo que no entendiste o te confundió en la app?
+* Según a lo que viste de la landing y la aplicación web ¿Tuviste alguna dificultad visual o técnica durante la navegación?
+
+**Valoración de experiencia**
+* Del 1 al 10, ¿qué tan útil te pareció la app para gestionar los viajes de tu familiar?
+* ¿Qué funcionalidad te pareció más valiosa?
+* ¿Qué función le agregarías sí o sí?
+* ¿Recomendarías esta plataforma a otros padres o familiares? ¿Por qué?
+
+
+
+
+### 5.3.2. Registro de Entrevistas
+
+**Segmentos objetivos de estudiante con vehículo (Conductor)**
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>1</td>
+    <th>Nombre</th>
+    <td>Andres Collazos</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>28</td>
+    <th>Distrito</th>
+    <td>La Perla</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Andrés Collazo, estudiante de la UPC de 20 años, comentó que pudo editar su perfil y vehículo sin problemas gracias a un registro amigable. Destacó que gestionar solicitudes de pasajeros fue sencillo, con opciones claras para aceptar, rechazar o chatear. Valoró la sección de historial y no encontró confusiones al usar la app ni dificultades técnicas. Resaltó como funcionalidad clave la gestión de solicitudes y consideró que la app tiene lo necesario por ahora. Recomienda ÑanGo a otros estudiantes por su utilidad e interacción accesible entre alumnos.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        05:24 -11:12
+    </td>
+  </tr>
+</table>
+<br>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>2</td>
+    <th>Nombre</th>
+    <td>Renato Santiago</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>25</td>
+    <th>Distrito</th>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Renato Santiago, estudiante de 25 años de la UPC sede Villa, comentó que pudo editar su perfil y los datos de su vehículo sin inconvenientes. Le pareció intuitiva la gestión de solicitudes de pasajeros, incluso más cómoda que en otras apps. Destacó la sección de historial para llevar control de sus viajes y no tuvo problemas técnicos durante la navegación. Calificó la app con 10, resaltando el seguimiento en vivo como su función favorita. Sugirió incluir un botón de emergencia y recomendó la plataforma por su seguridad dentro de una comunidad estudiantil confiable.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        11:12 - 17:11
+    </td>
+  </tr>
+</table>
+<br>
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>3</td>
+    <th>Nombre</th>
+    <td>Yulia</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>19</td>
+    <th>Distrito</th>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Yulia, estudiante de 19 años de la UPC Monterrico, señaló que pudo editar su perfil y vehículo sin problemas. Encontró fácil la gestión de solicitudes gracias a una interfaz clara. Destacó la utilidad del historial y calificó la app con 10 por la seguridad que brinda al validar tanto a pasajeros como conductores. Valoró funciones como el chat, filtrado por universidades, registro de ruta y tipo de vehículo. Sugirió mejorar la precisión en el registro de rutas por sede, pero afirmó que la app ya cumple bien su propósito. La recomienda por su utilidad y por fomentar la confianza entre usuarios.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 5:24
+    </td>
+  </tr>
+</table>
+<br>
+
+**Segmentos objetivos de estudiante sin vehículo (Pasajero)**
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>4</td>
+    <th>Nombre</th>
+    <td>Fiorella Chiquinaupa</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>20</td>
+    <th>Distrito</th>
+    <td>San Miguel</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, la estudiante Fiorella Chiquinaupa, de 20 años y residente en San Miguel, comenta que usualmente se traslada en transporte público, lo cual considera incómodo y poco seguro. Al conocer ÑanGo, le pareció una alternativa atractiva. Señala que fue sencillo encontrar un viaje compatible desde la pestaña “Quote”, donde ingresó origen, destino, fecha y hora, y luego seleccionó la opción más conveniente. También menciona que la solicitud de viaje fue clara y que pudo reservar, seleccionar el método de pago y conocer el estado del viaje desde la sección “Join Trip”. Resalta la utilidad del historial para revisar sus viajes anteriores y controlar detalles como fechas y comentarios. Afirma que modificar sus datos y recuperar la contraseña desde “Mi perfil” fue fácil gracias a la verificación vía correo electrónico. Aunque al inicio requirió algo de exploración, concluye que la aplicación es clara y fácil de usar. En general, valora positivamente la experiencia con ÑanGo.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        20:45 - 23:50
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>6</td>
+    <th>Nombre</th>
+    <td>Marllely Arias</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>22</td>
+    <th>Distrito</th>
+    <td>Lurigancho Chosica</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Marllely, estudiante universitaria de 20 años que vive en San Juan de Miraflores, comentó que suele movilizarse en transporte público, aunque le resulta incómodo y toma mucho tiempo. Al usar ÑanGo, destacó que el registro fue sencillo y que pudo verificar su perfil con carnet universitario y correo. Encontrar viajes fue fácil desde la opción de cotizar, donde eligió ruta, hora y conductor según calificaciones. Valoró poder comunicarse con el conductor antes del viaje y calificó positivamente la experiencia. Resaltó que la app es intuitiva, segura y muy útil para estudiantes sin auto.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        17:11 - 20:45
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>6</td>
+    <th>Nombre</th>
+    <td>Leonardo </td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>22</td>
+    <th>Distrito</th>
+    <td>Callao</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Marllely, estudiante universitaria de 20 años que vive en San Juan de Miraflores, comentó que suele movilizarse en transporte público, aunque le resulta incómodo y toma mucho tiempo. Al usar ÑanGo, destacó que el registro fue sencillo y que pudo verificar su perfil con carnet universitario y correo. Encontrar viajes fue fácil desde la opción de cotizar, donde eligió ruta, hora y conductor según calificaciones. Valoró poder comunicarse con el conductor antes del viaje y calificó positivamente la experiencia. Resaltó que la app es intuitiva, segura y muy útil para estudiantes sin auto.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        17:11 - 20:45
+    </td>
+  </tr>
+</table>
+
+**Segmentos objetivos de familiar del estudiante (Conductor)**
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>6</td>
+    <th>Nombre</th>
+    <td>Luis Ángel Becerra</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>25</td>
+    <th>Distrito</th>
+    <td>Los Olivos</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        Luis, de 25 años, transporta a su familiar a clases cuando puede. Comentó que el registro de viajes fue sencillo y rápido, y que la gestión de solicitudes fue clara gracias a notificaciones oportunas. Pudo configurar su perfil y privacidad sin inconvenientes, y usó el historial para hacer seguimiento de horarios y trayectos. Al inicio tuvo una leve confusión con algunas etiquetas y notó una demora puntual al cargar el mapa, pero el resto funcionó bien. Valoró la app con 9/10, destacando el seguimiento en tiempo real y las alertas. Sugirió incluir una opción para programar viajes recurrentes. Recomendó ÑanGo por su seguridad y eficiencia para planificar rutas diarias.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        23:50 - 27:02
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>6</td>
+    <th>Nombre</th>
+    <td>Álvaro Lazarte</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>23</td>
+    <th>Distrito</th>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        Álvaro, de 26 años, transporta regularmente a su familiar a clases. Señaló que el registro de viajes fue rápido y que podía ver claramente el punto de recogida, destino y datos del pasajero. Destacó que las solicitudes aparecen en tiempo real y permiten revisar la distancia antes de aceptar. Configuró su perfil fácilmente y usó el historial para controlar rutas, tarifas y calificaciones semanalmente. Tuvo una breve duda con el método de cobro, pero la resolvió. Valoró la app con 8.5/10, resaltando la estimación de tarifas. Como mejora, propuso un módulo para visualizar ingresos y gastos con gráficos. Recomendó ÑanGo por centralizar todo y facilitar el trabajo del conductor.
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        23:50 - 27:02
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>6</td>
+    <th>Nombre</th>
+    <td>Octavio</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>23</td>
+    <th>Distrito</th>
+    <td>Jesus Maria</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        ...
+    </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="---">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        23:50 - 27:02
+    </td>
+  </tr>
+</table>
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 
 ## Anexos. 
