@@ -3809,7 +3809,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>La Perla</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/andres.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, Andrés Collazo, estudiante de la UPC de 20 años, comentó que pudo editar su perfil y vehículo sin problemas gracias a un registro amigable. Destacó que gestionar solicitudes de pasajeros fue sencillo, con opciones claras para aceptar, rechazar o chatear. Valoró la sección de historial y no encontró confusiones al usar la app ni dificultades técnicas. Resaltó como funcionalidad clave la gestión de solicitudes y consideró que la app tiene lo necesario por ahora. Recomienda ÑanGo a otros estudiantes por su utilidad e interacción accesible entre alumnos.
     </td>
@@ -3817,7 +3817,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1I7A-BonBQ6XHSopwmnNbHpdwWp8fXQIT/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -3845,7 +3845,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Renato Santiago.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, Renato Santiago, estudiante de 25 años de la UPC sede Villa, comentó que pudo editar su perfil y los datos de su vehículo sin inconvenientes. Le pareció intuitiva la gestión de solicitudes de pasajeros, incluso más cómoda que en otras apps. Destacó la sección de historial para llevar control de sus viajes y no tuvo problemas técnicos durante la navegación. Calificó la app con 10, resaltando el seguimiento en vivo como su función favorita. Sugirió incluir un botón de emergencia y recomendó la plataforma por su seguridad dentro de una comunidad estudiantil confiable.
     </td>
@@ -3853,7 +3853,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1pJzLGEYQKhi-ret3DxTI7826UwcX-ygu/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -3880,7 +3880,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Santiago de Surco</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Yulia.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, Yulia, estudiante de 19 años de la UPC Monterrico, señaló que pudo editar su perfil y vehículo sin problemas. Encontró fácil la gestión de solicitudes gracias a una interfaz clara. Destacó la utilidad del historial y calificó la app con 10 por la seguridad que brinda al validar tanto a pasajeros como conductores. Valoró funciones como el chat, filtrado por universidades, registro de ruta y tipo de vehículo. Sugirió mejorar la precisión en el registro de rutas por sede, pero afirmó que la app ya cumple bien su propósito. La recomienda por su utilidad y por fomentar la confianza entre usuarios.
     </td>
@@ -3888,7 +3888,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1DKBIhvf25IKIe1nU522lUAuEGVoZd4Vq/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -3918,7 +3918,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>San Miguel</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Fiorella.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, la estudiante Fiorella Chiquinaupa, de 20 años y residente en San Miguel, comenta que usualmente se traslada en transporte público, lo cual considera incómodo y poco seguro. Al conocer ÑanGo, le pareció una alternativa atractiva. Señala que fue sencillo encontrar un viaje compatible desde la pestaña “Quote”, donde ingresó origen, destino, fecha y hora, y luego seleccionó la opción más conveniente. También menciona que la solicitud de viaje fue clara y que pudo reservar, seleccionar el método de pago y conocer el estado del viaje desde la sección “Join Trip”. Resalta la utilidad del historial para revisar sus viajes anteriores y controlar detalles como fechas y comentarios. Afirma que modificar sus datos y recuperar la contraseña desde “Mi perfil” fue fácil gracias a la verificación vía correo electrónico. Aunque al inicio requirió algo de exploración, concluye que la aplicación es clara y fácil de usar. En general, valora positivamente la experiencia con ÑanGo.
     </td>
@@ -3926,7 +3926,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1UtOENHY1rTS_5NHyHHiGEkd00ws7t3RT/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -3942,7 +3942,7 @@ https://asi0729-final-project.github.io/frontend/)**
 <table border="1">
   <tr>
     <th>Entrevista</th>
-    <td>6</td>
+    <td>5</td>
     <th>Nombre</th>
     <td>Marllely Arias</td>
   </tr>
@@ -3953,7 +3953,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Lurigancho Chosica</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/marllely.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, Marllely, estudiante universitaria de 20 años que vive en San Juan de Miraflores, comentó que suele movilizarse en transporte público, aunque le resulta incómodo y toma mucho tiempo. Al usar ÑanGo, destacó que el registro fue sencillo y que pudo verificar su perfil con carnet universitario y correo. Encontrar viajes fue fácil desde la opción de cotizar, donde eligió ruta, hora y conductor según calificaciones. Valoró poder comunicarse con el conductor antes del viaje y calificó positivamente la experiencia. Resaltó que la app es intuitiva, segura y muy útil para estudiantes sin auto.
     </td>
@@ -3961,7 +3961,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1VV9w065gCHl5gs__sTs6z1Rg4yq_bcXD/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -3988,7 +3988,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Callao</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Leonardo.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         En la entrevista, Marllely, estudiante universitaria de 20 años que vive en San Juan de Miraflores, comentó que suele movilizarse en transporte público, aunque le resulta incómodo y toma mucho tiempo. Al usar ÑanGo, destacó que el registro fue sencillo y que pudo verificar su perfil con carnet universitario y correo. Encontrar viajes fue fácil desde la opción de cotizar, donde eligió ruta, hora y conductor según calificaciones. Valoró poder comunicarse con el conductor antes del viaje y calificó positivamente la experiencia. Resaltó que la app es intuitiva, segura y muy útil para estudiantes sin auto.
     </td>
@@ -3996,7 +3996,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1kjAs6Vb2XkiDjJ-hrk9LDVrp1mQQCB4n/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -4013,7 +4013,7 @@ https://asi0729-final-project.github.io/frontend/)**
 <table border="1">
   <tr>
     <th>Entrevista</th>
-    <td>6</td>
+    <td>7</td>
     <th>Nombre</th>
     <td>Luis Ángel Becerra</td>
   </tr>
@@ -4024,7 +4024,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Los Olivos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Luis Angel.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         Luis, de 25 años, transporta a su familiar a clases cuando puede. Comentó que el registro de viajes fue sencillo y rápido, y que la gestión de solicitudes fue clara gracias a notificaciones oportunas. Pudo configurar su perfil y privacidad sin inconvenientes, y usó el historial para hacer seguimiento de horarios y trayectos. Al inicio tuvo una leve confusión con algunas etiquetas y notó una demora puntual al cargar el mapa, pero el resto funcionó bien. Valoró la app con 9/10, destacando el seguimiento en tiempo real y las alertas. Sugirió incluir una opción para programar viajes recurrentes. Recomendó ÑanGo por su seguridad y eficiencia para planificar rutas diarias.
     </td>
@@ -4032,7 +4032,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1tVuKkMALu_-4yjIWUDW7_yMzBNbWRnsd/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -4048,7 +4048,7 @@ https://asi0729-final-project.github.io/frontend/)**
 <table border="1">
   <tr>
     <th>Entrevista</th>
-    <td>6</td>
+    <td>8</td>
     <th>Nombre</th>
     <td>Álvaro Lazarte</td>
   </tr>
@@ -4059,7 +4059,7 @@ https://asi0729-final-project.github.io/frontend/)**
     <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img src="imgEntrevistasCap5/Alvaro Lazarte.png" alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
         Álvaro, de 26 años, transporta regularmente a su familiar a clases. Señaló que el registro de viajes fue rápido y que podía ver claramente el punto de recogida, destino y datos del pasajero. Destacó que las solicitudes aparecen en tiempo real y permiten revisar la distancia antes de aceptar. Configuró su perfil fácilmente y usó el historial para controlar rutas, tarifas y calificaciones semanalmente. Tuvo una breve duda con el método de cobro, pero la resolvió. Valoró la app con 8.5/10, resaltando la estimación de tarifas. Como mejora, propuso un módulo para visualizar ingresos y gastos con gráficos. Recomendó ÑanGo por centralizar todo y facilitar el trabajo del conductor.
     </td>
@@ -4067,7 +4067,7 @@ https://asi0729-final-project.github.io/frontend/)**
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/13SOoU0E7TtaEgib0RXwsiQHDHzECUWnb/view?usp=sharing">
         Ver grabación
       </a>
     </td>
@@ -4083,26 +4083,29 @@ https://asi0729-final-project.github.io/frontend/)**
 <table border="1">
   <tr>
     <th>Entrevista</th>
-    <td>6</td>
+    <td>9</td>
     <th>Nombre</th>
-    <td>Octavio</td>
+    <td>Junior Clemente</td>
   </tr>
   <tr>
     <th>Edad</th>
-    <td>23</td>
+    <td>24</td>
     <th>Distrito</th>
-    <td>Jesus Maria</td>
+    <td>Chorrillos</td>
   </tr>
   <tr>
-    <th>Captura de la entrevista: <img src="---" alt="Captura de la entrevista" width="200"></th>
+    <th>Captura de la entrevista: <img <img src="imgEntrevistasCap5/Jack.jpg"  alt="Captura de la entrevista" width="200"></th>
     <td colspan="3">
-        ...
+      Junior tiene 24 años y suele llevar a su familiar a clases. Comentó que registrar viajes fue sencillo y que, aunque al inicio le costó entender cómo gestionar solicitudes, luego el proceso fue claro y cómodo.
+      Pudo configurar su perfil y privacidad sin problemas, y valoró mucho las medidas de seguridad como la verificación por correo y teléfono. También encontró útil el historial para tener un mejor control de sus viajes y posibles ingresos.
+      Calificó la app con un 9, destacando el control de tiempo y consumo como puntos fuertes. La funcionalidad que más valoró fue la seguridad del perfil. Como mejora, propuso un botón de reporte para pasajeros o conductores con mala conducta.
+      Finalmente, recomendó la plataforma por su utilidad para estudiantes y familiares, y porque facilita rutas seguras entre casa e instituciones.
     </td>
   </tr>
   <tr>
     <th>URL de la grabación</th>
     <td colspan="3">
-      <a href="---">
+      <a href="https://drive.google.com/file/d/1D7Q2CpXRvdrQleBT3FNYvlIFB7hJfmt9/view?usp=drive_link">
         Ver grabación
       </a>
     </td>
@@ -4114,7 +4117,6 @@ https://asi0729-final-project.github.io/frontend/)**
     </td>
   </tr>
 </table>
-
 
 ### 5.3.3. Evaluaciones según heurísticas
 
