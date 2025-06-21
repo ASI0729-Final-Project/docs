@@ -127,7 +127,32 @@ ABET – EAC - Student Outcome 1: La capacidad de identificar, formular y resolv
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+  - [5.3.1. Validación Interviews](#531-validación-interviews)
+  - [5.3.2. Diseño de Entrevistas](#532-diseño-de-entrevistas)
+  - [5.3.3. Registro de Entrevistas](#533-registro-de-entrevistas)
+  - [5.3.4. Evaluaciones según heurísticas](#534-evaluaciones-según-heurísticas)
+
+- [5.4. Video About-the-Product](#54-video-about-the-product)
 
 # Capítulo I: Introducción
 
@@ -1841,9 +1866,9 @@ QuakeNet ofrece una experiencia coherente, intuitiva y visualmente atractiva. Po
 Los colores fueron seleccionados a partir del logo para mantener coherencia visual y fortalecer la identidad de la marca. Se usaron tonos fríos por su capacidad de transmitir confianza y modernidad.
 La paleta permite aplicar los colores en diferentes elementos visuales (fondos, botones, textos) garantizando contraste, accesibilidad y una experiencia de usuario clara.
 
-**Figura N:** Paleta de colores
+**Figura 3:** Paleta de colores
 
-![Imagen de paleta de colores](/imgCap4/PaletaColores.png "Paleta de colores")
+![Imagen de paleta de colores](./imgCap4/PaletaColores.png "Paleta de colores")
 
 ***Nota:** La paleta incluye colores primarios, secundarios, acentos y de soporte, lo que permite aplicarlos en una amplia gama de componente*
 
@@ -1853,17 +1878,17 @@ La paleta permite aplicar los colores en diferentes elementos visuales (fondos, 
 
 La tipografía que está usando Ñango es la fuente Inter por su excelente legibilidad y estilo moderno, ideal para una aplicación web. El sistema tipográfico establece una jerarquía clara mediante variaciones de peso y tamaño, facilitando la lectura y navegación. Desde títulos grandes y llamativos hasta textos de cuerpo sutiles, esta estructura visual refuerza la identidad de marca y mejora la experiencia del usuario.
 
-**Figura N:** Tipografía
+**Figura 4:** Tipografía
 
-![Imagen de Tipografía](/imgCap4/Tipografía2.png "Tipografía")
+![Imagen de Tipografía](./imgCap4/Tipografía2.png "Tipografía")
 
 ***Nota:** La jerarquía visual empleada en la landing page se basa en el uso estratégico de tamaños y pesos tipográficos, utilizando la fuente Nunito como base. Esta estructura facilita la organización del contenido, mejora la legibilidad y guía la atención del usuario de forma intuitiva.*
 
 **Fuente:** Elaboración Propia
 
-**Figura N:** Tipografía
+**Figura 5:** Tipografía
 
-![Imagen de Tipografía](/imgCap4/Tipografía.png "Tipografía")
+![Imagen de Tipografía](./imgCap4/Tipografía.png "Tipografía")
 
 ***Nota:** La jerarquía visual implementada en la página web utiliza tamaños de fuente consistentes y proporcionales para organizar la información de manera clara y estructurada. Cabe resaltar que esta estructura está diseñada exclusivamente para la versión web de la plataforma.*
 
@@ -1878,8 +1903,8 @@ La tipografía que está usando Ñango es la fuente Inter por su excelente legib
 
 El logo de Ñango se ha diseñado para reflejar cercanía y confianza. Su forma simple pero reconocible permite una fácil identificación, mientras que sus líneas suaves y modernas transmiten accesibilidad y fluidez. La tipografía utilizada es atractiva y legible, lo que refuerza la naturaleza colaborativa de la plataforma. Ñango es un proyecto inspirado en la idea de “camino en movimiento” o “vamos por el camino”; por ello, el logotipo simboliza el trayecto compartido y la conexión entre estudiantes que se apoyan mutuamente para movilizarse, representando así el espíritu solidario y práctico de Ñango.
 
-**Figura N:** Logo Principal
-![Imagen de Logo Principal](/imgCap4/LogoPrincipal.png "Logo Principal")
+**Figura 6:** Logo Principal
+![Imagen de Logo Principal](./imgCap4/LogoPrincipal.png "Logo Principal")
 ***Nota:** Logo principal con colores fríos.*
 
 **Fuente:** Elaboración Propia
@@ -1888,8 +1913,8 @@ El logo de Ñango se ha diseñado para reflejar cercanía y confianza. Su forma 
 
 Los iconos seleccionados no solo facilitan la interacción dentro de la plataforma, sino que también optimizan el acceso a funciones clave como la comunicación entre pasajeros y conductor, la reserva de servicios o la reprogramación, y la edición de perfiles o comentarios del viaje. 
 
-**Figura N:** Logo Secundario
-![Imagen de Iconos](/imgCap4/Icono.png "Iconos")
+**Figura 7:** Logo Secundario
+![Imagen de Iconos](./imgCap4/Icono.png "Iconos")
 
 ***Nota:** Logo secundario para una mayor legilibilidad y contraste visual con fondos oscuros.*
 
@@ -1922,9 +1947,9 @@ En esta sección se presentará una estructura que permite entender la navegaci�
 Se ha realizado dos vistas para la aplicación de Ñango, se basa en dos esquemas, primero es el pasajero y el segundo conductor. A continuación se mostrará las dos estructuras para el sistemas de organización de la aplicación web.
 
 
-**Figura N:** Sistema de organización de estudiante y familiar del estudiante(conductor)
+**Figura 8:** Sistema de organización de estudiante y familiar del estudiante(conductor)
 
-![Imagen de Sistema de organización de estudiante](/imgCap4/SistemConductor.png "Organization")
+![Imagen de Sistema de organización de estudiante](./imgCap4/SistemConductor.png "Organization")
 
 ***Nota:** Sistemas de organización del estudiante y familiar del estudiante.*
 
@@ -1932,9 +1957,9 @@ Se ha realizado dos vistas para la aplicación de Ñango, se basa en dos esquema
 
 La figura muestra la estructura del sistema de organización correspondiente al estudiante y su familiar (conductor) dentro de la plataforma. El acceso comienza en "Login", donde el usuario puede "Enter Credentials", dirigirse al "Join plan" para escoger el plan de su preferencia y  ejecutar la "Profile Verification". Desde la "Home Screen", se habilita la opción "Post Route" para publicar viajes. En la sección "Routes", se administra el estado de las reservas mediante "Request Management". Posteriormente, el módulo "Requests" permite revisar solicitudes recibidas y gestionarlas a través de "Decision Management for Requests"; en esta misma ruta se puede consultar "Comments" dejados por los pasajeros. Además, el conductor puede revisar su historial de viajes en "History", contactar con el área de ayuda mediante "Support", y modificar su información desde "Edit Profile", incluyendo correcciones a través de "Fix Credentials".
 
-**Figura N:** Sistemas de organización de estudiante (pasajero)
+**Figura 9:** Sistemas de organización de estudiante (pasajero)
 
-![Imagen de Sistemas de organización de estudiante](/imgCap4/SistemPasajero.png "Organization")
+![Imagen de Sistemas de organización de estudiante](./imgCap4/SistemPasajero.png "Organization")
 
 ***Nota:** Sistemas de organización del estudiante.*
 
@@ -1948,7 +1973,7 @@ En resumen, los esquemas detallan las principales funcionalidades disponibles pa
 
 El conjunto de información Ñango será representado por el sistema mediante las siguientes etiquetas.
 
-**Tabla N:** Tabla de sistemas de etiquetas
+**Tabla 52:** Tabla de sistemas de etiquetas
 
 <table border="1">
   <tr>
@@ -1978,7 +2003,7 @@ El conjunto de información Ñango será representado por el sistema mediante la
 
 **Fuente:** Elaboración Propia
 
-**Tabla N:** Tabla de sistemas de etiquetas
+**Tabla 53:** Tabla de sistemas de etiquetas
 
 <table border="1">
   <tr>
@@ -2022,7 +2047,7 @@ TinkuyTech Team
 Los sistemas de búsqueda facilitan al usuario localizar elementos específicos de forma rápida, ya sea mediante un buscador o a través de una clasificación por categorías. Para ello, se estableció una estructura pensada en describir las funcionalidades que permiten buscar, filtrar o encontrar. Esto permite mantener una estructura ordenada que optimiza la precisión y agilidad durante la búsqueda.
 
 
-**Tabla N:** Tabla de sistemas de búsqueda
+**Tabla 54:** Tabla de sistemas de búsqueda
 
 <table border="1">
   <tr>
@@ -2066,17 +2091,17 @@ Para garantizar una experiencia fluida al usuario, la aplicación se estructura 
 La navegación global permite el acceso general a las principales secciones de la plataforma, y se encuentra ubicada en la parte superior de la interfaz web.
 Por su parte, la navegación local brinda acceso a las subsecciones dentro de cada sección principal, permitiendo al usuario interactuar con todas las funcionalidades disponibles de manera organizada y eficiente.
 
-**Figura N:** Navegación de estudiante y familiar del estudiante (conductor)
+**Figura 9:** Navegación de estudiante y familiar del estudiante (conductor)
 
-![Imagen de Estructura de estudiante](/imgCap4/NavegationConductor.png "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/NavegationConductor.png "Navegation")
 
 ***Nota:** Navegación de la navegación del estudiante y familiar del estudiante.*
 
 **Fuente:** Elaboración Propia
 
-**Figura N:** Navegación de estudiante (pasajero)
+**Figura 10:** Navegación de estudiante (pasajero)
 
-![Imagen de Estructura de estudiante](/imgCap4/NavegationPasajero.png "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/NavegationPasajero.png "Navegation")
 
 ***Nota:** Navegación de la navegación del estudiante.*
 
@@ -2088,9 +2113,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-**Figura N:** Home de la landing page
+**Figura 11:** Home de la landing page
 
-![Imagen de Register](/imgCap4/Landing/Landing1.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing1.png "Register")
 
 ***Nota:** El wireframe muestra la sección Home de la landing page, con un mensaje principal, botones de registro (Start for Free) y una barra de navegación con accesos a las secciones clave del sitio.*
 
@@ -2098,9 +2123,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "How it Works"
+**Figura 12:** Sección "How it Works"
 
-![Imagen de Register](/imgCap4/Landing/Landing2.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing2.png "Register")
 
 ***Nota:** El wireframe presenta la sección How It Works, donde se explica de forma simple y visual el funcionamiento de la plataforma en tres pasos: buscar u ofrecer un viaje, confirmar y dividir costos, y calificar la experiencia.*
 
@@ -2108,9 +2133,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "About Us"
+**Figura 13:** Sección "About Us"
 
-![Imagen de Register](/imgCap4/Landing/Landing3.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing3.png "Register")
 
 ***Nota:** Muestra la misión y visión de Ñango, junto con su enfoque en movilidad estudiantil.*
 
@@ -2118,9 +2143,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Features"
+**Figura 14:** Sección "Features"
 
-![Imagen de Register](/imgCap4/Landing/Landing4.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing4.png "Register")
 
 ***Nota:** Presenta los beneficios clave de la plataforma: ahorro, networking y sostenibilidad.*
 
@@ -2128,9 +2153,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Plans"
+**Figura 15:** Sección "Plans"
 
-![Imagen de Register](/imgCap4/Landing/Landing5.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing5.png "Register")
 
 ***Nota:** Se detallan los planes de suscripción disponibles, con sus respectivas funcionalidades..*
 
@@ -2138,9 +2163,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Be Ñango"
+**Figura 16:** Sección "Be Ñango"
 
-![Imagen de Register](/imgCap4/Landing/Landing6.png "Register")
+![Imagen de Register](./imgCap4/Landing/Landing6.png "Register")
 
 ***Nota:** Contiene el formulario de registro para nuevos usuarios de la plataforma.*
 
@@ -2149,9 +2174,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ### 4.3.2. Landing Page Mock-up
 
-**Figura N:** Home de la landing page
+**Figura 17:** Home de la landing page
 
-![Imagen de Register](/imgCap4/Landing/MLanding1.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding1.png "Register")
 
 ***Nota:** El wireframe muestra la sección Home de la landing page, con un mensaje principal, botones de registro (Start for Free) y una barra de navegación con accesos a las secciones clave del sitio.*
 
@@ -2159,9 +2184,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "How it Works"
+**Figura 18:** Sección "How it Works"
 
-![Imagen de Register](/imgCap4/Landing/MLanding2.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding2.png "Register")
 
 ***Nota:** El wireframe presenta la sección How It Works, donde se explica de forma simple y visual el funcionamiento de la plataforma en tres pasos: buscar u ofrecer un viaje, confirmar y dividir costos, y calificar la experiencia.*
 
@@ -2169,9 +2194,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "About Us"
+**Figura 19:** Sección "About Us"
 
-![Imagen de Register](/imgCap4/Landing/MLanding3.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding3.png "Register")
 
 ***Nota:** Muestra la misión y visión de Ñango, junto con su enfoque en movilidad estudiantil.*
 
@@ -2179,9 +2204,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Features"
+**Figura 20:** Sección "Features"
 
-![Imagen de Register](/imgCap4/Landing/MLanding4.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding4.png "Register")
 
 ***Nota:** Presenta los beneficios clave de la plataforma: ahorro, networking y sostenibilidad.*
 
@@ -2189,9 +2214,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Plans"
+**Figura 21:** Sección "Plans"
 
-![Imagen de Register](/imgCap4/Landing/MLanding5.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding5.png "Register")
 
 ***Nota:** Se detallan los planes de suscripción disponibles, con sus respectivas funcionalidades..*
 
@@ -2199,9 +2224,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Sección "Be Ñango"
+**Figura 22:** Sección "Be Ñango"
 
-![Imagen de Register](/imgCap4/Landing/MLanding6.png "Register")
+![Imagen de Register](./imgCap4/Landing/MLanding6.png "Register")
 
 ***Nota:** Contiene el formulario para los usuarios puedan entrar a la plataforma.*
 
@@ -2211,9 +2236,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-**Figura N:** Registro en la aplicación web
+**Figura 23:** Registro en la aplicación web
 
-![Imagen de Register](/imgCap4/Wirefrimes/1.RegisterWF.png "Register")
+![Imagen de Register](./imgCap4/Wirefrimes/1.RegisterWF.png "Register")
 
 ***Nota:** Wireframe para registrar al nuevo usuario.*
 
@@ -2221,9 +2246,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Iniciar sesión en la aplicación web
+**Figura 24:** Iniciar sesión en la aplicación web
 
-![Imagen de Login](/imgCap4/Wirefrimes/2.LoginWF.png "Login")
+![Imagen de Login](./imgCap4/Wirefrimes/2.LoginWF.png "Login")
 
 ***Nota:** Wireframe para ingresar con una cuenta ya existe.*
 
@@ -2231,9 +2256,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Mensaje para recuperar contraseña desde el login
+**Figura 25:** Mensaje para recuperar contraseña desde el login
 
-![Imagen de Message](/imgCap4/Wirefrimes/3.LoginMessageWF.png "Message")
+![Imagen de Message](./imgCap4/Wirefrimes/3.LoginMessageWF.png "Message")
 
 ***Nota:** El wireframe para recuperación de contraseña se activa al hacer clic en el enlace "Forgot your password?". Y se muestra una ventana flotante con instrucciones para restablecer la contraseña del usuario.*
 
@@ -2241,9 +2266,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Recuperación de contraseña
+**Figura 26:** Recuperación de contraseña
 
-![Imagen de Password](/imgCap4/Wirefrimes/4.PasswordRecoveryWF.png "Password")
+![Imagen de Password](./imgCap4/Wirefrimes/4.PasswordRecoveryWF.png "Password")
 
 ***Nota:** Al realizar la instrucción de la ventana flotante, te dirigirá a la pantalla "Password Recovery" y el usuario tiene que ingresar su contraseña nueva.*
 
@@ -2251,18 +2276,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Ver Planes
+**Figura 27:** Ver Planes
 
-![Imagen de Password](/imgCap4/Wirefrimes/PlanWireframe1.png "Password")
+![Imagen de Password](./imgCap4/Wirefrimes/PlanWireframe1.png "Password")
 
 ***Nota:** Se muestra la pantalla donde el usuario puede visualizar y comparar los planes disponibles antes de contratarlos.*
 
 **Fuente:** Elaboración Propia
 
 ***
-**Figura N:** Procesar tu pago para un plan
+**Figura 28:** Procesar tu pago para un plan
 
-![Imagen de Password](/imgCap4/Wirefrimes/PlanWireframe2.png "Password")
+![Imagen de Password](./imgCap4/Wirefrimes/PlanWireframe2.png "Password")
 
 
 ***Nota:**  El wireframe representa el formulario para ingresar los datos de pago al momento de adquirir un plan.*
@@ -2274,9 +2299,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 **Vista para el estudiante y familiar del estudiante (conductor)**
 
-**Figura N:** Verificación de perfil de un estudiante para acceder al rol de conductor
+**Figura 29:** Verificación de perfil de un estudiante para acceder al rol de conductor
 
-![Imagen de Profile Verification](/imgCap4/Wirefrimes/Conductor/1.HomeMyProfileWFC.png "Profile Verification")
+![Imagen de Profile Verification](./imgCap4/Wirefrimes/Conductor/1.HomeMyProfileWFC.png "Profile Verification")
 
 ***Nota:** Wireframe para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "License Type" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
 
@@ -2284,9 +2309,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Verificación de perfil del familiar de un estudiante para acceder al rol de conductor
+**Figura 29:** Verificación de perfil del familiar de un estudiante para acceder al rol de conductor
 
-![Imagen de Profile Verification](/imgCap4/Wirefrimes/Conductor/2.HomeProfileVerificationWFC2.png "Profile Verification")
+![Imagen de Profile Verification](./imgCap4/Wirefrimes/Conductor/2.HomeProfileVerificationWFC2.png "Profile Verification")
 
 ***Nota:** Wireframe para el ingreso de credenciales del familiar de un estudiante. El familiar debe subir dos documentos obligatorios: "License Type" y "Student ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
 
@@ -2294,9 +2319,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Menú principal de la página web
+**Figura 30:** Menú principal de la página web
 
-![Imagen de Home](/imgCap4/Wirefrimes/Conductor/3.HomeWFC.png "Home")
+![Imagen de Home](./imgCap4/Wirefrimes/Conductor/3.HomeWFC.png "Home")
 
 ***Nota:** Al acceder a la vista del conductor, el usuario podrá navegar por las siguientes secciones: "Routes", "Requests", "History", "My Profile", "Change Password" y "Support".*
 
@@ -2304,9 +2329,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cambio de contraseña
+**Figura 31:** Pantalla de cambio de contraseña
 
-![Imagen de Home Change Password](/imgCap4/Wirefrimes/Conductor/4.HomeChangePasswordWFC.png "Home Change Password")
+![Imagen de Home Change Password](./imgCap4/Wirefrimes/Conductor/4.HomeChangePasswordWFC.png "Home Change Password")
 
 ***Nota:** Wireframe correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2314,9 +2339,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del perfil del usuario
+**Figura 32:** Pantalla del perfil del usuario
 
-![Imagen de My Profile](/imgCap4/Wirefrimes/Conductor/5.HomeMyProfileWFC.png "My Profile")
+![Imagen de My Profile](./imgCap4/Wirefrimes/Conductor/5.HomeMyProfileWFC.png "My Profile")
 
 ***Nota:** Wireframe correspondiente a la funcionalidad de modificación del perfil del usuario. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "My Profile", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2324,18 +2349,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de rutas 
+**Figura 33:** Pantalla de rutas 
 
-![Imagen de Routes](/imgCap4/Wirefrimes/Conductor/6.RoutesWFC.png "Routes")
+![Imagen de Routes](./imgCap4/Wirefrimes/Conductor/6.RoutesWFC.png "Routes")
 
 ***Nota:** Wireframe que muestra la interfaz donde el usuario, en su rol de conductor, puede generar los detalles de su ruta.*
 **Fuente:** Elaboración Propia
 
 ***
 
-**Figura N:** Pantalla de solicitud
+**Figura 34:** Pantalla de solicitud
 
-![Imagen de Request](/imgCap4/Wirefrimes/Conductor/7.RequestWFC.png "Request")
+![Imagen de Request](./imgCap4/Wirefrimes/Conductor/7.RequestWFC.png "Request")
 
 ***Nota:** En el wireframe se visualiza la sección de solicitudes y reprogramaciones, junto con tres botones que permiten la interacción del usuario. El primero permite aceptar la solicitud de viaje, el segundo añade al pasajero al chat grupal del viaje, y el tercero permite rechazar la solicitud.*
 
@@ -2343,9 +2368,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para aceptar la solicitud del pasajero
+**Figura 35:** Pantalla flotante para aceptar la solicitud del pasajero
 
-![Imagen de Request Accept](/imgCap4/Wirefrimes/Conductor/9.ResquetAcceptWFC.png "Request Accept")
+![Imagen de Request Accept](./imgCap4/Wirefrimes/Conductor/9.ResquetAcceptWFC.png "Request Accept")
 
 ***Nota:** Wireframe para aceptar la solicitud del usuario (pasajero).
 
@@ -2353,9 +2378,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para agregar al usuario (pasajero) a un chat grupal
+**Figura 36:** Pantalla flotante para agregar al usuario (pasajero) a un chat grupal
 
-![Imagen de Group](/imgCap4/Wirefrimes/Conductor/9.RequestGroupWFC.png "Group")
+![Imagen de Group](./imgCap4/Wirefrimes/Conductor/9.RequestGroupWFC.png "Group")
 
 ***Nota:** Wireframe para agregar al usuario (pasajero) al grupo del viaje solicitado*
 
@@ -2363,9 +2388,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para rechazar la solicitud del pasajero
+**Figura 37:** Pantalla flotante para rechazar la solicitud del pasajero
 
-![Imagen de Reject](/imgCap4/Wirefrimes/Conductor/9.RequestRejectWFC.png "Reject")
+![Imagen de Reject](./imgCap4/Wirefrimes/Conductor/9.RequestRejectWFC.png "Reject")
 
 ***Nota:** Wireframe para rechazar la solicitud del usuario (pasajero)*
 
@@ -2373,9 +2398,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para ver los comentarios
+**Figura 38:** Pantalla flotante para ver los comentarios
 
-![Imagen de Request Comment](/imgCap4/Wirefrimes/Conductor/8.RequestCommentsWFC.png "Request Comment")
+![Imagen de Request Comment](./imgCap4/Wirefrimes/Conductor/8.RequestCommentsWFC.png "Request Comment")
 
 ***Nota:** Wireframe que muestra la interfaz donde el conductor puede visualizar los comentarios recibidos relacionados con su calificación como prestador del servicio. Esta sección permite consultar opiniones de los pasajeros sobre su desempeño en los viajes realizados.*
 
@@ -2383,9 +2408,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del chat grupal
+**Figura 39:** Pantalla del chat grupal
 
-![Imagen de Chat Grupal](/imgCap4/Wirefrimes/Conductor/10.ChatWFC.png "Chat Grupal")
+![Imagen de Chat Grupal](./imgCap4/Wirefrimes/Conductor/10.ChatWFC.png "Chat Grupal")
 
 ***Nota:** El usuario puede interactuar con el chat grupal desde las secciones "Routes" y "Requests", facilitando así la comunicación entre los participantes del viaje.*
 
@@ -2393,9 +2418,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del historial de viajes
+**Figura 40:** Pantalla del historial de viajes
 
-![Imagen de History](/imgCap4/Wirefrimes/Conductor/11.HistoryWFC.png "History")
+![Imagen de History](./imgCap4/Wirefrimes/Conductor/11.HistoryWFC.png "History")
 
 ***Nota:** El wireframe muestra el historial de los detalles de sus rutas como "passengers", "starting point", "destination", "date", "time", "number of passengers", "individual fare", "total fare", y "status".*
 
@@ -2403,9 +2428,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de soporte
+**Figura 41:** Pantalla de soporte
 
-![Imagen de Support](/imgCap4/Wirefrimes/Conductor/12.Support.WFC.png "Support")
+![Imagen de Support](./imgCap4/Wirefrimes/Conductor/12.Support.WFC.png "Support")
 
 ***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email".*
 
@@ -2416,9 +2441,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 **Vista para el estudiante (pasajero)**
 
-**Figura N:** Verificación de perfil del estudiante para acceder al rol de pasajero
+**Figura 42:** Verificación de perfil del estudiante para acceder al rol de pasajero
 
-![Imagen de Profile Verificatione](/imgCap4/Wirefrimes/Pasajero/5.ProfileVerificationWFP.png "NavegProfile Verificationtion")
+![Imagen de Profile Verificatione](./imgCap4/Wirefrimes/Pasajero/5.ProfileVerificationWFP.png "NavegProfile Verificationtion")
 
 ***Nota:** Wireframe para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "ID" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del pasajero.*
 
@@ -2426,9 +2451,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Menú principal de la página web
+**Figura 43:** Menú principal de la página web
 
-![Imagen de Home](/imgCap4/Wirefrimes/Pasajero/6.HomeWFP.png "Home")
+![Imagen de Home](./imgCap4/Wirefrimes/Pasajero/6.HomeWFP.png "Home")
 
 ***Nota:** Al acceder a la vista del pasajero, el usuario podrá navegar por las siguientes secciones: "Quotese", "History", "My Profile", "Change Password" y "Support"*
 
@@ -2436,9 +2461,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cambio de contraseña
+**Figura 44:** Pantalla de cambio de contraseña
 
-![Imagen de Change Password](/imgCap4/Wirefrimes/Pasajero/7.HomeChangePasswordWFP.png "Change Password")
+![Imagen de Change Password](./imgCap4/Wirefrimes/Pasajero/7.HomeChangePasswordWFP.png "Change Password")
 
 ***Nota:** Wireframe correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura*
 
@@ -2446,9 +2471,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del perfil del usuario
+**Figura 45:** Pantalla del perfil del usuario
 
-![Imagen de My Profile](/imgCap4/Wirefrimes/Pasajero/8.HomeMyProfileWFP.png "My Profile")
+![Imagen de My Profile](./imgCap4/Wirefrimes/Pasajero/8.HomeMyProfileWFP.png "My Profile")
 
 ***Nota:** Wireframe correspondiente a la funcionalidad de modificación del perfil del usuario. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "My Profile", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2456,9 +2481,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cotización 
+**Figura 46:** Pantalla de cotización 
 
-![Imagen de Quotes](/imgCap4/Wirefrimes/Pasajero/9.QuotesWFP.png "Quotes")
+![Imagen de Quotes](./imgCap4/Wirefrimes/Pasajero/9.QuotesWFP.png "Quotes")
 
 ***Nota:** El presente wireframe facilita al estudiante la búsqueda y selección de rutas disponibles, optimizando así su experiencia de navegación dentro de la plataforma.*
 
@@ -2466,9 +2491,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cotización para ver las notificaciónes
+**Figura 47:** Pantalla de cotización para ver las notificaciónes
 
-![Imagen de notifications](/imgCap4/Wirefrimes/Pasajero/10.QuotesNotificationWFP.png "Notifications")
+![Imagen de notifications](./imgCap4/Wirefrimes/Pasajero/10.QuotesNotificationWFP.png "Notifications")
 
 ***Nota:**La sección de notificaciones muestra al usuario los mensajes y actualizaciones referentes al estado de sus solicitudes de reserva, permitiéndole mantenerse informado en tiempo real.*
 
@@ -2476,9 +2501,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de reserva
+**Figura 48:** Pantalla de reserva
 
-![Imagen de Reserve](/imgCap4/Wirefrimes/Pasajero/11.QuotesReserveWFP.png " Reserve")
+![Imagen de Reserve](./imgCap4/Wirefrimes/Pasajero/11.QuotesReserveWFP.png " Reserve")
 
 ***Nota:** Wireframe que muestra la visualización de una cotización para un próximo viaje. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante "Reserve".*
 
@@ -2486,9 +2511,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de comentarios 
+**Figura 49:** Pantalla de comentarios 
 
-![Imagen de Comments](/imgCap4/Wirefrimes/Pasajero/12.QuotesCommentsWFP.png "Comments")
+![Imagen de Comments](./imgCap4/Wirefrimes/Pasajero/12.QuotesCommentsWFP.png "Comments")
 
 ***Nota:** Wireframe que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante denominada "Comments".*
 
@@ -2496,9 +2521,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del chat grupal
+**Figura 50:** Pantalla del chat grupal
 
-![Imagen de Chat Grupal](/imgCap4/Wirefrimes/Pasajero/13.ChatWFP.png "Chat Grupal")
+![Imagen de Chat Grupal](./imgCap4/Wirefrimes/Pasajero/13.ChatWFP.png "Chat Grupal")
 
 ***Nota:** El usuario puede interactuar con el chat grupal desde la secciones "Quotes", facilitando así la comunicación entre todo el grupo del viaje.*
 
@@ -2506,18 +2531,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de historial
+**Figura 51:** Pantalla de historial
 
-![Imagen de History](/imgCap4/Wirefrimes/Pasajero/14.HistoryWFP.png "History")
+![Imagen de History](./imgCap4/Wirefrimes/Pasajero/14.HistoryWFP.png "History")
 
 ***Nota:** El wireframe muestra el historial de los detalles de los viajes que realizó como "driver", "starting point", "destination", "date", "hour"y "Pay"*
 **Fuente:** Elaboración Propia
 
 ***
 
-**Figura N:** Pantalla de reporgamación
+**Figura 52:** Pantalla de reporgamación
 
-![Imagen de Reschedule](/imgCap4/Wirefrimes/Pasajero/15.HistoryRescheduleWFP.png "Reschedule")
+![Imagen de Reschedule](./imgCap4/Wirefrimes/Pasajero/15.HistoryRescheduleWFP.png "Reschedule")
 
 ***Nota:** Este wireframe corresponde a la pantalla flotante de "Reschedule" accesible desde la sección "History".*
 
@@ -2525,9 +2550,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de comentarios 
+**Figura 53:** Pantalla de comentarios 
 
-![Imagen de Comments](/imgCap4/Wirefrimes/Pasajero/16.HistoryCommentsWFP.png "Comments")
+![Imagen de Comments](./imgCap4/Wirefrimes/Pasajero/16.HistoryCommentsWFP.png "Comments")
 
 ***Nota:** Wireframe que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico, y que además permite continuar dejando mensajes relacionados con su experiencia de viaje. Esta interfaz se accede desde la sección "History" y despliega una pantalla flotante denominada "Comments"*
 
@@ -2535,9 +2560,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de soporte
+**Figura 54:** Pantalla de soporte
 
-![Imagen de Estructura de estudiante](/imgCap4/Wirefrimes/Pasajero/17.SuportWFP.png "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Wirefrimes/Pasajero/17.SuportWFP.png "Navegation")
 
 ***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email"*
 
@@ -2547,9 +2572,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-**Figura N:** User goal: Registrar con un plan
+**Figura 55:** User goal: Registrar con un plan
 
-![Imagen de Estructura de estudiante](/imgCap4/Flow1.png "Flujo")
+![Imagen de Estructura de estudiante](./imgCap4/Flow1.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -2557,9 +2582,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Registrar con un plan 
+**Figura 56:** User goal: Registrar con un plan 
 
-![Imagen de Flujo](/imgCap4/Flow2.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow2.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Conductor*
 
@@ -2567,9 +2592,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Recuperación de contraseña desde el inicio sesión
+**Figura 57:** User goal: Recuperación de contraseña desde el inicio sesión
 
-![Imagen de Flujo](/imgCap4/Flow3.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow3.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero y Conductor*
 
@@ -2577,19 +2602,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Cambio de contraseña desde home
+**Figura 58:** User goal: Cambio de contraseña desde home
 
-![Imagen de Flujo](/imgCap4/Flow4.png "Flujo")
-
-***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
-
-**Fuente:** Elaboración Propia
-
-***
-
-**Figura N:** User goal: Editar perfil desde home
-
-![Imagen de Flujo](/imgCap4/FFlow4.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow4.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
 
@@ -2597,9 +2612,19 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Navegar en el dashboard del pasajero
+**Figura 59:** User goal: Editar perfil desde home
 
-![Imagen de Flujo](/imgCap4/Flow5.png "Flujo")
+![Imagen de Flujo](./imgCap4/FFlow4.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura 60:** User goal: Navegar en el dashboard del pasajero
+
+![Imagen de Flujo](./imgCap4/Flow5.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -2607,9 +2632,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Navegar en el dashboard del conductor
+**Figura 61:** User goal: Navegar en el dashboard del conductor
 
-![Imagen de Flujo](/imgCap4/Flow6.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow6.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -2617,9 +2642,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ### 4.4.2. Web Applications Mock-ups
 
-**Figura N:** Registro en la aplicación web
+**Figura 62:** Registro en la aplicación web
 
-![Imagen de Register](/imgCap4/Mock-ups/1.RegisterMU.png "Register")
+![Imagen de Register](./imgCap4/Mock-ups/1.RegisterMU.png "Register")
 
 ***Nota:** Mock-up para registrar al nuevo usuario*
 
@@ -2627,9 +2652,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Iniciar sesión en la aplicación web
+**Figura 63:** Iniciar sesión en la aplicación web
 
-![Imagen de Login](/imgCap4/Mock-ups/2.LoginMU.png "Login")
+![Imagen de Login](./imgCap4/Mock-ups/2.LoginMU.png "Login")
 
 ***Nota:** Mock-up para ingresar con una cuenta ya existe.*
 
@@ -2637,27 +2662,27 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Mensaje para recuperar contraseña desde el login
+**Figura 64:** Mensaje para recuperar contraseña desde el login
 
-![Imagen de Message](/imgCap4/Mock-ups/3.LoginMessageMU.png "Message")
+![Imagen de Message](./imgCap4/Mock-ups/3.LoginMessageMU.png "Message")
 
 ***Nota:** El mock-up para recuperación de contraseña se activa al hacer clic en el enlace "Forgot your password?". Y se muestra una ventana flotante con instrucciones para restablecer la contraseña del usuario.*
 
 **Fuente:** Elaboración Propia
 ***
 
-**Figura N:** Recuperación de contraseña
+**Figura 65:** Recuperación de contraseña
 
-![Imagen de Password](/imgCap4/Mock-ups/4.PasswordRecovery.png "Password")
+![Imagen de Password](./imgCap4/Mock-ups/4.PasswordRecovery.png "Password")
 
 ***Nota:** Al realizar la instrucción de la ventana flotante, te dirigirá a la pantalla "Password Recovery" y el usuario tiene que ingresar su contraseña nueva.*
 
 **Fuente:** Elaboración Propia
 
 ***
-**Figura N:** Ver Planes
+**Figura 66:** Ver Planes
 
-![Imagen de Password](/imgCap4/Mock-ups/PlanMu1.png "Password")
+![Imagen de Password](./imgCap4/Mock-ups/PlanMu1.png "Password")
 
 
 ***Nota:** Se muestra la pantalla donde el usuario puede visualizar y comparar los planes disponibles antes de contratarlos.*
@@ -2665,9 +2690,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 **Fuente:** Elaboración Propia
 
 ***
-**Figura N:** Procesar tu pago para un plan
+**Figura 67:** Procesar tu pago para un plan
 
-![Imagen de Password](/imgCap4/Mock-ups/PlanM21.png "Password")
+![Imagen de Password](./imgCap4/Mock-ups/PlanM21.png "Password")
 
 
 ***Nota:**  El mock-ups representa el formulario para ingresar los datos de pago al momento de adquirir un plan.*
@@ -2678,9 +2703,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 **Vista para el estudiante y familiar del estudiante (conductor)**
 
-**Figura N:** Verificación de perfil de un estudiante para acceder al rol de conductor
+**Figura 68:** Verificación de perfil de un estudiante para acceder al rol de conductor
 
-![Imagen de Profile Verificationn](/imgCap4/Mock-ups/Conductor/17.ProfileVerificationMUC.png "Profile Verification")
+![Imagen de Profile Verificationn](./imgCap4/Mock-ups/Conductor/17.ProfileVerificationMUC.png "Profile Verification")
 
 ***Nota:**  Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "License Type" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
 
@@ -2688,18 +2713,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Verificación de perfil del familiar de un estudiante para acceder al rol de conductor
+**Figura 69:** Verificación de perfil del familiar de un estudiante para acceder al rol de conductor
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/18.ProfileVerificationMUC2.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/18.ProfileVerificationMUC2.PNG "Navegation")
 
 ***Nota:** Mock-up para el ingreso de credenciales del familiar de un estudiante. El familiar debe subir dos documentos obligatorios: "License Type" y "Student ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del conductor.*
 
 **Fuente:** Elaboración Propia
 ***
 
-**Figura N:** Menú principal de la página web
+**Figura 70:** Menú principal de la página web
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/19.HomeMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/19.HomeMUC.PNG "Navegation")
 
 ***Nota:**  Al acceder a la vista del conductor, el usuario podrá navegar por las siguientes secciones: "Home","Routes", "Requests" y "History".*
 
@@ -2707,9 +2732,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cambio de contraseña
+**Figura 71:** Pantalla de cambio de contraseña
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/20.HomeChangePasswordMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/20.HomeChangePasswordMUC.PNG "Navegation")
 
 ***Nota:** Mock-up correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2717,9 +2742,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del perfil del usuario
+**Figura 72:** Pantalla del perfil del usuario
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/21.HomeMyProfileMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/21.HomeMyProfileMUC.PNG "Navegation")
 
 ***Nota:**  El mock-up correspondiente a la funcionalidad de modificación del perfil del usuario. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "My Profile", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2727,27 +2752,27 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de rutas 
+**Figura 73:** Pantalla de rutas 
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/22.RoutesMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/22.RoutesMUC.PNG "Navegation")
 
 ***Nota:** Mock-up que muestra la interfaz donde el usuario, en su rol de conductor, puede generar los detalles de su ruta.*
 
 **Fuente:** Elaboración Propia
 ***
 
-**Figura N:** Pantalla de solicitud
+**Figura 74:** Pantalla de solicitud
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
 
 ***Nota:** En el mock-up se visualiza la sección de solicitudes y reprogramaciones, junto con tres botones que permiten la interacción del usuario. El primero permite aceptar la solicitud de viaje, el segundo añade al pasajero al chat grupal del viaje, y el tercero permite rechazar la solicitud.*
 
 **Fuente:** Elaboración Propia
 
 ***
-**Figura N:** Pantalla flotante para aceptar la solicitud del pasajero
+**Figura 75:** Pantalla flotante para aceptar la solicitud del pasajero
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/23.RequestAcceptMUC.PNG "Navegation")
 
 ***Nota:** Mock-up para aceptar la solicitud del usuario (pasajero)*
 
@@ -2755,9 +2780,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para agregar al usuario (pasajero) a un chat grupal
+**Figura 76:** Pantalla flotante para agregar al usuario (pasajero) a un chat grupal
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/29.RequestGroupMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/29.RequestGroupMUC.PNG "Navegation")
 
 ***Nota:** Mock-up para agregar al usuario (pasajero) al grupo del viaje solicitado*
 
@@ -2765,9 +2790,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para rechazar la solicitud del pasajero
+**Figura 77:** Pantalla flotante para rechazar la solicitud del pasajero
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/30.RequestRejectMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/30.RequestRejectMUC.PNG "Navegation")
 
 ***Nota:** Mock-up para rechazar la solicitud del usuario (pasajero).*
 
@@ -2775,18 +2800,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla flotante para ver los comentarios
+**Figura 78:** Pantalla flotante para ver los comentarios
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/24.RequestCommentsMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/24.RequestCommentsMUC.PNG "Navegation")
 
 ***Nota:** Mock-up que muestra la interfaz donde el conductor puede visualizar los comentarios recibidos relacionados con su calificación como prestador del servicio. Esta sección permite consultar opiniones de los pasajeros sobre su desempeño en los viajes realizados.*
 
 **Fuente:** Elaboración Propia
 ***
 
-**Figura N:** Pantalla del chat grupal
+**Figura 79:** Pantalla del chat grupal
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/25.ChatMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/25.ChatMUC.PNG "Navegation")
 
 ***Nota:** El usuario puede interactuar con el chat grupal desde las secciones "Routes" y "Requests", facilitando así la comunicación entre los participantes del viaje.*
 
@@ -2794,9 +2819,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:**  Pantalla del historial de viajes
+**Figura 80:**  Pantalla del historial de viajes
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/26.HistoryMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/26.HistoryMUC.PNG "Navegation")
 
 ***Nota:** El mock-up muestra el historial de los detalles de sus rutas como "passengers", "starting point", "destination", "date", "time", "number of passengers", "individual fare", "total fare", y "status".*
 
@@ -2804,9 +2829,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de soporte
+**Figura 81:** Pantalla de soporte
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Conductor/27.SupportMUC.PNG "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Conductor/27.SupportMUC.PNG "Navegation")
 
 ***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email".*
 
@@ -2815,9 +2840,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 **Vista para el estudiante (pasajero)**
 
-**Figura N:** Verificación de perfil del estudiante para acceder al rol de pasajero
+**Figura 82:** Verificación de perfil del estudiante para acceder al rol de pasajero
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/5.ProfileVerificationMUP.png "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/5.ProfileVerificationMUP.png "Navegation")
 
 ***Nota:** Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "ID" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del pasajero.*
 
@@ -2825,9 +2850,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Menú principal de la página web
+**Figura 83:** Menú principal de la página web
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/6.HomeMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/6.HomeMUP.PNG  "Navegation")
 
 ***Nota:** Al acceder a la vista del pasajero, el usuario podrá navegar por las siguientes secciones: "Quotese", "History", "My Profile", "Change Password" y "Support"*
 
@@ -2835,8 +2860,8 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cambio de contraseña
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/7.HomeChangePasswordMUP.PNG  "Navegation")
+**Figura 84:** Pantalla de cambio de contraseña
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/7.HomeChangePasswordMUP.PNG  "Navegation")
 
 ***Nota:**  Mock-up correspondiente a la funcionalidad de modificación de contraseña. El acceso a esta opción se realiza desde la sección "Home", navegando hacia "Change Password", donde el usuario puede actualizar sus credenciales de acceso de forma segura.*
 
@@ -2844,9 +2869,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Verificación de perfil del estudiante para acceder al rol de pasajero
+**Figura 85:** Verificación de perfil del estudiante para acceder al rol de pasajero
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/8.HomeMyProfileMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/8.HomeMyProfileMUP.PNG  "Navegation")
 
 ***Nota:**  Mock-up para el ingreso de credenciales del estudiante. El estudiante debe subir dos documentos obligatorios: "ID" y "University ID". Una vez validados, se le otorgará el permiso correspondiente para acceder a la vista del pasajero.*
 
@@ -2854,9 +2879,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de cotización
+**Figura 86:** Pantalla de cotización
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/9.QuotesMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/9.QuotesMUP.PNG  "Navegation")
 
 ***Nota:** El presente Mock-up facilita al estudiante la búsqueda y selección de rutas disponibles, optimizando así su experiencia de navegación dentro de la plataforma.*
 
@@ -2864,8 +2889,8 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de reserva
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/10.QuotesReserveMUP.PNG  "Navegation")
+**Figura 87:** Pantalla de reserva
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/10.QuotesReserveMUP.PNG  "Navegation")
 
 ***Nota:** Mock-up que muestra la visualización de una cotización para un próximo viaje. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante "Reserve".*
 
@@ -2874,9 +2899,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 ***
 
 
-**Figura N:** Pantalla de comentarios
+**Figura 88:** Pantalla de comentarios
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/11.QuoteCommentsMUP.PNG.png "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/11.QuoteCommentsMUP.PNG.png "Navegation")
 
 ***Nota:** Mock-up que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico. Esta interfaz se accede desde la sección "Quotes" y despliega una pantalla flotante denominada "Comments".*
 
@@ -2884,9 +2909,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla del chat grupal
+**Figura 89:** Pantalla del chat grupal
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/12.ChatMUP.png  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/12.ChatMUP.png  "Navegation")
 
 ***Nota:** El usuario puede interactuar con el chat grupal desde la secciones "Quotes", facilitando así la comunicación entre todo el grupo del viaje.*
 
@@ -2894,9 +2919,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de historial
+**Figura 90:** Pantalla de historial
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/13.HistoryMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/13.HistoryMUP.PNG  "Navegation")
 
 ***Nota:** El Mock-up muestra el historial de los detalles de los viajes que realizó como "driver", "starting point", "destination", "date", "hour"y "Pay".*
 
@@ -2904,18 +2929,18 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de reporgamación
+**Figura 91:** Pantalla de reporgamación
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/14.HistoryRescheduleMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/14.HistoryRescheduleMUP.PNG  "Navegation")
 
 ***Nota:** Este Mock-up corresponde a la pantalla flotante de "Reschedule" accesible desde la sección "History".*
 
 **Fuente:** Elaboración Propia
 ***
 
-**Figura N:** Pantalla de comentarios
+**Figura 92:** Pantalla de comentarios
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/15.HistoryCommentsMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/15.HistoryCommentsMUP.PNG  "Navegation")
 
 ***Nota:**  Mock-up que muestra los comentarios enviados por los pasajeros al conductor respecto a un viaje específico, y que además permite continuar dejando mensajes relacionados con su experiencia de viaje. Esta interfaz se accede desde la sección "History" y despliega una pantalla flotante denominada "Comments".*
 
@@ -2923,9 +2948,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** Pantalla de soporte
+**Figura 93:** Pantalla de soporte
 
-![Imagen de Estructura de estudiante](/imgCap4/Mock-ups/Pasajero/16.SupportMUP.PNG  "Navegation")
+![Imagen de Estructura de estudiante](./imgCap4/Mock-ups/Pasajero/16.SupportMUP.PNG  "Navegation")
 
 ***Nota:** Desde la sección Home, el usuario puede acceder a la funcionalidad de soporte, donde tendrá las siguientes opciones: "Report a problem", "View questions", "Contact number" y "Send email".*
 
@@ -2933,9 +2958,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
-**Figura N:** User goal: Registrar con un plan
+**Figura 94:** User goal: Registrar con un plan
 
-![Imagen de Estructura de estudiante](/imgCap4/Flow7.png "Flujo")
+![Imagen de Estructura de estudiante](./imgCap4/Flow7.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -2943,9 +2968,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Registrar con un plan 
+**Figura 95:** User goal: Registrar con un plan 
 
-![Imagen de Flujo](/imgCap4/Flow8.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow8.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Conductor*
 
@@ -2953,9 +2978,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Recuperación de contraseña desde el inicio sesión
+**Figura 96:** User goal: Recuperación de contraseña desde el inicio sesión
 
-![Imagen de Flujo](/imgCap4/Flow9.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow9.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero y Conductor*
 
@@ -2963,19 +2988,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Cambio de contraseña desde home
+**Figura 97:** User goal: Cambio de contraseña desde home
 
-![Imagen de Flujo](/imgCap4/Flow10.png "Flujo")
-
-***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
-
-**Fuente:** Elaboración Propia
-
-***
-
-**Figura N:** User goal: Editar perfil desde home
-
-![Imagen de Flujo](/imgCap4/Flow11.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow10.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
 
@@ -2983,9 +2998,19 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Navegar en el dashboard del pasajero
+**Figura 98:** User goal: Editar perfil desde home
 
-![Imagen de Flujo](/imgCap4/Flow12.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow11.png "Flujo")
+
+***Nota:** Diagrama de flujo respecto al User Pasajero o Conductor*
+
+**Fuente:** Elaboración Propia
+
+***
+
+**Figura 99:** User goal: Navegar en el dashboard del pasajero
+
+![Imagen de Flujo](./imgCap4/Flow12.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -2993,9 +3018,9 @@ La implementación de un sistema de navegación jerárquico, basado en niveles g
 
 ***
 
-**Figura N:** User goal: Navegar en el dashboard del conductor
+**Figura 100:** User goal: Navegar en el dashboard del conductor
 
-![Imagen de Flujo](/imgCap4/Flow13.png "Flujo")
+![Imagen de Flujo](./imgCap4/Flow13.png "Flujo")
 
 ***Nota:** Diagrama de flujo respecto al User Pasajero*
 
@@ -3674,18 +3699,18 @@ https://asi0729-final-project.github.io/frontend/)**
 | **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://github.com/ASI0729-Final-Project/backend.git)** | feat: History component | 6c5a9ea6804989bdccc1ad32f882c7a6cdcd5b3e       | feature History component                       | 19/06/2025           |
 
 
-#### 5.2.3.5. Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5. Testing Suite Evidence for Sprint Review.**
 
 En el alcance del sprint 3 se ha desarrollado la primera versión de backend con las consultas más importantes que se releflejan en unos endpoints.
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.6. Execution Evidence for Sprint Review
 
 Para esta entrega, se desplegó la primera versión del backend.
 
 Link: **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](
 https://github.com/ASI0729-Final-Project/backend/)**
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.7. Services Documentation Evidence for Sprint Review
 
 Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el Frontend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
 
@@ -3699,7 +3724,7 @@ Servicio History: #history
 
 Servicio Maps: Location IQ (API EXTERNA)
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Software Deployment Evidence for Sprint Review
 
 El despliegue del Backend se realizó. El link de nuestro Backend  es el siguiente:
 
@@ -4218,10 +4243,148 @@ https://asi0729-final-project.github.io/frontend/)**
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**UX Heuristics & Principles Evaluation**  
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** WX54  
+**PROFESORES:** Todos  
+**AUDITOR:** TinkuyTech   
+**CLIENTE(S):** Comunidad universitaria de estudiantes conductores y pasajeros
+**SITE o APP A EVALUAR:** ÑanGo
+
+---
+
+**TAREAS A EVALUAR**
+
+**Desktop Landing Page**
+- Registro como pasajero o conductor (estudiante/familiar)
+- Header y footer funcionales
+- Información de seguridad y beneficios
+- Redirección a redes sociales
+
+**Desktop Web Application**
+- Cotizar y unirse a un viaje
+- Edición de perfil
+- Confirmar solicitud y ver historial
+- Validación de identidad y medios de pago
+
+---
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial, fácilmente superado. No requiere corrección inmediata. |
+| 2 | Problema menor. Se recomienda su resolución en próximos releases. |
+| 3 | Problema mayor. Afecta la experiencia y debe corregirse pronto. |
+| 4 | Problema crítico. Debe corregirse antes del lanzamiento. |
+
+---
+
+**TABLA RESUMEN: Landing Page**
+
+| # | Problema | Severidad | Heurística violada |
+|--|----------|------------|---------------------|
+| 1 | El texto principal no comunica claramente que familiares también pueden registrarse como conductores. | 2 | Information Architecture: Is it clear? |
+| 2 | Botón “Saber más” no tiene redirección activa. | 2 | Information Architecture: Is it usable? |
+| 3 | Poca visibilidad del contraste entre fondo blanco y texto claro. | 3 | Inclusive Design: Visual accessibility |
+| 4 | Enlaces a redes sociales se abren en la misma pestaña. | 1 | Usability: Flexibility and efficiency of use |
+
+---
+
+**TABLA RESUMEN: Web Application**
+
+| # | Problema | Severidad | Heurística violada |
+|--|----------|------------|---------------------|
+| 1 | El botón “Unirse al viaje” no muestra retroalimentación inmediata. | 3 | Usability: Visibility of system status |
+| 2 | No hay opción visible para regresar desde la confirmación de viaje. | 2 | Usability: User control and freedom |
+| 3 | Perfil del conductor no muestra validación institucional. | 2 | Information Architecture: Is it usable? |
+| 4 | Falta filtro por sede o distrito en el formulario de viaje. | 2 | Information Architecture: Is it controllable? |
+| 5 | No se incluyen atributos ARIA en formularios o botones clave. | 3 | Inclusive Design: Web Content Accessibility |
+| 6 | Al editar datos del perfil, no hay validación en tiempo real. | 3 | Usability: Error prevention |
+| 7 | El historial de viajes no permite filtrar por estado ni fecha. | 2 | Information Architecture: Is it usable? |
+| 8 | No hay feedback visual al calificar a conductor o pasajero. | 2 | Usability: Visibility of system status |
+
+---
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+**Landing Page**
+
+**PROBLEMA #1: No se indica que los familiares pueden registrarse como conductores**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture: Is it clear?  
+- **Recomendación:** Añadir una línea clara en la sección de bienvenida o Call to Action para destacar esta opción.
+
+**PROBLEMA #2: Botón “Saber más” sin funcionalidad**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture: Is it usable?  
+- **Recomendación:** Activar redirección a sección de beneficios o eliminar el botón si no se usará.
+
+**PROBLEMA #3: Contraste bajo en algunos módulos**  
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design: Visual accessibility  
+- **Recomendación:** Aumentar contraste en títulos y subtítulos para mejorar la legibilidad.
+
+**PROBLEMA #4: Redes sociales se abren en la misma pestaña**  
+- **Severidad:** 1  
+- **Heurística violada:** Usability: Flexibility and efficiency of use  
+- **Recomendación:** Configurar apertura en nueva pestaña (`target="_blank"`) para no interrumpir la navegación.
+
+---
+
+### Web Application
+
+**PROBLEMA #1: Falta de retroalimentación al unirse a un viaje**  
+- **Severidad:** 3  
+- **Heurística violada:** Usability: Visibility of system status  
+- **Recomendación:** Mostrar mensaje de éxito o alerta visual tras reservar un viaje.
+
+**PROBLEMA #2: No se puede volver atrás desde confirmación**  
+- **Severidad:** 2  
+- **Heurística violada:** Usability: User control and freedom  
+- **Recomendación:** Agregar botón “Regresar” o breadcrumb de navegación.
+
+**PROBLEMA #3: No se muestra validación en perfiles verificados**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture: Is it usable?  
+- **Recomendación:** Mostrar insignias o validaciones de correo institucional/DNI.
+
+**PROBLEMA #4: Falta de filtros por sede en viajes**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture: Is it controllable?  
+- **Recomendación:** Incluir filtro por sede o ubicación universitaria al crear o buscar viaje.
+
+**PROBLEMA #5: No hay atributos ARIA implementados**  
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design: Web Content Accessibility  
+- **Recomendación:** Agregar `aria-label`, `aria-hidden`, etc., para cumplir con estándares de accesibilidad.
+
+**PROBLEMA #6: Sin validación en tiempo real en formularios**  
+- **Severidad:** 3  
+- **Heurística violada:** Usability: Error prevention  
+- **Recomendación:** Validar campos como correo, teléfono o número de asientos al escribir, no solo al enviar.
+
+**PROBLEMA #7: Historial sin filtros ni organización por fecha o estado**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture: Is it usable?  
+- **Recomendación:** Agregar filtro por fecha, estado (pendiente, completado), o conductor.
+
+**PROBLEMA #8: No hay confirmación visual tras calificar**  
+- **Severidad:** 2  
+- **Heurística violada:** Usability: Visibility of system status  
+- **Recomendación:** Mostrar mensaje flotante o ícono tras registrar la calificación.
+
+
 ## 5.4. Video About-the-Product
 
 
-## Anexos. 
+## Anexos.
+
+**Video About-the-Team**
+https://drive.google.com/drive/folders/1hYrG21R9dbjiT7lkm1aob7Q3DZ42Y1Qm?usp=sharing
 
 **Link Figma**
 *https://www.figma.com/design/VGb5iBL3GtskGhtV5oCplx/OPEN-4344?node-id=0-1&t=f4sPtIxZx8sdwShS-1*
