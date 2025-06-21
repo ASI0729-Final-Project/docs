@@ -3618,6 +3618,120 @@ https://asi0729-final-project.github.io/frontend/)**
 
 ![Team Collaboration](./imgs/CommitsFrontEnd.JPG)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+
+---
+
+
+| **Sprint #**                        | **Sprint 2**                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                              |
+| **Date**                            | 5 de junio del 2025                                                                                                                                                                                                                                                                                                                          |
+| **Time**                            | 09:00 AM                                                                                                                                                                                                                                                                                                                                     |
+| **Location**                        | Modalidad remota (Google Meet)                                                                                                                                                                                                                                                                                                               |
+| **Prepared By**                     | Equipo GigU                                                                                                                                                                                                                                                                                                                                  |
+| **Attendees**                       | Camila, Anderson, Mariano, Jocelyn, Henry                                                                                                                                                                                                                                                                                                    |
+| **Sprint 2 Review Summary**       | En el Sprint 2 se completó el frontend, incluyendo secciones de registro, login y beneficios. El despliegue en Vercel fue exitoso y está disponible para feedback inicial.                                                                                                                                                      |
+| **Sprint 2 Retrospective Summary**| Se identificó que el manejo de datos debe mejorar.                                                                                                                                                                        |
+| **Sprint Goal & User Stories**      | **Objetivo del Sprint 3**: Desplegar la primera versión den backend con los principales bounded context.                                                                                                                                                                         |
+| **Sprint 2 Velocity**               | 24 (basado en capacidad del equipo: 6 horas/día × 4 días × 5 miembros)                                                                                                                                                                                                                                                                       |
+| **Sum of Story Points**             | 24 (asignados a las tareas prioritarias)                                                                                                                                                                                                                                                                                                     |
+
+---
+
+
+#### 5.2.3.2 Aspect Leaders and Collaborators
+
+
+| Team Member                     | GitHub Username   | Shared | Profile | Driver | Student | Route | Review | Request | IAM | Deploy | Login & Register Logic | 
+|---------------------------------|-------------------|--------------|-----------|------------------|------------|------------------|---------|------------|---------------|------------------------|-------------------------|
+| **Camila** | `camilac07` | L | C | - | - | - | - | - | - |
+| **Anderson** | `AndersonGamarraV` | - | - | L | L | L | L | - | - |
+| **Mariano** | `MarianoOblitas` | - | - | - | - | - | - | L | L |
+| **Jocelyn** | `JocyDam` | - | - | - | - | - | - | - | - |
+| **Henry** | `HenryDiaz12` | - | - | - | - | - | - | - | - | 
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+| Id     | Title                          | Task Id | Title (Task)                     | Description                                                                                                  | Estimation (Hours) | Assigned To | Status       |
+|--------|--------------------------------|---------|----------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------|-------------|--------------|
+| **US01** | Registro de nuevas cuentas     | TA-01   | Desarrollar Login Form           | Implementar un bounded donde se guarden los perfiles.                     | 4                  | Camila     | Done         |
+| **TS01** | Endpoint para registro de usuario     | TA-02   | Desarrollar request POST       | Cmplementar endpoint `/api/login` con generación de JWT.   | 5                  | Mariano     | Done         |
+| **TS02** | EndPoint Inicio de Sesiòn    | TA-03  | Crear y modificar contraseña           | Crear un CRUD dentro de los perfiles                       | 3                  | Anderson     | Done         |
+| **TS03** | Gestión de viajes              | TA-04   | Creación de rutas y solicitudes            | Implementar endpoint `/api/routes` con generación de JWT.                        | 6                  | Jocelyn    | In Progress         |
+| **TS04** | Unise a un viaje            | TA-05   | Solicitud del pasajero al conductor                |  Implementar endpoint `/api/trips/{trip_id}/reque` con generación de JWT.                            | 2                  | Henry   | In Progress          |
+| **US05** |     Integración con Servicios Externos        | TA-06   | My Profile Component             | Componente para editar campos de perfil (nombre, email, foto) con validación.                                | 4                  | Anderson    |   In Progress    |
+
+
+---
+
+**Key Details:**  
+1. **Status**: Los ítems están marcados como **Done** pues estan terminados, los **In Progress** están avanzados más no implementados en su totalidad.
+2. **Asignaciones**:  
+   - **Mariano**:Registro de usuarios (login/register/recovery).  
+   - **Anderson**: Componentes de perfil y seguridad (toolbar, change password).  
+   - **Jocelyn**: Integración de rutas y solicitudes.  
+   - **Camila**: Bounded de los perfiles.
+   - **Henry**: Integración de viajes.
+3. **Épicas cubiertas**:  
+   - Onboarding (US-L01 a US-L05).  
+   - Autenticación (US01-US04).  
+   - Gestión de Perfil (US05, US07).  
+
+**Notas:**  
+- Los user stories **US08-US12** (Segmento Conductores) y **TS03-TS05** (Gestión de Viajes) son parte del backend.  
+- Se priorizaron tareas técnicas (API) y componentes críticos (login, perfil) para el sprint.  
+
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+| **Repository**                                                                                                  | **Branch**                   | **Commit Id** | **Commit messages**              | **Commit Messages Body** | **Commit On (Date)** |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------|---------------|----------------------------------|--------------------------|----------------------|
+| **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://github.com/ASI0729-Final-Project/backend.git)** | feat: History component | 6c5a9ea6804989bdccc1ad32f882c7a6cdcd5b3e       | feature History component                       | 19/06/2025           |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En el alcance del sprint 3 se ha desarrollado la primera versión de backend con las consultas más importantes que se releflejan en unos endpoints.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para esta entrega, se desplegó la primera versión del backend.
+
+Link: **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](
+https://github.com/ASI0729-Final-Project/backend/)**
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el Frontend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
+
+Servicio Users: Beeceptor #user-api
+
+Servicio Request:Beeceptor #nango-api-request
+
+Servicio Quotes: #nango-api
+
+Servicio History: #history
+
+Servicio Maps: Location IQ (API EXTERNA)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Backend se realizó. El link de nuestro Backend  es el siguiente:
+
+Link: **[<u>https://asi0729-final-project.github.io/frontend</u>](
+https://asi0729-final-project.github.io/frontend/)**
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+![Team Collaboration](./imgs/CommitsFrontEnd.JPG)
 
 
 ### 5.2.3. Sprint 3
