@@ -3614,6 +3614,7 @@ El despliegue del Frontend Web App se realizó a través de GitHub pages. El lin
 Link: **[<u>https://asi0729-final-project.github.io/frontend</u>](
 https://asi0729-final-project.github.io/frontend/)**
 
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ![Team Collaboration](./imgs/CommitsFrontEnd.JPG)
@@ -3765,7 +3766,7 @@ https://asi0729-final-project.github.io/frontend/)**
 
 | **Repository**                                                                                                  | **Branch**                   | **Commit Id** | **Commit messages**              | **Commit Messages Body** | **Commit On (Date)** |
 |-----------------------------------------------------------------------------------------------------------------|------------------------------|---------------|----------------------------------|--------------------------|----------------------|
-| **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://github.com/ASI0729-Final-Project/backend.git)** | feat: History component | 6c5a9ea6804989bdccc1ad32f882c7a6cdcd5b3e       | feature History component                       | 19/06/2025           |
+| **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://github.com/ASI0729-Final-Project/backend.git)** | feat: History component | 6c5a9ea6804989bdccc1ad32f882c7a6cdcd5b3e       | feature History component                       | 30/06/2025           |
 
 
 #### 5.2.4.5. Testing Suite Evidence for Sprint Review.**
@@ -3775,9 +3776,9 @@ En el alcance del sprint 4 se ha desarrollado el backend con las consultas más 
 #### 5.2.4.6. Execution Evidence for Sprint Review
 
 Para esta entrega, se desplegó el backend.
-
 Link: **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)**
 
+!evidence[backend](./imgs/backend1.jpg)
 #### 5.2.4.7. Services Documentation Evidence for Sprint Review
 
 Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el backend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
@@ -3794,9 +3795,11 @@ Servicio Maps: Location IQ (API EXTERNA)
 
 #### 5.2.4.8. Software Deployment Evidence for Sprint Review
 
-El despliegue del Backend se realizó. El link de nuestro Backend es el siguiente:
+El completo el despliegue del backend. El link de nuestro Backend es el siguiente:
 
 Link: **[<u>https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/</u>](https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)**
+
+!evidence[backend](./imgs/backend2.jpg)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
