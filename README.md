@@ -4464,6 +4464,8 @@ Link: **[<u>https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites
 
 ## 5.4. Video About-the-Product
 
+**Link del Video**
+https://drive.google.com/drive/folders/1W8xPDuHqBTsfqc5OsrwCwnognZ3P7Udf?usp=sharing
 
 ## Anexos.
 
