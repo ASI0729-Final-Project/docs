@@ -3729,11 +3729,11 @@ https://asi0729-final-project.github.io/frontend/)**
 
 | Team Member                     | GitHub Username   | Routes | Roles | Profiles | Authentication | Driver Comments | Quotes | history | users | Deploy | Login & Register Logic | 
 |---------------------------------|-------------------|--------------|-----------|------------------|------------|------------------|---------|------------|---------------|------------------------|-------------------------|
-| **Camila** | `camilac07` | L | L | - | - | - | - | - | - |
-| **Anderson** | `AndersonGamarraV` | - | - | L | L | L | - | - | - |
-| **Mariano** | `MarianoOblitas` | - | - | - | - | - | L| L | - |
-| **Jocelyn** | `JocyDam` | - | - | - | - | - | - | - | L | L |
-| **Henry** | `HenryDiaz12` | - | - | - | - | - | - | - | - | L |
+| **Camila** | `camilac07` | L | L | - | - | - | - | - | - | - | - |
+| **Anderson** | `AndersonGamarraV` | - | - | L | L | L | - | - | - | - | - | 
+| **Mariano** | `MarianoOblitas` | - | - | - | - | - | L | L | - | - | - |
+| **Jocelyn** | `JocyDam` | - | - | - | - | - | - | - | L | L | - |
+| **Henry** | `HenryDiaz12` | - | - | - | - | - | - | - | - | - | L |
 
 
 #### 5.2.4.3. Sprint Backlog 4
