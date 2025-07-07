@@ -28,7 +28,7 @@
 
 | Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                                                                                                                                                                                       |
 | ------- | ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | 25/04/2025 | TinkuyTech | En esta primera entrega se han incluido los capítulos:<br />Capítulo I: Introducción <br />Capítulo II: Requirements Elicitation & Analysis<br />Capítulo III: Requirements Specification<br />Capítulo IV: Product Design<br />Capítulo V: Product Implementation, Validation & Deployment                       |
+| TF     | 30/06/2025 | TinkuyTech | En esta entrega final se ha concluido con los capítulos:<br />Capítulo I: Introducción <br />Capítulo II: Requirements Elicitation & Analysis<br />Capítulo III: Requirements Specification<br />Capítulo IV: Product Design<br />Capítulo V: Product Implementation, Validation & Deployment                       |
 
 # Student Outcomes
 
@@ -146,6 +146,16 @@ ABET – EAC - Student Outcome 1: La capacidad de identificar, formular y resolv
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
   - [5.3.1. Validación Interviews](#531-validación-interviews)
   - [5.3.2. Diseño de Entrevistas](#532-diseño-de-entrevistas)
@@ -3778,7 +3788,7 @@ En el alcance del sprint 4 se ha desarrollado el backend con las consultas más 
 Para esta entrega, se desplegó el backend.
 Link: **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)**
 
-!evidence[backend](./imgs/backend1.jpg)
+![evidencebackend](./imgs/backend1.jpg)
 #### 5.2.4.7. Services Documentation Evidence for Sprint Review
 
 Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el backend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
@@ -3799,7 +3809,7 @@ El completo el despliegue del backend. El link de nuestro Backend es el siguient
 
 Link: **[<u>https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/</u>](https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)**
 
-!evidence[backend](./imgs/backend2.jpg)
+![evidencebackend](./imgs/backend2.jpg)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
