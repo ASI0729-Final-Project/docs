@@ -4468,7 +4468,7 @@ Link: **[<u>https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites
 ## Anexos.
 
 **Video About-the-Team**
-https://drive.google.com/drive/folders/1hYrG21R9dbjiT7lkm1aob7Q3DZ42Y1Qm?usp=sharing
+https://drive.google.com/file/d/1OvM3K3_UYphCMbBfm4tf6YixmIXsGP26/view
 
 **Link Figma**
 *https://www.figma.com/design/VGb5iBL3GtskGhtV5oCplx/OPEN-4344?node-id=0-1&t=f4sPtIxZx8sdwShS-1*
