@@ -3793,13 +3793,15 @@ Link: **[<u>https://github.com/ASI0729-Final-Project/backend.git</u>](https://rg
 
 Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados para desarrollar el backend, simulando así los servicios finales de nuestro producto. Y utilizamos una API externa llamada 
 
-Servicio Users: Beeceptor #user-api
+Servicio Users: https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/users
 
-Servicio Request:Beeceptor #nango-api-request
+Servicio Request: https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/requests
 
-Servicio Quotes: #nango-api
+Servicio Quotes: https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/quotes
 
-Servicio History: #history
+Servicio History: https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/history
+
+Servicio DriverComments: https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites.net/driver-comments
 
 Servicio Maps: Location IQ (API EXTERNA)
 
