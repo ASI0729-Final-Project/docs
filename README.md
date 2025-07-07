@@ -3815,7 +3815,9 @@ Link: **[<u>https://rg-nango-app-cjhqb7hvemh8dbb2.canadacentral-01.azurewebsites
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-![Team Collaboration](./imgs/CommitsFrontEnd.JPG)
+![Team Collaboration](./imgs/sprint4.1.jpg)
+
+![Team Collaboration1](./imgs/sprint4.jpg)
 
 
 ## 5.3. Validation Interviews
